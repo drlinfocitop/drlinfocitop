@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/21-web/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
+![logo-linfocito.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/logo-linfocito.png)
 ## Biblioteca
 | Temas                                                 |
 | ----------------------------------------------------- |
@@ -26,3 +27,4 @@
 | [[21 Web 🌐/🌐📚 Religión\|🌐📚 Religión]]         |
 
 { .block-language-dataview}
+- **FREE**: [[11 Áreas ⚙/02 Biblioteca/Colecciones/Libros Gratis Legales\|Libros Gratis Legales]]
