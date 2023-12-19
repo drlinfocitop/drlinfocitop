@@ -4,12 +4,12 @@
 
 - ![cover_F.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_F.png)
 ## Libros Filosofía
-| Name                                                                           | autor                                        | editorial                                                                                    | puntuación |
-| ------------------------------------------------------------------------------ | -------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------- |
-| [[11 Áreas ⚙/02 Biblioteca/Así habló Zaratustra\|Así habló Zaratustra]]     | [[Friedrich Nietzsche\|Friedrich Nietzsche]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Vlacabo Hnos.\|Editorial Vlacabo Hnos.]] | ⭐⭐⭐        |
-| [[11 Áreas ⚙/02 Biblioteca/Ecce Homo\|Ecce Homo]]                           | [[Friedrich Nietzsche\|Friedrich Nietzsche]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alba\|Editorial Alba]]                   | ⭐⭐⭐        |
-| [[11 Áreas ⚙/02 Biblioteca/El pobre y el otro\|El pobre y el otro]]         | [[Felipe Zegarra\|Felipe Zegarra]]           | [[10 Entrada 🛒/PUCP 📔\|PUCP 📔]]                                                        | ⭐⭐⭐        |
-| [[11 Áreas ⚙/02 Biblioteca/Filosofía para médicos\|Filosofía para médicos]] | [[Mario Bunge\|Mario Bunge]]                 | [[Editorial Gedisa\|Editorial Gedisa]]                                                       | ⭐⭐⭐        |
+| Name                                                                           | Autor                                        | Editorial                                                                      |
+| ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------ |
+| [[11 Áreas ⚙/02 Biblioteca/Así habló Zaratustra\|Así habló Zaratustra]]     | [[Friedrich Nietzsche\|Friedrich Nietzsche]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Vlacabo Hnos.\|📔 Vlacabo Hnos.]] |
+| [[11 Áreas ⚙/02 Biblioteca/Ecce Homo\|Ecce Homo]]                           | [[Friedrich Nietzsche\|Friedrich Nietzsche]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alba\|📔 Alba]]                   |
+| [[11 Áreas ⚙/02 Biblioteca/El pobre y el otro\|El pobre y el otro]]         | [[Felipe Zegarra\|Felipe Zegarra]]           | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 PUCP\|📔 PUCP]]                   |
+| [[11 Áreas ⚙/02 Biblioteca/Filosofía para médicos\|Filosofía para médicos]] | [[Mario Bunge\|Mario Bunge]]                 | [[Editorial Gedisa\|Editorial Gedisa]]                                         |
 
 { .block-language-dataview}
 ## Autor - Filosofía
