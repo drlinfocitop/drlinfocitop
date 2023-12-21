@@ -2,12 +2,490 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/recomendaciones-merlin/","noteIcon":""}
 ---
 
+## Videos - La Biblioteca de Merlin
+### Recomendaciones de Libros
+- 1 - **¡Esto te volará la cabeza!** - Review de libro
+	- *Más allá de lo real* - Antología del cuento fantástico peruano del siglo XXI - Ediciones Altazor
+		- Pithecantropus erectus - Yuri Vásquez ⭐
+		- Los ojos de Luis - Raúl Quiroz Andia
+		- Los nuevos visitantes - Daniel Romero Vargas
+		- Las ruinas circulares - Pablo Nicoli
+		- Voces en el Valle Azul - Pedro Ugarte Valdivia
+		- El violinista de las montañas - Karina Pacheco
+		- Cuy de monte - Dennis Arias Chávez
+		- El paso del Nordeste - Carlos Schwalb Tola
+		- Destinatario desconocido - Jorge Rivera Rojas
+		- Paltas - Pedro Pérez del Solar
+		- Tatuaje - Sandro Bossio
+		- M.F. (Los multifuckers) - Gonzalo Málaga Ortega
+		- El bote - Luis Zúñiga
+		- Rutka o la historia de algunas flores extrañas - Yanina Fernández
+		- Conversación en el cementerio - Yelina Pulliti
+		- Redecorter - Sarko Medina
+		- Jorge Breen en la mira - John Cuéllar
+		- Nueva comedia - José Donayre Hoefken
+	- *Puntuación*: 8 /10
+- 2 - **¡Creatividad total!** - Review de libro
+	- *Crónicas marcianas* - Ray Bradbury - Editorial Minotauro - 277 páginas
+	- Conjunto de cuentos unidos por un acontecimiento, la conquista de marte
+	- Obra realizada a lo largo de la vida de Bradbury
+	- *Prólogo*: Jorge Luis Borges
+	- *Temas*: defectos humanos llevados en una conquista a otro planeta, guerra fría
+	- *Favorito*: 
+		- Ylla
+		- La tercera expedición - favorito de Borges
+		- Aunque siga brillando la luna
+		- Usher II
+		- El picnic de un millón de años - favorito de Merlin ⭐
+- 3 - **¿Tutorial para matar a un presidente?** - Review de libro
+	- *Cómo matar a un presidente* - Rolando Rojas - IEP - 179 p.
+		- Bernardo de Monteagudo - El azar y la revolución
+		- Manuel Pardo - La fortuna y el poder
+		- Luis Miguel Sánchez Cerro - Autoritarismo y conservadurismo popular
+			- Leguía muere en el Panóptico, penitenciaría donde esta actualmente el Real Plaza.
+			- Año de la Barbarie - Masacre de Trujillo
+			- Abelardo Mendoza Leyva, aprista asesino
+	- *Puntuación*: 8/10
+	- *Libro de referencia*: El secreto de los libertadores - Jorge Castro
+- 4 - **¿Podrás entender el final de este libro?** - Review de libro
+	- *2001 Una odisea en el espacio* - Arthur C. Clarke
+		- La noche primitiva
+		- T.M.A. Uno
+		- Entre planetas
+		- Abismo 
+		- Las lunas de Saturno
+		- A través de la puerta de las estrellas
+	- Película homónima de Stanley Kubrick
+	- Pertenece a la saga: Odisea espacial
+		- 2010 Odisea dos
+		- 2061 Odisea tres
+		- 3001 Odisea Final
+	- *Puntuación*: 8/10
+- 5 - **¿Nazis, incas y astronautas?** - Review de libro
+	- [[11 Áreas ⚙/02 Biblioteca/El primer peruano en el espacio\|El primer peruano en el espacio]] - [[Daniel Salvo\|Daniel Salvo]]
+		- El primer peruano en el espacio ⭐
+		- Clase de historia
+		- El agua
+		- El amante de Irene ⭐
+		- El arca
+		- El día que pasaron las naves
+		- El escritor más famoso de todos los tiempos ⭐
+		- El horror en la cueva ⭐
+		- El nombre no es importante
+		- El profundo
+		- El refugio ⭐
+		- La bestia olvidada por el tiempo ⭐
+		- La donación
+		- La hija del mar ⭐
+		- La máscara del fin del mundo
+		- La poción ⭐
+		- La raza perdida
+		- La rueda del progreso ⭐
+		- Necronomicon Peruvianis
+		- Quipucamayoc
+	- Fórmula Salvo: Empieza con una historia cotidiana y en el final te cambia la percepción, entretenida.
+	- *Puntuación*: 8/10
+- 6 - **¡El área 51 está en Perú** - Review de libro
+	- *Se vende marcianos* - José Donayre Hoefken - Muestra de relatos de ciencia ficción peruana - Ediciones Altazor - 443 p.
+	- Colección de cuentos en diversas partes del mundo por autores peruanos, 33 cuentos.
+		- El falsificador - José B. Adolph ⭐
+		- La gruta del planeta Mu - Adriana Alarco de Zadra
+		- GER - Antoanette Alza Barco ⭐
+		- Distancia telepática - César Anglas
+		- ¿Ćomo pensará un extraterrestre? - Luis Arbaiza
+		- Incidente Pevas - Paco Bardales
+		- Bajo la luz de dos soles - Beto Benza
+		- El Druib - Aland Bisso ⭐
+		- De la arquitectura biológica y sus derivaciones - Luis Bolaños
+		- El misterio de Nazca - Alberto Casado ⭐
+		- Los grises - Jorge Casilla
+		- Un rastro de humanidad - Juan José Cavero
+		- Los visitantes - Alfredo Dammert
+		- La hija de Saturno - Alejandra P. Demarini
+		- La generación perdida - Carlos Echevarría
+		- Tal vez un extraterrestre - Luis Freire
+		- Legado - José Güich
+		- La cefeida - Carlos Herrera
+		- El último cholo en Lima - L.T. Moy ⭐
+		- El primer amanecer - Juan Rivera Saavedra
+		- El Portal - Jim Rodríguez
+		- Del espacio y Macchu Picchu - Benjamin Román Abram
+		- El misterioso caso de Aurora 3 - Hans Rothgeisser
+		- Campo experimental Jeja Pata - [[Jesús Salcedo\|Jesús Salcedo]]
+		- No air - Carlos Saldívar
+		- Se venden marcianos - [[Daniel Salvo\|Daniel Salvo]] ⭐
+		- Díatreda - Jeremy Torres-Montero
+		- La casa de la rue de l'Erable - Tanya Tynjälä
+		- Yo soy Miranda Satanás - Jorge Ureta
+		- Una nueva vida en otro lugar - Horacio Vargas
+		- El llamado de Dir-je - Carlos Vera Scamarone
+		- Random - Lucho Zúñiga
+	- *Puntuación*: 8.5/10
+- 7 - **¡Catálogo de seres paranormales!** - Review de libro
+	- *Seres Fantásticos del Perú* - Ricardo Vírhuez Villafane, Johnny Yapo, Aliza Yanes - Editorial Pasacalle - 194 p.
+		- Ilustración y descripción
+		- Índice dividido por tipos de bestias
+			- Enanos
+				- Muqui - Enano de las minas
+				- Chinchilico - Enano de las montañas resguarda la plata, hace pactos (Merlín vio uno en Moquegua)
+			- Amarus
+				- Panquis - Serpiente que sale del agua
+			- Cambiantes
+				- Jarjacha - Demonio llama
+			- Gigantes
+			- Devoradores
+				- Anchancho - En ceja de selva
+			- Taitas
+			- Monstruos
+			- Degolladores
+				- Qarisiri - Sacagrasa en andes sur, ¿Pishtaco?
+			- Warmis
+				- Bruja cabeza voladora??
+			- Apus
+			- Espectros
+	- *Puntuación*: 9/10
+- 8 - **¿Y si la historia hubiera sido distinta?** - Review de libro
+	- [[11 Áreas ⚙/02 Biblioteca/Contra-Historia del Perú\|Contra-Historia del Perú]] - Ensayos de Historia política peruana - Carmen McEvoy; Martín Tanaka - Editorial Mitin
+		- Sugerencia Merlín: ¿Qué hubiera pasado si la rebelión de Juan Santos Atahualpa hubiera triunfado?
+		- Si hubiéramos sido monarquía constitucional sería Leopoldo I el rey
+		- Ensayos
+			- Jauja, capital del Perú. Si los conquistadores hubiesen preferido el Valle del Mantaro y no Lima (1534). Por José Ragas
+			- Un Inca en Sacsayhuamán. Si Túpac Amaru hubiese tomado el Cuzco (1780-1781). Por Charles Walker
+			- El Bicentenario del Imperio peruano. Si la rebelión de Pumacahua, Béjar y los hermanos Angulo hubiese triunfado (1814). Por Natalia Sobrevilla
+			- Leopoldo I, Emperador del Perú. Si se hubiese implantado el proyecto monárquico de San Martín (1821). Por Mauricio Novoa
+			- La Coalición Nacional anticipada. Si Manuel Pardo no hubiese sido asesinado (1878). Por Carmen Mc Evoy
+			- Haya Presidente. Si el APRA hubiese llegado al poder (1962-1968). Por Javier Barreda
+			- ¿Contigo hasta la muerte? Si Velasco hubiese evitado el golpe de Morales Bermúdez (1968-1977). Por Carlos León Moya
+			- El pez fuera del agua. Si Vargas Llosa hubiese derrotado a Fujimori (1990-1995). Por Martín Tanaka
+			- ¡Chino, Chino, Chino! Si el vladivideo no hubiese salido a la luz (2000-2010). Por Eduardo Dargent
+			- El cuarto fujimorismo. Si Keiko hubiese ganado las elecciones (2011). Por Carlos Cabanillas
+			- El mejor presidente de la historia. Si Humala hubiese tomado una tercera vía (2011-2016). Por Luis Davelouis
+	- Puntuación: 9/10
+- 9 - **¡Un libro que paraliza el tiempo!** - Review de libro
+	- [[11 Áreas ⚙/02 Biblioteca/Relámpago Inmóvil\|Relámpago Inmóvil]] - Pedro Ugarte Valdivia - Ediciones Altazor - 221 p.
+	- Premio Copé oro 2008
+		- Relámpago inmóvil. 
+			- Relámpago inmóvil ⭐
+			- Signos y sombras ⭐ - Sarah Hellen
+			- Viaje infinito ⭐ - Ambientado en España
+			- Voces en el Valle azul 
+			- Zafiro sobre terciopelo 
+		- Oficios y artes.
+			- El lienzo 
+			- Canción de medianoche 
+			- La escultura de los taumaturgos ⭐
+			- Piedra clave del arco iris 
+			- Reloj de arena 
+			- El templo 
+			- Vilaví
+	- Fórmula Ugarte: erudición + creatividad literaria. Esoterismo, estudio de lenguas muertes, mitología abrahámica
+	- Libro ganador Coppé (oro): La piel fría - Stuart Flores 
+		- Link: https://cultura.petroperu.com.pe/biblioteca-virtual/la-piel-fria-y-los-cuentos-ganadores-y-finalistas-de-la-xx-bienal-de-cuento-premio-cope-2018/
+- 10 - **¡Que no te engañe esta portada!** - Review de libro
+	- *Caballito siete colores* - Issac Huamán Manrique
+	- Relatos leyendas
+		- El muqui
+		- El pishtaco
+		- El diluvio
+		- El huaqueo
+	- *Blog de cuentos de Merlín*: https://elespejodemariaantonieta2.blogspot.com/
+	- Libro recomendado: Sacaojos: Crisis Social y fantasmas coloniales - Gonzalo Portocarrero 
+- 11 - **¡Un libro de cuentos fuera de lo común!** - Review de libro
+	- El hombre ilustrado - Ray Bradbury
+		- El prólogo es un cuento. Hombre que busca un tatuado, dibujos que cobran vida.
+		- Epílogo
+		- La pradera
+		- El hombre ⭐
+		- La hora cero
+	- *Puntación*: 8/10
+- 12 - **¿Vendimos ratas en 1903? ¡Perú y la peste negra!**
+	- Premio de 5 soles para casar ratas, pero hicieron criaderos obteniendo ingresos lucrativos
+	- Me vendieron productos falsos para curar la peste
+	- Se echo la culpa a estratos bajos: indios, negros y chinos
+		- En Europa se echó la culpa a los judíos
+	- 1911 Augusto Bernandino Leguía, solucionó el problema en Lima. Venenos y trampas para ratas. Medicina científica
+	- Fuente bibliográfica: http://blog.pucp.edu.pe/blog/juanluisorrego/2009/02/27/la-peste-bubonica-en-lima-1903-1/
+	- Facebook de Leguía: https://www.facebook.com/WiracochaHaRegresado
+- 13 - **¿Por qué el chifa se llama de esa manera?**
+	- Ramón Castilla: llegada de Culí - Coole
+	- Período del guano. Empleados dentro de la cocina crearon
+		- Arroz Chaufa
+		- Lomo saltado, "lomo sobretodo"
+	- Se ubicaron en la calle Capón, donde se capaba a los animales
+	- Región cantonesa, Sillao en arroz, el arroz frito no lo lleva
+	- Azúcar y limón al té. modificación
+	- Se gritaba "chi fán", ven a comer arroz - ven a comer
+		- Igual que Beef Steak - Bisteck
+		- 
+- 14 - **¡Insólito! ¿Eran las panaderías prisiones durante el virreinato peruano?**
+	- Delitos pan de cada día
+	- *Libro*: Denle duro que no siente - Carlos Aguirre
+		- Manuel Chenet apuñaló a 2 amigos suyos, escalvos. El calabozo era mejor que una panadería.
+	- Panadería y hacendado que no podía adiestra a su esclavo, era sometido a humillaciones y violencia.
+		- Mano de obra gratuita
+	- Eran comunes los motines y también perdían la cordura
+	- 1856: (Ramón Castilla) se construye la primera penitenciaría a cargo de Paz Soldán.
+- 15 - **¿El sueño de San Martín nunca ocurrió? | Cómo Valdelomar nos ha troleado hace más de 100 años.**
+	- 1820 - Expedición libertadora. Parihuanas. 
+	- No hay palmeras en Paracas. (:O)
+	- Abraham Valdelomar. Dandi, Palais concert (ripley), opiomano
+	- Grecia atribuye su origen a la guerra de Troya
+	- Roma, la historia de Rómulo y Remo.
+	- Incas, Manco Cápac y Mama Ocllo
+- 16 - **¡El manto de los Incas! | Breve historia de la "Lliclla"**
+	- Origen: Nazca, Paraca, Incas
+	- Pedro Cieza de León: Manta sobre
+	- Huamán Poma de Ayala: composición como alas de mariposas
+	- En un inicio uso de los indígenas, transporta niños y cubre del frío.
+	- Representa a la mujer del Ande: Luchadora, infatigable y responsable
+- 17 - **¿Por qué le decimos "Quaker" a la avena? | Breve historia del "Quaker"**
+	- Protestantes, Ingleses seguidores de Lutero
+		- María I, la sanguinaria. Quería regresar al cristianismo. Los migrantes llegaron a Norteamérica creando 13 colonias.
+			- Evangélicos
+			- Adventistas
+			- Mormones
+			- Evangélicos
+			- Testigos de Jehová
+			- Sociedad religiosa de los amigos. Los que tiemblan ante Dios. "Quaker" -> quakeros
+				- Pueden llegar a Dios sin intermediarios. Justos y de buen trato. Sencillez y trabajo.
+	- A fines del siglo XIX. Henry Parsons Crowell compra el molino de avena a quakeros. Asociado a las caracteristicas positivas de los quakeros.
+- 18 - **Resolviendo el examen de admisión UNMSM 2020 - I Todo HP y HU**
+	- Corvea - Trabajo gratuito de los campesinos a los señores feudales
+		- Labratores: campesinos libres y siervos de la gleba.
+		- Feudos: sistemas cerrados - autosuficientes
+	- Mnemotecnia - Chapa la mona de la antigua chichi- Horizontes e intermedios del Perú
+		- Período Formativo - Sechín
+	- Caída del Tahuantinsuyo: 
+		- Guerra civil. Cuzco y Quito
+		- Enfermedades que diezmaron a los Incas. Tesis de Noble David Cook
+	- Independencia: 
+		- Liberales: vida republicana, participación de la ciudadanía: parlamento
+		- Conservadores: iglesia católica, poder centralizado: ejecutivo 
+	- Hunos (bárbaros que casan otros bárbaros).
+		- Visigodos: aliados contra los enemigos de Roma y su lucha por el poder. Federati
+	- Cruzadas: reactivación del comercio mediterráneo con Oriente. *7-1* musulmanes - cristianos
+	- Antisuyo limitaban con la región Sacha (sacharunas - hombres de la floresta). No se conquisto por la no centralización, la densa vegetación y la dificultad en la comunicación.
+		- Geografía determina la dificultad de conquista
+			- Napoleón en Rusia
+			- Hitler y la URSS - Invierno
+			- Vietnam - Selva Viet Cong
+			- Revolución cubana - Cierra maestra, lugar de espesura, Batista
+			- Gran Pajonal. Juan Santos Atahualpa, revelión en la selva
+			- Andrés Avelino Cáceres, guerra con Chile en la Sierra, soroche y terreno agreste.
+	- Rufino Echenique, escándalo de la consolidación de la deuda. Ministro cabecilla de los consolidados "gratitud de los gallinazos", ave de rapiña. 
+		- Ramón Castilla, ley de consolidación
+		- Rufino, se hace efectiva. Falsifican documento, hasta la firma de Simón Bolívar. http://blog.pucp.edu.pe/blog/juanluisorrego/2008/08/14/la-era-del-guano-la-consolidacion-de-la-deuda-interna/
+	- La conquista y las enfermedades provocaron una catástrofe demográfica de la población indígena, en particular de la costa peruana, en el periodo colonial y virreinal siglo XVI-XIX.
+	- Siglo de Pericles
+		- Antes: Guerras médicas (300's)
+		- Luego: Guerra del Peloponeso.
+- 19 - **¿Es autónoma la UNMSM? | Breve historia de la autonomía universitaria**
+- 20 - **5 cosas que no sabía de Marín Vizcarra**
+- 21 - **¿Qué está pasando en Chile?**
+- 22 - **¿Cómo surgió Halloween? | Breve historia del Halloween**
+- 23 - **¿El guasón es una profecía? Análisis de la película "El Guasón"**
+- 24 - **¡5 cosas que no sabías de PPK!**
+- 25 - **¡4 razones para leer odisea en el espacio! + ¡Sorteo!**
+- 26 - **El día en que humillaron ante cámaras a un ex presidente de EEUU - Caso Watergate: Frost vs Nixon**
+- 27 - **El tesoro de Catalina Huanca ¿está en Lima?**
+- 28 - **¿Por qué la gente temió la llegada del año 2000?**
+- 29 - **¿Qué está pasando entre EEUU e Irán? | Entérate toda la historia aquí.**
+- 30 - **¿Por qué EEUU no quiere salir de Irak? | Entérate de toda la historia en 10 minutos**
+- 31 - **Entrevista a Manuel Raya + Sorteo**
+- 32 - **¿Por qué ponen cruces en los cerros? + ¡Nuevo sorteo!**
+- 33 - **Resolviendo preguntas de Historia | CEPRE UNMSM 2020**
+- 34 - **La enfermedad que arrasó Perú en el siglo XVI**
+- 35 - **Resolución UNMSM 2019 | Historia HP-HU + Consejo para postulantes**
+- 36 - **5 diferencias entre el coronavirus y la peste negra del siglo XIV**
+- 37 - **¿Cómo surgieron los illuminati?**
+- 38 - **¿Por qué bailan con un ataúd? | Breve historia de la muerte**
+- 39 - **¡La película que enfureció a la iglesia católica!**
+- 40 - **¡5 consejos definitos para leer PDF! | Tutorial de cuarentena**
+- 41 - **1988: el año que un monstruo "sacaojos" llegó a Lima**
+- 42 - **¿Existieron pandilleros en la Antigua Roma?**
+- 43 - **3 historias fantásticas sobre el "supay" o demonio andino**
+- 44 - **¿Cómo surgió el pollo a la brasa? | Breve historia del pollo a la brasa.**
+- 45 - **¿Qué está pasando en EEUU? | Explicación detallada.**
+- 46 - **¿Por qué tanta gente odia el 5G? | El efecto Dunning-Krugger**
+- 47 - **¡Consigue libros originales a 5 soles! | El video que los vendedores de libros no quieren que veas.**
+- 48 - **¡El monstruo marino de Cañete en 1790! | La misteriosa carta en el Mercurio Peruano de 1791.**
+- 49 - **¿No mintieron con el nombre de Atahualpa? | Desmitiendo un "fake" conocido en Facebook...**
+- 50 - **¿Por qué Bugs Bunny quiere que compartas todo a la fuerza? | La historia detrás del meme y la URSS.**
+- 51 - **¿Puede Edge cambiar la historia de la humanidad? | La historia detrás del meme.**
+- 52 - **¿Hubo gigantes en el Perú? | La extraña carta del Mercurio Peruano en 1792.**
+- 53 - **¿Poner más canales culturales en la TV solucionaría algo? | Hagamos mea culpa...**
+- 54 - **¡10 cosas que no sabías la independencia del Perú! | ¿Un huevo valía más que un collar de oro?**
+- 55 - **💀¿Un ejército fantasma en la segunda guerra mundial? 💥**
+- 56 - **👑 ¿Por qué aún existen los reyes en el mundo? 👑**
+- 57 - **😰 El traidor que cambió el mundo en 1815 😰 | Talleyrand y el Among us más grande de la historia.**
+- 56 - **🐻 ¿Por qué le decimos "teddy" a los osos de peluche? | La huelga de 1902 y el oso más famoso del mundo 🌍**
+- 57 - **¿HUGOX CHUGOX IRÁ A PRISIÓN? | ¿Qué hizo bien y qué hizo mal? (Opinión)**
+- 58 - **😨¿EL SEÑOR DE LOS MILAGROS ES EN REALIDAD EL DIOS PACHACAMAC? | Historia de un curioso sincretismo**
+- 59 - **😰¿EL REAL PLAZA FUE UNA PRISIÓN? | De casi 100 años de prisión a Centro Comercial 🙀**
+- 60 - **🌄 ¿POR QUÉ EXISTEN LOS CONOS EN LIMA? | Una migración increíble... 🌄**
+- 61 - **🍅 ¿CÓMO SURGE LA CALABAZA DE HALLOWEEN? | La gran hambruna irlandesa de 1845 y Halloween 💀**
+- 62 - **⚡¿CÓMO LA SEGUNDA GUERRA MUNDIAL "CREÓ" LA ADOLESCENCIA? | El nacimiento de la identidad juvenil.**
+- 63 - **😰 Vacaron a Vizcarra... ¿Y ahora qué pasará? | Historia de las vacancias en el Perú**
+- 64 - **😡 ¿Sirve de algo protestar? | Veamos qué dice la Historia...**
+- 65 - **📕 ¿UNA NUEVA CONSTITUCIÓN LUEGO DE UN GOBIERNO AUTORITARIO? | El caso de la constitución de 1979**
+- 66 - **😨 ¿QUÉ PASARÍA SI EL PUEBLO SE GOBERNARA A SÍ MISMO? | El extraño caso de la Comuna de Paris de 1871**
+- 67 - **📕 ¿QUIERES PUBLICITAR TU LIBRO? | Entra a este video sin miedo**
+- 68 - **🌍 HOMBRE VS GEOGRAFÍA | 5 veces en la Historia en la que el hombre transformó su entorno.**
+- 69 - **😻 HISTORIA DE LA BELLEZA | ¿Pudimos ser bellos en otra época?**
+- 70 - **🙀 TOP 5 MISTERIOS DE LA HISTORIA DEL PERÚ | ¿Realmente todo se ha descubierto?**
+- 71 - **⏰ 5 COSAS QUE NO SABÍAS SOBRE LA EDAD MEDIA | ¿Realmente fue una "Edad Oscura"?**
+- 72 - **1900: EL AÑO EN QUE LOS JÓVENES QUISIERON CAMBIAR EL PERÚ | ¿Somos la Generación del Bicentenario?**
+- 73 - **😖¿CÓMO RECIBIERON EL AÑO MIL? | ¿Es cierto lo del temor colectivo a la segunda venida de Cristo?😖**
+- 74 - **🎥 ¿CÓMO APARECIÓ EL CINE EN EL PERÚ? | Breve historia del cine peruano. 🎥**
+- 75 - **🚨 HISTORIA DE LA LOCURA EN EL PERÚ | ¿Cómo apareció el manicomio en Lima?**
+- 76 - **🍖 ¿QUÉ SE COMÍA EN PERÚ ANTES DE LA LLEGADA DE LOS ESPAÑOLES? | Breve historia de la cocina peruana**
+- 77 - **😾 ¿POR QUÉ MATARON GATOS EN 1730? | La gran matanza de gatos en calle Saint-Séverin de París**
+- 78 - **😨 ¡5 MISTERIOS DE LA HISTORIA! | ¿Hitler buscó la lanza que atravesó a Jesús?**
+- 79 - **🏰 ¿LIMA TUVO UNA DEFENSA CONTRA PIRATAS DURANTE EL VIRREINATO? | La historia de la Muralla de Lima.**
+- 80 - **😨 ¿LOS CUENTOS DE DISNEY ERAN ORIGINALMENTE VIOLENTOS? | Los cuentos para niños al descubierto.**
+- 81 - **😍 HISTORIA DEL AMOR | ¿Hemos amado igual durante toda la Historia?**
+- 82 - **😾 ASÍ SE DESPERDICIÓ EL GUANO EN EL PERÚ... | ¿El primer caso de corrupción masiva en el Perú?**
+- 83 - **🍝 LA COMIDA DURANTE EL VIRREINATO | ¿Solo se comía dos veces al día?**
+- 84 - **🙊 LA MASONERÍA EN EL PERÚ | ¿Quiénes son realmente los masones?**
+- 85 - **🙋 ¿CÓMO ERA LA VIDA COTIDIANA DE UNA MUJER HACE 200 AÑOS EN PERÚ? | Especial por el Día de la Mujer**
+- 86 - **🔥 ASÍ SE HIZO LA BOMBA ATÓMICA | ¿Los nazis quisieron hacerla primero?**
+- 87 - **✨ 5 TRUCOS PARA APRENDER HISTORIA | ¿Podemos ser autodidactas?**
+- 88 - **🐭 ¿POR QUÉ LE TEMEMOS A LAS ELECCIONES? | Historia de las elecciones en el Perú**
+- 89 - **🌵 OTRA PELÍCULA QUE ENFURECIÓ A VARIAS RELIGIONES | 5 Razones para verla esta semana**
+- 90 - **😱 TOP 6 PREGUNTAS SOBRE LA INDEPENDENCIA DEL PERÚ | ¿Hubo un etnocidio blanco?**
+- 91 - **😳 ¿VALE LA PENA VER "EL ÚLTIMO BASTIÓN? | Crítica desde la Historia.**
+- 92 - **🙌 TOP 6 LIBROS DE HISTORIA PARA ENTENDER EL PERÚ | ¿Las primeras prisiones fueron las panaderías?**
+- 93 - **🙆 ¿QUÉ PASARÍA SI KEIKO FUERA PRESIDENTE DEL PERÚ? | El azar en la Historia**
+- 94 - **😥 EL MIEDO EN LA HISTORIA DE LAS ELECCIONES | ¿Desde cuando le tememos al cambio?**
+- 95 - **😿 ¿CUÁL ES EL PROBLEMA CON ISRAEL? | Historia del conflicto Árabe-Israelí.**
+- 96 - **🎉 ESPECIAL 100K | 50 COSAS sobre La Biblioteca de Merlin**
+- 97 - **1746: EL AÑO DE LA DESTRUCCIÓN DE LIMA | ¿Las mujeres tuvieron la culpa?**
+- 98 - **🙋 ¿CÓMO NOS ENSEÑARON HISTORIA EN LAS ESCUELAS? | ¿Alteraron los acontecimientos?**
+- 99 - **😢 ¿EN QUÉ FALLAMOS COMO REPÚBLICA? | 5 errores del pasado que están presentes hasta hoy.**
+- 100 - **❌¿POR QUÉ COREA ESTÁ DIVIDIDA? | La Historia completa aquí.**
+- 101 - **🌓 ¿ESTÁ VOLVIENDO EL FASCISMO? | ¿Es lo mismo que la "ultraderecha"?**
+- 102 - **1836: EL AÑO EN QUE PERÚ QUISO SER POTENCIA MUNDIAL | La Confederación Perú-Boliviana**
+- 103 - **¿Y SI NO NOS INDEPENDIZÁBAMOS? | Un rey para el Perú.**
+- 104 - **🎂 ¿CÓMO SE CELEBRÓ LOS 100 AÑOS DE INDEPENDENCIA? | Perú y los regalos del Centenario.**
+- 105 - **🙎 ¿QUIÉN FUE LA MARISCALA? | La temible esposa de Agustín Gamarra...**
+- 106 - **😨 TOP 5 MISTERIOS DE LA HISTORIA DEL PERÚ | Vol II | ¿Hay una ciudad sumergida en Tacna?**
+- 107 - **🙀 ¿PODRÍAMOS SEGUIR ADORANDO DIOSES INCAS? | ... y si Cristo nunca llegaba a América.**
+- 108 - **🌅 HISTORIA DE LA INCA KOLA | La guerra que Coca Cola no pudo ganar...**
+- 109 - **❓ ¿QUÉ ESTÁ PASANDO EN AFGANISTÁN? | Breve historia de un conflicto interminable.**
+- 110 - **🍝 ¿CÓMO SURGIERON LOS RESTAURANTES? | ¿La revolución francesa dejó desempleados a los cocineros?**
+- 111 - **😡 EL "RENCOR" ENTRE PERÚ Y CHILE | Toda la historia de esa rivalidad aquí.**
+- 112 - **🍺 HISTORIA DE LA CERVEZA | ¿Fue producida por monjes?**
+- 113 - **📚 TOP 5 LUGARES PARA CONSEGUIR LIBROS BARATOS EN LIMA**
+- 114 - **😳 TOP 5 ACONTECIMIENTOS ABSURDOS EN LA HISTORIA | ¿Un baño definió la historia de Francia?**
+- 115 - **🎮 HISTORIA DE LOS VIDEOJUEGOS | ¿Sony vs Nintendo?**
+- 116 - **🍪 ¿POR QUÉ NOS GUSTA EL JUEGO DEL CALAMAR?**
+- 117 - **😨 LA MUJER QUE SE CONVIRTIÓ EN UN PAPA | ¿Qué tuvo que ver Lutero en esto?**
+- 118 - **🎊 HISTORIA DE LA MÚSICA CRIOLLA | ¿Europa vs Perú?**
+- 119 - **👻 TRES LEYENDAS DE TERROR ANDINAS | Especial de Halloween**
+- 120 - **😞 ¿CÓMO RECONOCER UN LIBRO PIRATA? | ¡Que no te engañen nunca más!**
+- 121 - **😰 ¿PUEDES RESOLVER ESTE TEST DE HISTORIA? | ¡Ponte a prueba!**
+- 122 -**💀 EL DÍA QUE MURIÓ VELASCO**
+- 123 - **🤡 HISTORIA DE LOS CÓMICOS AMBULANTES | Breve historia de la risa en el Perú**
+- 124 - **😱 ¿Y SI MARIO VARGAS LLOSA GANABA LAS ELECCIONES?**
+- 125 - **😱 ¿SINAMOS PUDO EVITAR LA APARICIÓN DE SENDERO LUMINOSO? | Breve historia de SINAMOS**
+- 126 - **😨 ¿QUÉ HUBIERA PASADO SI NUNCA SE ENCONTRABAN LOS VLADIVIDEOS?**
+- 127 - **🎄 ¿LA NAVIDAD DETUVO LA PRIMERA GUERRA MUNDIAL? | Navidad en las trincheras.**
+- 128 - **🎉 ¿POR QUÉ CELEBRAMOS EL AÑO NUEVO? | Explicación histórica.**
+- 129 - **LA PLAZA DE ARMAS DE LIMA Y SU "PERTURBADORA" HISTORIA | ¿Fantasmas en Palacio de Gobierno?**
+- 130 - **⛲ ¿DÓNDE ESTÁ LA ATLÁNTIDA?**
+- 131 - **🚩 ¿CÓMO PERÚ SUPERÓ LA PEOR CRISIS POLÍTICA DE SU HISTORIA? | La temible Anarquía Militar.**
+- 132 - **😡 LA PESADILLA DE LOS INCAS | Los temibles Chancas**
+- 133 - **😵 ¿CÓMO ES HABER ESTUDIADO LA CARRERA DE HISTORIA? | Mitos y verdades de los historiadores.**
+- 134 - **😨 ¿Existe el NUEVO ORDEN MUNDIAL? | Sí, perooo...**
+- 135 - **🌋 DOS HISTORIAS PERTURBADORAS DE AREQUIPA | Especial desde Arequipa**
+- 136 - **⚽ Historia del FÚTBOL en el Perú | Así fueron sus orígenes...**
+- 137 - **😔 1881: EL AÑO EN QUE CHILE TOMÓ LIMA**
+- 138 - **😰 LA HUELGA MÁS GRANDE DE LA HISTORIA DEL PERÚ 😰**
+- 139 - **😵 DESMINTIENDO MITOS COMUNES EN LA HISTORIA 😵 | ¿Nos contaron mal algunas cosas?**
+- 140 - **😥 ¿QUÉ PASARÁ CUANDO LA REINA ISABEL II HAYA MU3RT0? 😥 | ¿La República de Inglaterra?**
+- 141 - **🚗 HISTORIA DEL TRANSPORTE EN EL PERÚ 🚗 | ¿Perú rechazó producir automóviles?**
+- 142 - **🔥 ¿CÓMO ENTRENABAN EN ESPARTA? 🔥 | Así entrenó Kratos...**
+- 143 - **😱 MISTERIOS EN LA CONQUISTA DE AMÉRICA 😱 | ¿Cómo nos percibieron los europeos?**
+- 144 - **🙀 ¡50 DATOS HISTÓRICOS QUE NO SABÍAS HACE 5 MINUTOS! 🙀**
+- 145 - **💩 ¿LIMA APESTABA EN EL SIGLO XVII? | La otra cara de la Lima virreinal...**
+- 146 - **🙀 ¿DÓNDE ESTÁN LAS MOMIAS INCAS? | ¿Por qué no están en museos?**
+- 147 - **😱 ¿Y si GOD OF WAR tuviera temática INCA?  | Kratos vs Ayar Cachi**
+- 148 -**😳 ¿CÓMO SURGIERON LOS VENDEDORES AMBULANTES? | ¿Incas vendedores ambulantes?**
+- 149 - **💜 HISTORIA DE LA MAZAMORRA MORADA 💜**
+- 150 - **💰 SOY VENDEDOR DE LIBROS POR UN DÍA 💰 | Un día como librero...**
+- 151 - **😱 12 TRUCOS PARA SACAR VENTAJA COMPRANDO LIBROS 😱 Aplícalo en la FIL**
+- 152 - **👮 ¿CÓMO FUE EL GOBIERNO DE MORALES BERMÚDEZ? 👮**
+- 153 - **😪 ¿LIMA NO QUISO LA INDEPENDENCIA? 😪 | Así fue el día que San Martin llegó a Lima...**
+- 154 - **😱 ¡¡¡ COMPRAMOS EL LIBRO MÁS CARO DE LA FIL 2022 !!! 😱**
+- 155 - **⭐¡¿DÓNDE ESTÁ EL ORO DE LOS INCAS?!⭐**
+- 156 - **🍚 HISTORIA DEL ARROZ CHAUFA 🍚 …y el Aeropuerto.**
+- 157 - **🌸 ¿CÓMO LLEGARON LOS JAPONESES AL PERÚ? 🌸**
+- 158 - **😜 5 ANÉCDOTAS DE PERSONAJES HISTÓRICOS PERUANOS 😜**
+- 159 - **😨 ¡5 ERRORES COMUNES AL ESTUDIAR HISTORIA! | Que no te sucedan...**
+- 160 - **🍣 HISTORIA DEL CEVICHE 🍣 ¿Creación peruana?**
+- 161 - **🙊 ¿DÓNDE ESTÁ LA PÁGINA ONCE? 🙊 | ¿Existió realmente?**
+- 162 - **🌄 ¿CÓMO HICIERON MACHU PICHU? 🌄**
+- 163 - **🎥 ¿QUÉ PELÍCULAS HISTÓRICAS PERUANAS DEBERÍAN EXISTIR? 🎥**
+- 164 - **😨 ¿NECESITAMOS UN DICTADOR? | Análisis desde la historia.**
+- 165 - **👻 EL "TERRIBLE RITUAL" EN EL CEMENTERIO DE LIMA DE 1917 👻 ¿Mariátegui tuvo algo que ver?**
+- 166 - **🙋 ¿QUÉ ES LA DERECHA Y LA IZQUIERDA POLÍTICA? | ¿Siguen vigentes?**
+- 167 - **😱 ¡MISTERIOS DE TACNA! | ¿Un tesoro en la plaza?**
+- 168 - **😨 ¿Dónde aprender LA VERDADERA HISTORIA? 😨**
+- 168 - **🍚 HISTORIA DEL ARROZ | ¿Por qué nos gusta tanto?**
+- 169 - **🌊 ICEBERG DE LA HISTORIA DEL PERÚ 🌊**
+- 170 - **😥 1536: EL AÑO QUE RODEARON LIMA 😥**
+- 171 - **😱 ¿Y SI EL PERÚ SE SEPARARA? | Loreto lo intentó... 😱**
+- 172 - **🙏 ¿Cuándo será el FIN DEL MUNDO? | Los persas quizá lo saben... 🙏**
+- 173 - **😨 HISTORIA DE LOS GOLPES DE ESTADO EN EL PERÚ 😨**
+- 174 - **😨 ¿Y SI PUNO SE REBELA? | Pasó en 1866... y fue aterrador 😨**
+- 175 - **😵 ¿CUANTAS VECES TOMARON LIMA? 😵 | Veamos qué dice la historia...**
+- 176 - **😭 ¡SAQUEARON LA CASA DE UN PRESIDENTE 😭 | El saqueo de la casa de Leguía.**
+- 177 - **😨 ¿QUÉ ES UNA DICTADURA? | Aprende a identificar una...**
+- 178 - **🌈 ¿Debería existir la WIPHALA? 🌈**
+- 179 - **🍟 Historia de la Papa 🍟 | ¿Era un alimento de brujas?**
+- 180 - **😵 DESMINTIENDO MITOS DE LA HISTORIA DEL PERÚ 😵 | ¿Nos enseñaron mal estas cosas?**
+- 181 - **👑 ¿DÓNDE ESTÁ EL ORO DE PACHACAMAC? 👑 | ¿Fue saqueado varias veces?**
+- 182 - **😷 ¿LOS INCAS SE ENFERMABAN? 😷 Medicina incaica.**
+- 183 - **🔥 LA VENGANZA DE LA TIA JULIA 🔥| Vargas Llosa vs Jaime Bayly**
+- 184 - **🍵 HISTORIA DEL CALDO DE GALLINA 🍵 | ¿Por qué es tan exitoso?**
+- 185 - **🙏¿Por qué seguimos creyendo en un DIOS?🙏 | Respuesta desde la historia.**
+- 186 - **😨 ¿UNA NUEVA VERSIÓN DE LA CONQUISTA DE LOS INCAS? 😨| Un macrabro hallazgo...**
+- 187 - **🐶 LOS PERROS EN LA CONQUISTA DEL PERÚ 🐶 | Pesadilla de Incas y Aztecas...**
+- 188 - **😨 ¿SE FALSIFICAN FUENTES HISTÓRICAS? 😨| El difícil caso de los Documentos Miccinelli.**
+- 189 - **😥 ¡5 LUGARES QUE YA NO EXISTEN EN LIMA! 😥 | ¿Recuerdas alguno?**
+- 190 - **💀 ¿FRANCISCO PIZARRO FUE MOMIFICADO? 💀 | Historia de un engaño.**
+- 191 - **🐟 HISTORIA DE LAS SIRENAS 🐟 | ¿Siempre se vieron así?**
+- 192 - **😨 LA PROFECÍA QUE ACABÓ CON LOS INCAS 😨 | ¿Les advirtieron lo que pasaría?**
+- 193 - **🍢 HISTORIA DE LOS ANTICUCHOS 🍢 | ...y la pancita.**
+- 194 - **⭐ EL LUGAR MÁS SAGRADO DE LOS INCAS ⭐ ... y no, no es Machupicchu.**
+- 195 - **😨 ASÍ FUE EL ÚLTIMO INTI RAYMI DE LOS INCAS 😨**
+- 196 - **😨 ¿EL FENÓMENO DEL NIÑO ACABO CON LOS MOCHE? 😨 | ...al parecer no fue solo eso.**
+- 197 - **🔥 MIRA ESTO PRIMERO para entender TODO Oppenheimer | Contexto histórico.**
+- 198 - **🙎 LAS MUJERES EN LA INDEPENDENCIA DEL PERÚ 🙎 | Especial de Fiestas Patrias.**
+- 199 - **😳 LIMA HACE 100 AÑOS 😳**
+- 200 - **¿LOS DIOSES ANDINOS REALMENTE HABLABAN? 😰 | Reveladores hallazgos.**
+- 201 - **😡 ASÍ SE INICIÓ LA CORRUPCIÓN EN EL PERÚ 😡 | ¿Tendrá un final?**
+- 202 - **El Pensadero de Merlin | ¿Quién soy yo?**
+- 203 - **🍸 HISTORIA DEL PISCO 🍸 | …y el Pisco Sour.**
+- 204 - **El Pensadero de Merlin | El año en que repetí el colegio.**
+- 205 - **👽 ¿LOS ALIENÍGENAS NOS AYUDARON EN LA HISTORIA? 👽 | ¿Por qué tanta gente cree eso?**
+- 206 - **El Pensadero de Merlin | "Nadie te va a mirar**
+- 207 - **🍚 HISTORIA DEL LOMO SALTADO 🍚 …y el Tacu Tacu**
+- 208 - **😵 Respondiendo comentarios de HATERS sobre HISTORIA 😵**
+- 209 - **😨 ¿Qué es REALMENTE el INCA 😨 | Últimas investigaciones...**
+- 210 - **😿 ¿CUANDO ACABARÁN LAS GUERRAS? | ¿El fin de la historia?**
+- 211 - **😨 ¿RICARDO PALMA CAZADOR DE FANTASMAS? | Especial de Halloween 😨**
+- 212 - **😱 HISTORIA DE LOS JUDÍOS EN EL PERÚ | ¿La inquisición los ejecutó? 😱**
+- 213 - **😱 ¡RESUELTO! | El misterio de los soldados desaparecidos de la Guerra con Chile 😱**
+- 214 - **😨 ¿Sabemos REALMENTE ALGO sobre los Incas? 😨**
+- 215 - **El Pensadero de Merlin | La virtud de la SOLEDAD**
+- 216 - **😨 ¿Habían DINOSAURIOS en el Perú? 😨 Sí, y muchos...**
+- 217 - **😵 MITOS COMUNES de la Edad Media 😵**
+## Merlin Fan
 
 - José Luis Remit; la nación autoritaria (Autoritarismos)
 - Inventando la nacion - François Guerra 
 - Modernidad e independencia - François Guerra
-## Merlin Fan
-
 - Civilizaciones de Ronet Binet - Incanto conquista españa
 - El espía del Inca - recomendado
 
@@ -64,6 +542,12 @@ Libro económico: editorial Mestas
 ## oTROS
 - Focault - Castigar
 ## Historia
+- Juan Luis Orrego Universidad de Lima - Historiados
+- Jorge Basadre
+- Porras
+- Varcalcel
+- José Antonio del busto
+- Hugo Ludeña Restaure - descubrió la cabeza de Pizarro (noes momia original)
 ### Historia del mundo
 Lutero
 - Guerra de los treinta años - defenestración de praga
@@ -87,20 +571,19 @@ Nadie conoce el imperio parto
 Grafomano: escribe de todo - Guillermo Sonday -Caso banchero - Sanchez cerro
 - Porque seguimos creyendo en Dios. Noa 21 lecciones de Historia
 ### Historia del Perú
-- 3 libros
-	1. Nación sociedad y estado en la historia del peru - Peter Karen
-	2. Historia del Perú contemporáneo - Marcos  Cueto y contreras
-	3. Clase estado y nación - Julio Cotler
+- **3 libros - Pack Merlin IEP**
+	1. [[11 Áreas ⚙/02 Biblioteca/Nación y Sociedad en la Historia del Perú\|Nación y Sociedad en la Historia del Perú]] - Peter Klaren - lectura fácil
+	2. [[11 Áreas ⚙/02 Biblioteca/Historia del Perú Contemporáneo\|Historia del Perú Contemporáneo]] - Marcos Cueto y Carlos Contreras - 6ta edición
+	3. [[11 Áreas ⚙/02 Biblioteca/Clases, Estado y Nación en el Perú\|Clases, Estado y Nación en el Perú]] - Julio Cotler
+- Dirección IEP: Horacio Urteaga 694 - Jesús María -Lima
 - Específicos
-	- Guerra con Chile - Mc Keboy
-	- Economia 1990 - Bonilla
+	- Guerra con Chile - McEvoy
+	- Economía 1990 - Bonilla
 	- Velazco - Zapata
 	- Basadre: prosa de abogado - 
-	- Historia de la Corrupción - Quiroz
-
-
-IEP: Horacio Urteaga 694 - Jesus María -Lima
-- iwasaki - dios aplaca tu ira virtual- iwasa
+	- [[11 Áreas ⚙/02 Biblioteca/Historia de la corrupción en el Perú\|Historia de la corrupción en el Perú]] - Quiroz
+	- [[11 Áreas ⚙/02 Biblioteca/200 años después - los escolares preguntan, los historiadores responden\|200 años después - los escolares preguntan, los historiadores responden]]
+- iwasaki - dios aplaca tu ira.  virtual
 - Mexicanidad: Octavio paz - Laberinto de la soledad. Bartra - La jaula de la melancolía
 - Peruanidad: Guillermo Nugget- Mariategui
 - Nuevos sudbitos - Uviluz (IEP) analiza al pendejo de peruano Vladimiro
@@ -110,17 +593,8 @@ IEP: Horacio Urteaga 694 - Jesus María -Lima
 	- historiografía
 	- Leer a historiadores
 - La multitud la ciudad y el campo - Jorge Basadre
-- Libro IEP: Institutos de Estudio Peruanos
-	1. Nación y sociedad de la historia del Perú - Peter F. Klarén (lectura fácil)
-	2. Historia del Perú Contemporáneo - Carlos Contreras - Marcos Cueto (6ta edición)
-	3. Clases, Estado y Nación en el Perú - Julio Cotler
 - Quiroz - corrupción Busquedad historia: histórica
 - la rebelión de Tupac amaru 3ra edición- Charles Walker | Scarlett Ophelan
-- Basadre
-- Porras
-- Varcalcel
-- Jose antonio del busto
-- Hugo Ludeña Restaure - descubrió la cabeza de pizarro (noes momia original)
 - Miedos coloniales - es saca ojos (pistacho) - Gonzalo portocarreno (sociologo)
 - Contrahistoria del Perú - Ensayos What if?
 - Arqeuologia: Julio C tello
@@ -264,7 +738,7 @@ Callejones y mansiones - Alicia del Águila
 	- La tortuga asoma la cabeza
 	- El llamado de la naturaleza
 
-## Episodios Stream
+## Episodios Live
 ### Preguntas y respuestas
 - 1 - **Novedades del canal**
 	- Bandas Favoritas:
@@ -325,7 +799,10 @@ Callejones y mansiones - Alicia del Águila
 	- Los tapados - oro del cerro
 - 46 - Especial de Halloween ✅
 - 47 - Así hice mi primer libro ✅
-- 48 - Cosas de Youtubers feat Histeria del Perú
+- 48 - **Cosas de Youtubers feat Histeria del Perú**
+- Stream Apócrifo - **¡UNBOXING DE DOS CAJAS LLENAS DE LIBROS!¿Estará el incunable?**
+	- Encuentra los populibros
+- 49 - Travesuras de colegio
 - 50 - **Anécdotas de cachinero + tips**
 	- Señora llama y dice que modere sus palabras - Merlín deja claro que el contenido de Stream no son para niños sino jóvenes
 	- Merlín narra que cuando un intelectual muere. Nadie se interesa por los libros y se regalan en la cachina
@@ -390,7 +867,21 @@ Callejones y mansiones - Alicia del Águila
 - 82 - **Un Jueves muy helado**
 	- Bebito fiufiu
 	- Audiofilo: Audiotecnica M50X, mejor calidad-precio 
-	- Merlín muere 9 veces: Bicicleta, frijoles, intoxicada, casa quemada
+	- Merlín muere 9 veces: Bicicleta, frijoles, intoxicada, casa quemada...
+- 83 - **CONSULTA MÁS TRUCOS PARA LA FIL AQUÍ**
+	- Merlín come maquis con tenedor con el Bicho
+	- Cuentos
+		- Pedro Ugarte - Relámpago Inmóvil
+		- Daniel Salvo - Primer peruano en el espacio
+		- Paul Dagmeno - El domo
+		- Almibar - Cuentos de Ciencia Ficción
+		- Tania Huerta - 
+		- Mirza Patricia Mendoza - Tenebrismo
+		- Hiztoria - Pandemoniun
+		- Victor Vich - 
+		- Jorge Ureta - 
+		- José Adulf - Mañana las ratas
+		- Editorial Altazor y ACUEDI-Revistas
 - 84 - **Anécdotas en la FIL (II Parte)**
 	- El miedo en el Perú - mejor libro de historia
 	- Nación y sociedad en la Historia del Perú
@@ -484,6 +975,7 @@ Callejones y mansiones - Alicia del Águila
 		- Colección 2 tomos - Mitología y Héroes griegos editorial Atalanta
 			- ![Pasted image 20231219020912.png|100](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231219020912.png)
 		- Atalanta - Editorial Primium
+	- Buscar Peter Burke
 - 122 - Se regalan libros mañana
 - 133 - Algo vergonzoso me pasó en la FIL ✅ 
 - 136 - **Anécdotas de entrevista**
@@ -584,8 +1076,6 @@ Callejones y mansiones - Alicia del Águila
 ### Especiales
 - SOY VENDEDOR DE LIBROS POR UN DÍA 💰 | Un día como librero
 	- 250 soles por día
-- ¡UNBOXING DE DOS CAJAS LLENAS DE LIBROS!¿Estará el incunable?
-	- Encuentra los populibros
 - San Valentín
 - Hoy es mi cumpleaños ✅
 	- ![Pasted image 20231030044819.png|100](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231030044819.png)
