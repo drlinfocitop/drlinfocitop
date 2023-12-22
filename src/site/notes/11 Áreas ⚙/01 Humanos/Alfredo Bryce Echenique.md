@@ -6,7 +6,7 @@
 ## Novela
 1. [[11 Áreas ⚙/02 Biblioteca/Un mundo para Julius\|Un mundo para Julius]] - 1970 
 	- ⚡ [[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Peruana ⭐️\|El Comercio LP]] ❌
-	- ⚡ [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]] ✅
+	- ⚡ [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]] ✅
 3. [[Tantas veces Pedro\|Tantas veces Pedro]]  - 1977
 	- ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Latinoamericana ⭐️\|El Comercio LL]]   
 	- 1977
