@@ -8,7 +8,7 @@
 - ![Pasted image 20231102064952.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102064952.png)
 ## Colección 16-17 
 1. [[11 Áreas ⚙/02 Biblioteca/Crónica de una muerte anunciada\|Crónica de una muerte anunciada]] - [[11 Áreas ⚙/01 Humanos/Gabriel García Márquez\|Gabriel García Márquez]] ❌
-	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Oveja negra\|Editorial Oveja negra]] ✅
+	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Oveja negra\|📔 Oveja negra]] ✅
 2. [[La divina comedia\|La divina comedia]] - [[Dante Alighieri\|Dante Alighieri]] 
 3. [[El Aleph\|El Aleph]] - [[11 Áreas ⚙/01 Humanos/Jorge Luis Borges\|Jorge Luis Borges]]
 4. [[11 Áreas ⚙/02 Biblioteca/El príncipe\|El príncipe]] - [[Nicolás Maquiavelo\|Nicolás Maquiavelo]]
