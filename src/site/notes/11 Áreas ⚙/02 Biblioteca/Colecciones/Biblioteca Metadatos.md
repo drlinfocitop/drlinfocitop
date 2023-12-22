@@ -3,9 +3,9 @@
 ---
 
 ## Biblioteca cine
-| embed(link(cover))                                                                                                                               | Name                                                                 | autor                      | editorial                                                                        | puntuación |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------- | ---------- |
-| <ul><li><ul><li>![[11 Áreas ⚙/02 Biblioteca/💾 Adjuntos/Pasted image 20231124021524.png\\\|Pasted image 20231124021524.png]]</li></ul></li></ul> | [[11 Áreas ⚙/02 Biblioteca/Matar un Ruiseñor\|Matar un Ruiseñor]] | [[Harper Lee\|Harper Lee]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Orbis Ventures\|📔 Orbis Ventures]] | ⭐⭐⭐        |
+| embed(link(cover))                                                                                         | Name                                                                 | autor                      | editorial                                                                        | puntuación |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------- | ---------- |
+| ![[11 Áreas ⚙/02 Biblioteca/💾 Adjuntos/Pasted image 20231124021524.png\|Pasted image 20231124021524.png]] | [[11 Áreas ⚙/02 Biblioteca/Matar un Ruiseñor\|Matar un Ruiseñor]] | [[Harper Lee\|Harper Lee]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Orbis Ventures\|📔 Orbis Ventures]] | ⭐⭐⭐        |
 
 { .block-language-dataview}
 ## Biblioteca gratuita virtual 
