@@ -14,7 +14,7 @@
 8. Isabel La Católica - Isabel I Reina - Luís Suárez
 9. Leonardo Da Vinci - Luís Racionero
 10. [[11 Áreas ⚙/02 Biblioteca/La Sonrisa De Maquiavelo\|La Sonrisa De Maquiavelo]] ✅
-11. [[11 Áreas ⚙/02 Biblioteca/Hernán Cortés, inventor De México. Volumen I\|Hernán Cortés, inventor De México. Volumen I]] ✅
+11. [[11 Áreas ⚙/02 Biblioteca/Hernán Cortés, inventor De México - Volumen I\|Hernán Cortés, inventor De México - Volumen I]] ✅
 12. [[11 Áreas ⚙/02 Biblioteca/Hernán Cortés, inventor De México - Volumen II\|Hernán Cortés, inventor De México - Volumen II]] ✅
 13. Carlos V - Joseph Pérez
 14. Miguel De Cervantes - Andrés Trapiello
