@@ -74,7 +74,7 @@
 - Aguilar
 - Akal
 - Alba
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 - [[Alianza\|Alianza]]
 - Almadia
 - [[Anagrama\|Anagrama]]
@@ -85,10 +85,10 @@
 - Cátedra
 - Crítica
 - Debolsillo
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Diana\|Editorial Diana]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Diana\|📔 Diana]]
 - [[Ediciones B\|Ediciones B]]
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Enrique Santiago Rueda\|Editorial Enrique Santiago Rueda]]
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Galaxia Gutenberg\|Editorial Galaxia Gutenberg]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Enrique Santiago Rueda\|📔 Enrique Santiago Rueda]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Galaxia Gutenberg\|📔 Galaxia Gutenberg]]
 - Gallo Nero
 - Gredos
 - Gustavo Gili
@@ -103,15 +103,15 @@
 - Paidós
 - Penguin Books
 - Phaidon
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Planeta 📔\|Planeta 📔]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Planeta\|📔 Planeta]]
 - Plaza y Janés
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Punto de lectura\|Editorial Punto de lectura]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Punto de lectura\|📔 Punto de lectura]]
 - RM
 - Sajalín
 - Salamandra
 - [[Salvat\|Salvat]]
 - Satori
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]]
 - Sexto Piso
 - Siglo XXI
 - Siruela
@@ -122,8 +122,8 @@
 - Urano
 - Valdemar
 ### Editoriales Peruanas
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial El Comercio\|El Comercio]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 El Comercio\|El Comercio]]
 - [[Fondo de Cultura Económica\|Fondo de Cultura Económica]]
 - [[Instituto de Estudios Peruanos\|Instituto de Estudios Peruanos]]
-- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Peisa\|Editorial Peisa]]
+- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Peisa\|📔 Peisa]]
 - [[Rikchay\|Rikchay]]
