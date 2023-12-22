@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/premio-cope/","noteIcon":""}
 ---
 
-
+Link: https://cultura.petroperu.com.pe/servicios/biblioteca-virtual/serie-premios-cope/cuento/
 ## Cuento
 - 1979
 	1. [[La Muerte del Dr. Octavio Aguilar\|La Muerte del Dr. Octavio Aguilar]] - Washington Delgado
