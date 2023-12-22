@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/21-web/literatura/","noteIcon":""}
 ---
 
-- ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
-
 >[!note] Índice
+>- ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
 >- [[21 Web 🌐/🌐📚 Literatura#Libros\|Libros]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Textos académicos\|Textos académicos]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Novela\|Novela]]
@@ -16,6 +15,7 @@
 >	- [[21 Web 🌐/🌐📚 Literatura#Poesía\|Poesía]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Teatro\|Teatro]]
 >- [[21 Web 🌐/🌐📚 Literatura#Autores\|Autores]]
+>- ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
 ## Libros
 ### Textos académicos
 | Tapa                                                                                                                                          | Título                                                                                                                                 | Autor                                                | Leído | Virtual | Editorial                                                                    |
