@@ -534,13 +534,32 @@ Salvo -
 - El niño de las figuritas
 
 ## Traducciones
-Gótica - Loftcraft
-Páginas de espuma -Prologo Vargas llosa y Cortazar
-Alianza
-Catedra
-Libro económico: editorial Mestas
-## oTROS
-- Focault - Castigar
+- Gótica - Lovecraft
+- Páginas de espuma -Prólogo Vargas llosa y Cortazar
+- Alianza
+- Catedra
+- Libro económico: editorial Mestas
+- MEJORES TRADUCCIONES (caras)
+	- Atalanta
+	- Aguilar
+	- Paginas de espuma
+	- Valdemar gótica
+## Libros recomendados
+- Vigilar y Castigar - Foucault
+- [[11 Áreas ⚙/02 Biblioteca/Contra-Historia del Perú\|Contra-Historia del Perú]]
+### Libros que atomizan la historia del Perú
+- https://www.youtube.com/live/N0Wn44wS2O0?si=GzZOs4GRKlrCI6-z
+- Nación y sociedad en la historia del Perú - Petter barem (ultimas ediciones)
+	- Llega desde primeros hombres - hasta ollanta
+- Historia del peru contemporáneo - Carlos contreras y Marcos cueto
+- Clase estado y nacion de Julio Cotler (usa términos de sociología)
+- Profetas del odio - Gonzalo portocarrero (terrorismo)
+- El zorro de arriba y el zorro de abajo - Arguedas
+- El sueño del pongo
+- El hambre en llamas - Rulfo 
+- Conversación de la catedral - Vargas Llosa
+- Vergara - Ciudadanos sin república
+- Carlos Parodi - 1970-2000 gratuito  Fondo económico
 ## Historia
 - Juan Luis Orrego Universidad de Lima - Historiados
 - Jorge Basadre
@@ -562,7 +581,6 @@ Cardenal Richeliu - usaba sus gatos para probar su comida
 Partisano - Bross Tito
 Recuerdos del Futuro - Von Daniken
 
-Contrahistoria ????
 Liu DAlin - El imperio del deseo - Historia de la sexualidad en China
 Tratado de mitología universal - Diccionario de dioses, leyendas mitos. Basterrenechea
 REvista Histórica de la PUCP
@@ -582,7 +600,7 @@ Grafomano: escribe de todo - Guillermo Sonday -Caso banchero - Sanchez cerro
 	- Velazco - Zapata
 	- Basadre: prosa de abogado - 
 	- [[11 Áreas ⚙/02 Biblioteca/Historia de la corrupción en el Perú\|Historia de la corrupción en el Perú]] - Quiroz
-	- [[11 Áreas ⚙/02 Biblioteca/200 años después - los escolares preguntan, los historiadores responden\|200 años después - los escolares preguntan, los historiadores responden]]
+	- [[11 Áreas ⚙/02 Biblioteca/200 años después - los escolares preguntan, los historiadores responden\|200 años después - los escolares preguntan, los historiadores responden]] - Proyecto Bicentenario - MINEDU
 - iwasaki - dios aplaca tu ira.  virtual
 - Mexicanidad: Octavio paz - Laberinto de la soledad. Bartra - La jaula de la melancolía
 - Peruanidad: Guillermo Nugget- Mariategui
@@ -605,16 +623,13 @@ Grafomano: escribe de todo - Guillermo Sonday -Caso banchero - Sanchez cerro
 Luego de la independencia, quedamos huérfanos y tomamos las modas españolas. En lugar de ver lo andino o selvático.
 Yugoslavia andina
 Paco Yunque
-
 Sapiens (las creaciones - ficciones)
-
 Historiador: Juan Luis Orrego Universidad de Lima
-
 La noción jurífica de persona tibuida al indio en la colonial - Cerardo Francisco
 
 Peterson Debate con yiyec ¿Que le dirias a una niña de corea del norte?
 
-Gonzalo portocarrero - El saca ojos - Temores pre hispánicos extrangeros
+- Gonzalo portocarrero - El saca ojos - Temores pre hispánicos extrangeros
 - Mitologías Velasquistas - Calle de libros (libreria) - la revolución peruana
 - Antonio zapata - La caída de Juan Velasco Alvarado
 - Carlos aguirre y pablo de inot La revolución peculiar
@@ -626,32 +641,9 @@ Gonzalo portocarrero - El saca ojos - Temores pre hispánicos extrangeros
 - Ciudadano Fujinori - Sara Bowman
 - Muerte en el pentagonito de Uceda
 - Cuentos feos de la reforma agraria - enrique Maya
-
 - Wolker - Rebelión de Tupac Amaru
-- Quiroz - Historia de la corrupción
-- Historia del Tahuantinsuyo - María Rostorowski
+- [[11 Áreas ⚙/02 Biblioteca/Historia del Tahuantinsuyu\|Historia del Tahuantinsuyu]] - [[11 Áreas ⚙/01 Humanos/María Rostworowski\|María Rostworowski]]
 
-Libros base:
-	Peter klaren: base y sociedad del peru
-#### Libros que atomizan la historia del Perú
-- Nación y sociedad en la historia del Perú - Petter barem (ultimas ediciones)
-	- Llega desde primeros hombres - hasta ollanta
-- Historia del peru contemporáneo - Carlos contreras y Marcos cueto
-- Clase estado y nacion de Julio Cotler (usa términos de sociología)
-- Profetas del odio - Gonzalo portocarrero (terrorismo)
-- El zorro de arriba y el zorro de abajo - Arguedas
-- El sueño del pongo
-- El hambre en llamas - Rulfo 
-- Conversación de la catedral - Vargas Llosa
-https://www.youtube.com/live/N0Wn44wS2O0?si=GzZOs4GRKlrCI6-z
-- Vergara - Ciudadanos sin república
-- Carlos Parodi - 1970-2000 gratuito  Fondo económico
-
-MEJORES TRADUCCIONES (caras)
-- Atalanta
-- Aguilar
-- Paginas de espuma
-- Valdemar gótica
 
 - Kisinger - Orden mundial
 - Heber marcuse - historia e ideologia
@@ -1073,6 +1065,17 @@ Callejones y mansiones - Alicia del Águila
 	- Huaquero trabaja por comisión
 	- Suscriptor que ofrecia atún, y estaba rico
 	- Leguaje del amor es el tamal--- Anterior anecdota que le daba tamal luego de una cita
+- 150 - **Anécdotas de enfermo**
+	- Mircea Eliade - Autor para leer sobre religión
+	- Merlin recuerda sus casos médicos
+		- Muela
+		- Oído
+		- Señora que limpia baños en la FIL
+		- Hoja sucia en la FIL
+		- Abuelo que lo atropella a toda velocidad en bicicleta y una rama se atravesó en su pierna 
+	- Libro tradiciones peruanas Aguilar
+	- Anécdota: conocida que se queda borracha y la lleva a su enamorado
+	- Merlín buen amador
 ### Especiales
 - SOY VENDEDOR DE LIBROS POR UN DÍA 💰 | Un día como librero
 	- 250 soles por día
