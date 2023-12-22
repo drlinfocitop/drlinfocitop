@@ -3,19 +3,22 @@
 ---
 
 >[!note] Índice
->- ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
+> ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
+>
 >- [[21 Web 🌐/🌐📚 Literatura#Libros\|Libros]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Textos académicos\|Textos académicos]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Novela\|Novela]]
->	- [[21 Web 🌐/🌐📚 Literatura#Novela histórica\|Novela histórica]]
->	- [[21 Web 🌐/🌐📚 Literatura#Novela juvenil\|Novela juvenil]]
->	- [[21 Web 🌐/🌐📚 Literatura#Cuento infantil\|Cuento infantil]]
->	- [[21 Web 🌐/🌐📚 Literatura#Ensayo y crónica\|Ensayo y crónica]]
+>		- [[21 Web 🌐/🌐📚 Literatura#Novela histórica\|Novela histórica]]
+>		- [[21 Web 🌐/🌐📚 Literatura#Novela juvenil\|Novela juvenil]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Cuento\|Cuento]]
+>		- [[21 Web 🌐/🌐📚 Literatura#Cuento infantil\|Cuento infantil]]
+>	- [[21 Web 🌐/🌐📚 Literatura#Ensayo y crónica\|Ensayo y crónica]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Poesía\|Poesía]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Teatro\|Teatro]]
 >- [[21 Web 🌐/🌐📚 Literatura#Autores\|Autores]]
->- ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
+>	- [[21 Web 🌐/🌐📚 Literatura#Autores Peruanos\|#Autores Peruanos]]
+>	- [[21 Web 🌐/🌐📚 Literatura#Autores Hispanos\|#Autores Hispanos]]
+>	- [[21 Web 🌐/🌐📚 Literatura#Autores Universales\|#Autores Universales]]
 ## Libros
 ### Textos académicos
 | Tapa                                                                                                                                          | Título                                                                                                                                 | Autor                                                | Leído | Virtual | Editorial                                                                    |
