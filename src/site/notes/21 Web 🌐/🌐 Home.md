@@ -3,12 +3,21 @@
 ---
 
 ![logo-linfocito.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/logo-linfocito.png)
+
+>[!note]  👨‍⚕️
+> - **Redes sociales**
+>	| [[Instagram\|Instagram]] |  [[YouTube\|YouTube]] |  [[Twitter\|Twitter]] |
+>	| [[Discord\|Discord]] |  [[Facebook\|Facebook]] | [[TikTok\|TikTok]] |
+>- **Contacto**
+>	| [[WhatsApp\|WhatsApp]] | [[Telegram\|Telegram]] |
+
 ## dr.linfocitop 👨‍⚕️
-### Preuniversitario
+### Ciencias naturales
+
 - [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]]
 
 { .block-language-dataview}
-### Pregrado Medicina
+### Medicina
 #### Ciencias básicas
 - [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]]
 - [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]]
@@ -29,6 +38,7 @@
 - [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
 
 { .block-language-dataview}
+
 ## Biblioteca
 | Temas                                                 |
 | ----------------------------------------------------- |
