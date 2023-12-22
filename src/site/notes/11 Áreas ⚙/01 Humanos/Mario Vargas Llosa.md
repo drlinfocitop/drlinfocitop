@@ -5,57 +5,57 @@
 - ![Pasted image 20231122031600.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031600.png)
 ## Novela
 1. [[La ciudad y los perros\|La ciudad y los perros]] - 1963  
-	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]] ❌
+	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
 	- ⚡ [[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Peruana ⭐️\|El Comercio LP]] 
 	- Premio Biblioteca Breve 1962
 	- Premio de la Crítica de Narrativa Castellana 1964
 2. [[La casa verde\|La casa verde]] - 1966
-	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]] ❌
+	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
 	- ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Peruana ⭐️\|El Comercio LP]] 
 	- Premio Internacional de Novela Rómulo Gallegos 1967
 	- Premio de la Crítica de Narrativa Castellana 1967 
 	- Premio Nacional de Cultura (Perú) 1967
 3. [[Conversación en La Catedral\|Conversación en La Catedral]]  - 1696
-	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]] ❌
+	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
 	- ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Peruana ⭐️\|El Comercio LP]] 
 4. [[Pantaleón y las visitadoras\|Pantaleón y las visitadoras]] - 1973
-	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]] ❌
+	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
 	- ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Latinoamericana ⭐️\|El Comercio LL]]  
 5. [[La tía Julia y el escribidor\|La tía Julia y el escribidor]] - 1977 
-	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]] ❌
+	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
 	- ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Latinoamericana ⭐️\|El Comercio LL]]
 6. [[La guerra del fin del mundo\|La guerra del fin del mundo]] - 1981 
-	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]] ❌
+	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
 	- ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Peruana ⭐️\|El Comercio LP]] 
 7. [[11 Áreas ⚙/02 Biblioteca/Historia de Mayta\|Historia de Mayta]] - 1984
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]] ✅
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ✅
 8. [[¿Quién mató a Palomino Molero?\|¿Quién mató a Palomino Molero?]] - 1986
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]]
 9. [[El hablador\|El hablador]] - 1987
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Seix Barral\|Editorial Seix Barral]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]]
 10. [[Elogio de la madrastra\|Elogio de la madrastra]] - 1988
 	1. [[Tusquets\|Tusquets]]
 11. [[Lituma en los Andes\|Lituma en los Andes]] - 1993
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Planeta 📔\|Planeta 📔]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Planeta\|📔 Planeta]]
 	2. Premio Planeta 1993
 12. [[Los cuadernos de don Rigoberto\|Los cuadernos de don Rigoberto]] - 1997
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 13. [[La fiesta del Chivo\|La fiesta del Chivo]] - 2000
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 14. [[El Paraíso en la otra esquina\|El Paraíso en la otra esquina]] - 2003
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 15. [[Travesuras de la niña mala\|Travesuras de la niña mala]] - 2006 
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 16. [[El sueño del celta\|El sueño del celta]] - 2010
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 17. [[El héroe discreto\|El héroe discreto]] - 2013
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 18. [[Cinco Esquinas\|Cinco Esquinas]] - 2016
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 19. [[Tiempos recios\|Tiempos recios]] - 2019
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 20. [[Le dedico mi silencio\|Le dedico mi silencio]] - 2023
-	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]]
+	1. [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]
 ## Cuentos
 - Los jefes - ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/ABC - Biblioteca del Viajero ⭐️\|ABC - Biblioteca del Viajero ⭐️]]
 - Los cachorros - ⚡[[11 Áreas ⚙/02 Biblioteca/Colecciones/ABC - Biblioteca del Viajero ⭐️\|ABC - Biblioteca del Viajero ⭐️]]
