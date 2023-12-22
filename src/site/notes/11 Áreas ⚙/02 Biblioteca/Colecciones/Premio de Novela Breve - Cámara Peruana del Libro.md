@@ -3,7 +3,7 @@
 ---
 
 
-- Premio: S/. 20 000 y publicación en la editorial [[11 Áreas ⚙/02 Biblioteca/Editoriales/Planeta 📔\|Planeta 📔]]
+- Premio: S/. 20 000 y publicación en la editorial [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Planeta\|📔 Planeta]]
 - Premio: S/ 10 000 desde 2020
 ## Ganadores
 1. 2009 - [[Segunda persona\|Segunda persona]] - [[Selenco Vega\|Selenco Vega]]
