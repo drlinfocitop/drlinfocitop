@@ -3,7 +3,18 @@
 ---
 
 - ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
-## Libros académicos
+## Índice
+- [[21 Web 🌐/🌐📚 Literatura#Libros académicos\|Libros académicos]]
+- [[21 Web 🌐/🌐📚 Literatura#Novela\|Novela]]
+- [[21 Web 🌐/🌐📚 Literatura#Novela histórica\|Novela histórica]]
+- [[21 Web 🌐/🌐📚 Literatura#Novela juvenil\|Novela juvenil]]
+- [[21 Web 🌐/🌐📚 Literatura#Cuento infantil\|Cuento infantil]]
+- [[21 Web 🌐/🌐📚 Literatura#Ensayo y crónica\|Ensayo y crónica]]
+- [[21 Web 🌐/🌐📚 Literatura#Cuento\|Cuento]]
+- [[21 Web 🌐/🌐📚 Literatura#Poesía\|Poesía]]
+- [[21 Web 🌐/🌐📚 Literatura#Teatro\|Teatro]]
+
+### Libros académicos
 | Tapa                                                                                                                                          | Título                                                                                                                                 | Autor                                                | Leído | Virtual | Editorial                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123052058.png) | [[11 Áreas ⚙/02 Biblioteca/Historia de la Literatura Republicana\|Historia de la Literatura Republicana]]                           | [[Washington Delgado\|Washington Delgado]]           | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Rikchay Perú\|📔 Rikchay Perú]] |
@@ -12,7 +23,6 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231204063646.png) | [[11 Áreas ⚙/02 Biblioteca/Literatura Peruana Huánuco - Tomo VI\|Literatura Peruana Huánuco - Tomo VI]]                             | [[César Ángeles Caballero\|César Ángeles Caballero]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 San Marcos\|📔 San Marcos]]     |
 
 { .block-language-dataview}
-## Títulos
 ### Novela
 | Tapa                                                                                                                                                          | Título                                                                                                           | Autor                                                                         | Leído | Virtual | Editorial                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----- | ------- | ------------------------------------------------------------------------------------------------ |
