@@ -6,7 +6,7 @@
 ## Novelas
 1. [[La viuda\|La viuda]] - 1947
 	- Terra do pecado. Impuesto por su primer editor.
-	- Publicada por [[11 Áreas ⚙/02 Biblioteca/Editoriales/Editorial Alfaguara\|Editorial Alfaguara]] 2021, se restituye el nombre elegido por el autor.
+	- Publicada por [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]] 2021, se restituye el nombre elegido por el autor.
 1. [[Manual de pintura y caligrafía\|Manual de pintura y caligrafía]] - 1977
 	- Novela filosófica acerca de la figura del artista.
 2. [[Levantado del suelo\|Levantado del suelo]] - 1980
