@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/nohan-gordon/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122031253.png](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031253.png)
+- ![Pasted image 20231122031253.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031253.png)
 
 - Noviembre 11, 1926 – Noviembre 22, 2021 
 - Novelista estadounidens
