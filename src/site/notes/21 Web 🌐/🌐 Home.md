@@ -13,12 +13,30 @@
 ## dr.linfocitop 👨‍⚕️
 ### Ciencias naturales
 - [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]]
+- [[Física\|Física]]
+- [[Química\|Química]]
+- [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]]
+- [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]]
 ### Medicina
 #### Ciencias básicas
-| Nivel 1                                                                   | Nivel 2 | Nivel 3 |
-| ------------------------------------------------------------------------- | ------- | ------- |
-| [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] | [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]]|[[Fisiopatología\|Fisiopatología]] <br> [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[Inmunología\|Inmunología]] <br> [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]]         |
-
+##### Por niveles
+| Nivel 1                                                                 | Nivel 2                                                                         | Nivel 3                                                       |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] <br> [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]] | [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]] | [[Fisiopatología\|Fisiopatología]] <br> [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[Inmunología\|Inmunología]] |
+##### Por sistemas
+| Sistema                         | Especialidad relacionada      |
+| ------------------------------- | ----------------- |
+| Sistema cardiovascular          | Cardiología       | 
+| Sistema digestivo               | Gastroenterología |
+| Sistema endocrino               | Endocrinología    |
+| Sistema inmune y hematopoyético | Inmunología       |
+| Sistema locomotor               | Traumatología     |
+| Sistema nervioso                | Neurología <br> Neurocirugía       |
+| Sistema tegumentario            | Dermatología      |
+| Sistema reproductor             | Ginecología <br> Obstetricia                  |
+| Sistema respiratorio            | Neumología        |
+| Sistema tegumentario            | Dermatología <br> Cirugía plástica      |
+| Sistema urinario                | Urología <br> Nefrología         |
 #### Ciencias clínicas
 - [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
 - [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
@@ -26,6 +44,7 @@
 - [[Radiología\|Radiología]]
 #### Ciencias quirúrgicas
 - [[Técnica quirúrgica\|Técnica quirúrgica]]
+- [[Anestesiología\|Anestesiología]]
 - [[Cirugía general\|Cirugía general]]
 #### Salud Pública
 - [[Bioestadística\|Bioestadística]]
