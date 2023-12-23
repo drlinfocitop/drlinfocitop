@@ -6,10 +6,9 @@
 
 >[!note]  👨‍⚕️
 > - **Redes sociales**
->	| [[Instagram\|Instagram]] |  [[YouTube\|YouTube]] |  [[Twitter\|Twitter]] |
->	| [[Discord\|Discord]] |  [[Facebook\|Facebook]] | [[TikTok\|TikTok]] |
->- **Contacto**
->	| [[WhatsApp\|WhatsApp]] | [[Telegram\|Telegram]] |
+>	[[🔗Instagram\|🔗Instagram]] [[🔗YouTube\|🔗YouTube]] [[🔗Twitter\|🔗Twitter]] [[🔗Facebook\|🔗Facebook]] [[🔗TikTok\|🔗TikTok]] [[🔗Reddit\|🔗Reddit]] [[🔗Github\|🔗Github]] 
+>- **Grupos**
+>	[[🔗WhatsApp\|🔗WhatsApp]] [[🔗Telegram\|🔗Telegram]] [[🔗Discord\|🔗Discord]] 
 
 ## dr.linfocitop 👨‍⚕️
 ### Ciencias naturales
