@@ -15,10 +15,6 @@
 |                                                     Ciencias naturales                                                     |                               Ciencias formales                               |                                                                       Humanidades (letras puras)                                                                        |                                Humanidades (letras mixtas)                                 |
 |:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
 | [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[Física\|Física]] <br> [[Química\|Química]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] <br> [[Geología\|Geología]] <br> [[Astronomía\|Astronomía]] | [[Matemática\|Matemática]] <br> [[Estadística\|Estadística]] <br> [[Lógica\|Lógica]] <br> [[Informática\|Informática]] <br> | [[Antropología\|Antropología]] <br> [[Ciencias de la comunicación\|Ciencias de la comunicación]] <br> [[Derecho\|Derecho]] <br> [[Filosofía\|Filosofía]] <br> [[Filología\|Filología]] <br> [[Historia\|Historia]] <br> [[Sociología\|Sociología]] <br> [[Politología\|Politología]] | [[Demografía\|Demografía]] <br> [[Economía\|Economía]] <br> [[Geografía\|Geografía]] <br> [[Pedagogía\|Pedagogía]] <br> [[Psicología\|Psicología]] |
-
-
-
-### Ciencias formales
 ## Ciencias aplicadas
 ### Medicina
 #### Ciencias básicas
