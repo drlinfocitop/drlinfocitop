@@ -36,20 +36,13 @@
 | [[Sistema tegumentario\|Sistema tegumentario]]            | [[Dermatología\|Dermatología]] <br> [[Cirugía plástica\|Cirugía plástica]]          |
 | [[Sistema urinario\|Sistema urinario]]                | [[Urología\|Urología]] <br> [[Nefrología\|Nefrología]]                    |
 #### Ciencias clínicas
-- [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
-- [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
-- [[Laboratorio clínico\|Laboratorio clínico]]
-- [[Radiología\|Radiología]]
-- [[Urgentología\|Urgentología]]
-- [[Alergología\|Alergología]]
-- [[Geriatría\|Geriatría]]
-- [[Psiquiatría\|Psiquiatría]]
+| Fundamentos                                                                               | Medicina interna                                                                                                                                                                                                      | Especialidades                                                               |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]] <br> [[Laboratorio clínico\|Laboratorio clínico]] <br> [[Radiología\|Radiología]] | [[Cardiología\|Cardiología]] <br> [[Dermatología\|Dermatología]] <br> [[Endocrinología\|Endocrinología]] <br> [[Gastroenterología\|Gastroenterología]] <br> [[Hematología\|Hematología]] <br> [[Hepatología\|Hepatología]] <br> [[Infectología\|Infectología]] <br> [[Nefrología\|Nefrología]] <br> [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]] <br> [[Neurología\|Neurología]] <br> [[Reumatología\|Reumatología]] | [[Urgentología\|Urgentología]] <br> [[Alergología\|Alergología]] <br>[[Geriatría\|Geriatría]] <br> [[Psiquiatría\|Psiquiatría]] |
 #### Ciencias quirúrgicas
-- [[Técnica quirúrgica\|Técnica quirúrgica]]
-- [[Anestesiología\|Anestesiología]]
-- [[Cirugía general\|Cirugía general]]
-- [[Cirugía plástica\|Cirugía plástica]]
-- [[Traumatología\|Traumatología]]
+| Fundamentos                                                                                                              | Especialidades |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [[Técnica quirúrgica\|Técnica quirúrgica]] <br> [[Anestesiología\|Anestesiología]] <br> [[Cirugía general\|Cirugía general]] <br> [[Cirugía plástica\|Cirugía plástica]] <br> [[Traumatología\|Traumatología]] |[[Cirugía cardiovascular\|Cirugía cardiovascular]] <br> [[Cirugía de cabeza y cuello\|Cirugía de cabeza y cuello]] <br> [[Cirugía general\|Cirugía general]] <br> [[Cirugía plástica\|Cirugía plástica]] <br> [[Cirugía torácica\|Cirugía torácica]] <br> [[Neurocirugía\|Neurocirugía]] <br> [[Traumatología\|Traumatología]] <br> [[Oftalmología\|Oftalmología]] <br> [[ORL\|ORL]] <br> [[Urología\|Urología]]                |
 #### Salud Pública y humanidades médicas
 - [[Bioestadística\|Bioestadística]]
 - [[Epidemiología\|Epidemiología]]
@@ -60,10 +53,6 @@
 - [[Ginecología\|Ginecología]]
 - [[Obstetricia\|Obstetricia]]
 - [[Pediatría\|Pediatría]]
-#### Especialidades Médicas
-| Medicina interna                                                                                                                                                                                                      | Clínicas                                                                                         | Quirúrgicas                                                                                                                                                                              | Clínico - Qx                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [[Cardiología\|Cardiología]] <br> [[Dermatología\|Dermatología]] <br> [[Endocrinología\|Endocrinología]] <br> [[Gastroenterología\|Gastroenterología]] <br> [[Hematología\|Hematología]] <br> [[Infectología\|Infectología]] <br> [[Nefrología\|Nefrología]] <br> [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]] <br> [[Neurología\|Neurología]] <br> [[Reumatología\|Reumatología]] | [[Obstetricia\|Obstetricia]] <br> [[Oncología\|Oncología]] <br> [[Pediatría\|Pediatría]] <br> [[Psiquiatría\|Psiquiatría]] <br> [[Urgentología\|Urgentología]] | [[Cirugía cardiovascular\|Cirugía cardiovascular]] <br> [[Cirugía de cabeza y cuello\|Cirugía de cabeza y cuello]] <br> [[Cirugía general\|Cirugía general]] <br> [[Cirugía plástica\|Cirugía plástica]] <br> [[Cirugía torácica\|Cirugía torácica]] <br> [[Neurocirugía\|Neurocirugía]] <br> [[Traumatología\|Traumatología]] | [[Oftalmología\|Oftalmología]] <br> [[ORL\|ORL]] <br> [[Ginecología\|Ginecología]] <br> [[Urología\|Urología]] |
 # Biblioteca 📚
 | Temas                                                 |
 | ----------------------------------------------------- |
