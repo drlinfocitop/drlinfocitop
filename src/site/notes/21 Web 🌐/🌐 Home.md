@@ -14,19 +14,11 @@
 ### Ciencias naturales
 - [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]]
 ### Medicina
+#### Ciencias básicas
 | Nivel 1                                                                   | Nivel 2 | Nivel 3 |
 | ------------------------------------------------------------------------- | ------- | ------- |
-| [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] <br> [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] |         |         |
-#### Ciencias básicas
-- [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]]
-- [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]]
-- [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]]
-- [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]]
-- [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]]
-- [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]]
-- [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]]
-- [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]]
-- [[Fisiopatología\|Fisiopatología]]
+| [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] | [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]]|[[Fisiopatología\|Fisiopatología]] <br> [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[Inmunología\|Inmunología]] <br> [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]]         |
+
 #### Ciencias clínicas
 - [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
 - [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
