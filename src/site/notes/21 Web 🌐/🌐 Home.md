@@ -12,13 +12,34 @@
 
 ## dr.linfocitop 👨‍⚕️
 ### Ciencias naturales
-
 - [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]]
-
-{ .block-language-dataview}
 ### Medicina
 #### Ciencias básicas
-- [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]]
+- [[01 dr.linfocitop 👨‍⚕️/Anatomía Humana\|Anatomía Humana]]: [[Anatomía descriptiva\|Anatomía descriptiva]], [[Anatomía Topográfica\|Anatomía Topográfica]] [[Anatomía por sistemas\|Anatomía por sistemas]]
+- [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]]: [[Embriología general\|Embriología general]], [[Embriología por sistemas\|Embriología por sistemas]]
+- [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]]
+- [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]]
+- [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]]
+- [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]]
+- [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]]
+- [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]]
+- [[Fisiopatología\|Fisiopatología]]
+#### Ciencias clínicas
+- [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
+- [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
+- [[Laboratorio clínico\|Laboratorio clínico]]
+- [[Radiología\|Radiología]]
+#### Ciencias quirúrgicas
+- [[Técnica quirúrgica\|Técnica quirúrgica]]
+- [[Cirugía general\|Cirugía general]]
+#### Salud Pública
+- [[Bioestadística\|Bioestadística]]
+- [[Epidemiología\|Epidemiología]]
+- [[01 dr.linfocitop 👨‍⚕️/Bioética\|Bioética]]
+- [[Filosofía médica\|Filosofía médica]]
+#### Especialidades Médicas
+- [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]]
+- 
 - [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]]
 - [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]]
 - [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]]
@@ -29,12 +50,13 @@
 - [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]]
 - [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]]
 - [[01 dr.linfocitop 👨‍⚕️/Salud Pública\|Salud Pública]]
+- [[01 dr.linfocitop 👨‍⚕️/Anatomía Humana\|Anatomía Humana]]
 
 { .block-language-dataview}
 #### Ciencias clínicas
-- [[01 dr.linfocitop 👨‍⚕️/Medicina Interna\|Medicina Interna]]
 - [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]]
 - [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
+- [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
 
 { .block-language-dataview}
 
