@@ -17,7 +17,7 @@
 | [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[Física\|Física]] <br> [[Química\|Química]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] <br> [[Geología\|Geología]] <br> [[Astronomía\|Astronomía]] | [[Matemática\|Matemática]] <br> [[Estadística\|Estadística]] <br> [[Lógica\|Lógica]] <br> [[Informática\|Informática]] <br> | [[Antropología\|Antropología]] <br> [[Ciencias de la comunicación\|Ciencias de la comunicación]] <br> [[Derecho\|Derecho]] <br> [[Filosofía\|Filosofía]] <br> [[Filología\|Filología]] <br> [[Historia\|Historia]] <br> [[Sociología\|Sociología]] <br> [[Politología\|Politología]] | [[Demografía\|Demografía]] <br> [[Economía\|Economía]] <br> [[Geografía\|Geografía]] <br> [[Pedagogía\|Pedagogía]] <br> [[Psicología\|Psicología]] |
 ## Ciencias aplicadas
 ### Medicina
-#### Ciencias básicas
+#### Ciencias preclínicas
 ##### Por niveles
 |                                 Nivel 1                                 |                                     Nivel 2                                     |                            Nivel 3                            |
 |:-----------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
@@ -28,8 +28,8 @@
 | Sistema cardiovascular          | Cardiología <br> Cirugía cardiovascular     |
 | Sistema digestivo               | Gastroenterología <br> Cirugía general      |
 | Sistema endocrino               | Endocrinología <br> Cirugía cabeza y cuello |
-| Sistema inmune y hematopoyético | Inmunología <br> Reumatólogo                |
-| Sistema locomotor               | Traumatología <br> Terapia física           |
+| Sistema inmune y hematopoyético | Inmunología <br> Hematología <br> Alergología <br> Reumatología                |
+| Sistema locomotor               | Terapia física <br> Traumatología           |
 | Sistema nervioso                | Neurología <br> Neurocirugía                |
 | Sistema reproductor             | Ginecología <br> Obstetricia                |
 | Sistema respiratorio            | Neumología <br> Cirugía torácica            |
@@ -40,38 +40,30 @@
 - [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
 - [[Laboratorio clínico\|Laboratorio clínico]]
 - [[Radiología\|Radiología]]
+- [[Emergentología\|Emergentología]]
+- [[Alergología\|Alergología]]
+- [[Geriatría\|Geriatría]]
+- [[Psiquiatría\|Psiquiatría]]
 #### Ciencias quirúrgicas
 - [[Técnica quirúrgica\|Técnica quirúrgica]]
 - [[Anestesiología\|Anestesiología]]
 - [[Cirugía general\|Cirugía general]]
-#### Salud Pública
+- [[Cirugía plástica\|Cirugía plástica]]
+- [[Traumatología\|Traumatología]]
+#### Salud Pública y humanidades médicas
 - [[Bioestadística\|Bioestadística]]
 - [[Epidemiología\|Epidemiología]]
 - [[01 dr.linfocitop 👨‍⚕️/Bioética\|Bioética]]
 - [[Filosofía médica\|Filosofía médica]]
+- [[Medicina preventiva\|Medicina preventiva]]
+#### Salud de la mujer y del niño
+- [[Ginecología\|Ginecología]]
+- [[Obstetricia\|Obstetricia]]
+- [[Pediatría\|Pediatría]]
 #### Especialidades Médicas
-- [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]]
-- 
-- [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]]
-- [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]]
-- [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]]
-- [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]]
-- [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]]
-- [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]]
-- [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]]
-- [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]]
-- [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]]
-- [[01 dr.linfocitop 👨‍⚕️/Salud Pública\|Salud Pública]]
-- [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]]
-
-{ .block-language-dataview}
-#### Ciencias clínicas
-- [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]]
-- [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
-- [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
-
-{ .block-language-dataview}
-
+| Medicina interna                                                                                                                                                                                                                           | Clínicas                                                                                           | Quirúrgicas                                                                                                                                                                              | Clínico - Quirúrgico                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [[Cardiología\|Cardiología]] <br> [[Dermatología\|Dermatología]] <br> [[Endocrinología\|Endocrinología]] <br> [[Gastroenterología\|Gastroenterología]] <br> [[Hematología\|Hematología]] <br> [[Infectología\|Infectología]] <br> [[Inmunología\|Inmunología]] <br> [[Nefrología\|Nefrología]] <br> [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]] <br> [[Neurología\|Neurología]] <br> [[Reumatología\|Reumatología]] | [[Emergentología\|Emergentología]] <br> [[Obstetricia\|Obstetricia]] <br> [[Oncología\|Oncología]] <br> [[Pediatría\|Pediatría]] <br> [[Psiquiatría\|Psiquiatría]] | [[Cirugía cardiovascular\|Cirugía cardiovascular]] <br> [[Cirugía de cabeza y cuello\|Cirugía de cabeza y cuello]] <br> [[Cirugía general\|Cirugía general]] <br> [[Cirugía plástica\|Cirugía plástica]] <br> [[Cirugía torácica\|Cirugía torácica]] <br> [[Neurocirugía\|Neurocirugía]] <br> [[Traumatología\|Traumatología]] | [[Oftalmología\|Oftalmología]] <br> [[Otorrinolaringología\|Otorrinolaringología]] <br> [[Ginecología\|Ginecología]] <br> [[Urología\|Urología]] |
 # Biblioteca 📚
 | Temas                                                 |
 | ----------------------------------------------------- |
