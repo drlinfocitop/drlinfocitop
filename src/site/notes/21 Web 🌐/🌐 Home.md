@@ -14,6 +14,9 @@
 ### Ciencias naturales
 - [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]]
 ### Medicina
+| aaaaaa | aaaaaaaaa | aaaaaa |
+| ------ | --------- | ------ |
+| 1       | 2          |  3      |
 #### Ciencias básicas
 - [[01 dr.linfocitop 👨‍⚕️/Anatomía Humana\|Anatomía Humana]]
 	- [[Anatomía descriptiva\|Anatomía descriptiva]]
