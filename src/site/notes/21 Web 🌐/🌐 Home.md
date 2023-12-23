@@ -14,18 +14,12 @@
 ### Ciencias naturales
 - [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]]
 ### Medicina
-| aaaaaa | aaaaaaaaa | aaaaaa |
-| ------ | --------- | ------ |
-| 1       | 2          |  3      |
+| Nivel 1                                                                   | Nivel 2 | Nivel 3 |
+| ------------------------------------------------------------------------- | ------- | ------- |
+| [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] <br> [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] |         |         |
 #### Ciencias básicas
-- [[01 dr.linfocitop 👨‍⚕️/Anatomía Humana\|Anatomía Humana]]
-	- [[Anatomía descriptiva\|Anatomía descriptiva]]
-	- [[Anatomía topográfica\|Anatomía topográfica]]
-	- [[Anatomía por sistemas\|Anatomía por sistemas]]
-	- [[Neuroanatomía\|Neuroanatomía]]
+- [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]]
 - [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]]
-	- [[Embriología general\|Embriología general]]
-	- [[Embriología por sistemas\|Embriología por sistemas]]
 - [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]]
 - [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]]
 - [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]]
@@ -59,7 +53,7 @@
 - [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]]
 - [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]]
 - [[01 dr.linfocitop 👨‍⚕️/Salud Pública\|Salud Pública]]
-- [[01 dr.linfocitop 👨‍⚕️/Anatomía Humana\|Anatomía Humana]]
+- [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]]
 
 { .block-language-dataview}
 #### Ciencias clínicas
