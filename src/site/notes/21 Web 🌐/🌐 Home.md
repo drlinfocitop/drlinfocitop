@@ -10,33 +10,35 @@
 >- **Grupos**
 >	[[🔗WhatsApp\|🔗WhatsApp]] [[🔗Telegram\|🔗Telegram]] [[🔗Discord\|🔗Discord]] 
 
-## dr.linfocitop 👨‍⚕️
-### Ciencias naturales
-- [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]]
-- [[Física\|Física]]
-- [[Química\|Química]]
-- [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]]
-- [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]]
+# dr.linfocitop 👨‍⚕️
+## Ciencias fundamentales 
+|                                                     Ciencias naturales                                                     |                               Ciencias formales                               |                                                                       Humanidades (letras puras)                                                                        |                                Humanidades (letras mixtas)                                 |
+|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
+| [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[Física\|Física]] <br> [[Química\|Química]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] <br> [[Geología\|Geología]] <br> [[Astronomía\|Astronomía]] | [[Matemática\|Matemática]] <br> [[Estadística\|Estadística]] <br> [[Lógica\|Lógica]] <br> [[Informática\|Informática]] <br> | [[Antropología\|Antropología]] <br> [[Ciencias de la comunicación\|Ciencias de la comunicación]] <br> [[Derecho\|Derecho]] <br> [[Filosofía\|Filosofía]] <br> [[Filología\|Filología]] <br> [[Historia\|Historia]] <br> [[Sociología\|Sociología]] <br> [[Politología\|Politología]] | [[Demografía\|Demografía]] <br> [[Economía\|Economía]] <br> [[Geografía\|Geografía]] <br> [[Pedagogía\|Pedagogía]] <br> [[Psicología\|Psicología]] |
+
+
+
+### Ciencias formales
+## Ciencias aplicadas
 ### Medicina
 #### Ciencias básicas
 ##### Por niveles
-| Nivel 1                                                                 | Nivel 2                                                                         | Nivel 3                                                       |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+|                                 Nivel 1                                 |                                     Nivel 2                                     |                            Nivel 3                            |
+|:-----------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
 | [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] <br> [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]] | [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]] | [[Fisiopatología\|Fisiopatología]] <br> [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[Inmunología\|Inmunología]] |
 ##### Por sistemas
-| Sistema                         | Especialidad relacionada      |
-| ------------------------------- | ----------------- |
-| Sistema cardiovascular          | Cardiología       | 
-| Sistema digestivo               | Gastroenterología |
-| Sistema endocrino               | Endocrinología    |
-| Sistema inmune y hematopoyético | Inmunología       |
-| Sistema locomotor               | Traumatología     |
-| Sistema nervioso                | Neurología <br> Neurocirugía       |
-| Sistema tegumentario            | Dermatología      |
-| Sistema reproductor             | Ginecología <br> Obstetricia                  |
-| Sistema respiratorio            | Neumología        |
-| Sistema tegumentario            | Dermatología <br> Cirugía plástica      |
-| Sistema urinario                | Urología <br> Nefrología         |
+| Sistema                         | Especialidad relacionada                    |
+| ------------------------------- | ------------------------------------------- |
+| Sistema cardiovascular          | Cardiología <br> Cirugía cardiovascular     |
+| Sistema digestivo               | Gastroenterología <br> Cirugía general      |
+| Sistema endocrino               | Endocrinología <br> Cirugía cabeza y cuello |
+| Sistema inmune y hematopoyético | Inmunología <br> Reumatólogo                |
+| Sistema locomotor               | Traumatología <br> Terapia física           |
+| Sistema nervioso                | Neurología <br> Neurocirugía                |
+| Sistema reproductor             | Ginecología <br> Obstetricia                |
+| Sistema respiratorio            | Neumología <br> Cirugía torácica            |
+| Sistema tegumentario            | Dermatología <br> Cirugía plástica          |
+| Sistema urinario                | Urología <br> Nefrología                    |
 #### Ciencias clínicas
 - [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]]
 - [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]]
@@ -74,7 +76,7 @@
 
 { .block-language-dataview}
 
-## Biblioteca
+# Biblioteca 📚
 | Temas                                                 |
 | ----------------------------------------------------- |
 | [[21 Web 🌐/🌐📚 Antropología\|🌐📚 Antropología]] |
@@ -100,3 +102,4 @@
 { .block-language-dataview}
 - **FREE**: [[11 Áreas ⚙/02 Biblioteca/Colecciones/Libros Gratis Legales\|Libros Gratis Legales]]
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/Biblioteca - Colecciones editoriales\|Biblioteca - Colecciones editoriales]]
+# Arte ✨
