@@ -2,8 +2,15 @@
 {"dg-publish":true,"permalink":"/31-redes-sociales/el-buen-librero/","noteIcon":""}
 ---
 
-- ![Pasted image 20231224071434.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231224071434.png)
-- Link: https://www.youtube.com/@Buenlibrero
+>[!info] Índice
+> ![Pasted image 20231224071434.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231224071434.png)
+> 
+>- [[31 Redes sociales 🔗/El Buen Librero#Videos\|Videos]]
+>- [[31 Redes sociales 🔗/El Buen Librero#En vivo y Podcasts\|En vivo y Podcasts]]
+>- [[31 Redes sociales 🔗/El Buen Librero#Podcast\|Podcast]]
+
+- Links:
+	- https://www.youtube.com/@Buenlibrero
 ## Videos
 - **1 - Extraño abril- César Nieri**
 - **2 - La primaria- María José Caro**
