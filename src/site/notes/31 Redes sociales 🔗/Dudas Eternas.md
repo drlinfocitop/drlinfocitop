@@ -3,7 +3,8 @@
 ---
 
 - ![Pasted image 20231226051723.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231226051723.png)
-- Link: https://www.youtube.com/@DudasEternas
+- Links:
+	- https://www.youtube.com/@DudasEternas
 ## Videos
 - **1 - ¿Es caro leer en el Perú? | Dudas Eternas Ep. 1**
 - **2 - ¿Existe la crisis de los 30 años? | Dudas Eternas Ep. 2**
