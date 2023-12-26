@@ -1066,12 +1066,12 @@ San joy lao
 Residencial san Felipe
 Waloc
 chifa de villa el salvador - 
-![Pasted image 20231004023819.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231004023819.png)
-![Pasted image 20231030052954.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231030052954.png)
-![Pasted image 20231117031305.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117031305.png)
-![Pasted image 20231205141109.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205141109.png)
-![Pasted image 20231205142548.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142548.png)
-![Pasted image 20231205142708.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142708.png)
+![Pasted image 20231004023819.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231004023819.png)
+![Pasted image 20231030052954.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231030052954.png)
+![Pasted image 20231117031305.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117031305.png)
+![Pasted image 20231205141109.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205141109.png)
+![Pasted image 20231205142548.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142548.png)
+![Pasted image 20231205142708.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142708.png)
 Broma propaganda: https://www.youtube.com/live/QJBFgVBD01Q?si=yVHDzUI4FRk0ZxJZ&t=2061
 
 https://www.youtube.com/live/xLsIcu7OT58?si=H-VoNiYOWcvBLcO_&t=935
