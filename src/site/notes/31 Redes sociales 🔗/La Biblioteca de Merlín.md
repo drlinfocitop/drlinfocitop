@@ -2,14 +2,16 @@
 {"dg-publish":true,"permalink":"/31-redes-sociales/la-biblioteca-de-merlin/","noteIcon":""}
 ---
 
-- ![Pasted image 20231224071533.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231224071533.png)
-- Link: https://www.youtube.com/@LaBibliotecadeMerlin
-
 >[!info] Índice
+> ![Pasted image 20231224071533.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231224071533.png)
+>
 >- [[31 Redes sociales 🔗/La Biblioteca de Merlín#Videos del canal\|Videos del canal]]
 >- [[31 Redes sociales 🔗/La Biblioteca de Merlín#Recomendaciones recurrentes\|Recomendaciones recurrentes]]
 >- [[31 Redes sociales 🔗/La Biblioteca de Merlín#Merlín Fan\|Merlín Fan]]
 >- [[31 Redes sociales 🔗/La Biblioteca de Merlín#Frases que cita Merlín\|Frases que cita Merlín]]
+
+- Links: 
+	- https://www.youtube.com/@LaBibliotecadeMerlin
 
 ## Videos del canal
 ### Videos
