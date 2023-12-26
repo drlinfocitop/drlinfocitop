@@ -2,7 +2,12 @@
 {"dg-publish":true,"permalink":"/31-redes-sociales/la-peruanidad/","noteIcon":""}
 ---
 
-- ![Pasted image 20231224071627.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231224071627.png)
+>[!info] Índice
+> ![Pasted image 20231224071627.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231224071627.png)
+> 
+>- [[31 Redes sociales 🔗/La Peruanidad#Videos\|Videos]]
+>- [[31 Redes sociales 🔗/La Peruanidad#En vivo\|En vivo]]
+
 - Links: 
 	- https://www.youtube.com/@LaPeruanidad
 	- https://www.instagram.com/la_peruanidad/
