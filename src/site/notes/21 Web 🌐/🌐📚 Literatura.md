@@ -29,7 +29,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231204063646.png) | [[11 Áreas ⚙/02 Biblioteca/Literatura Peruana Huánuco - Tomo VI\|Literatura Peruana Huánuco - Tomo VI]]                             | [[César Ángeles Caballero\|César Ángeles Caballero]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 San Marcos\|📔 San Marcos]]     |
 
 { .block-language-dataview}
-- [[21 Web 🌐/🌐📚 Literatura\|↑]]
+<center> [[21 Web 🌐/🌐📚 Literatura\|Inicio ↑]] </center>
 ## Literatura peruana
 ### Novela peruana [[21 Web 🌐/🌐📚 Literatura\|↑]]
 | Tapa                                                                                                                                                          | Título                                                                                                 | Autor                                                                         | Leído | Virtual | Editorial                                                                                |
