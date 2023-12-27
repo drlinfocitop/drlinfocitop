@@ -5,6 +5,7 @@
 - Links: 
 	- https://manualdelatex.com/tutoriales/ecuaciones
 	- https://metodos.fam.cie.uva.es/~latex/apuntes/apuntes3.pdf
+	- https://www.overleaf.com/learn/latex/Matrices
 ### Acentos
 - $\acute{a}$ `\acute{a}` | $\grave{a}$ `\grave{a}`
 - $\tilde{a}$ `\tilde{a}` | $\bar{a}$ `\bar{a}` | $\breve{a}$ `\breve{a}`
@@ -13,26 +14,27 @@
 ### Código
 - $\leq$ ``\leq`` | $\nleq$ `\nleq` | $\leqslant$ ``\leqslant`` | $\ll$ ``\ll``
 - $\geq$ `\geq` | $\ngeq$ `\ngeq` | $\geqslant$ ``\geqslant`` | $\gg$ `\gg`
-- $\pm$ `\pm` | $\mp$ `\mp
+- $\pm$ `\pm` | $\mp$ `\mp`
 - $\equiv$ `\equiv` | $\cong$ `\cong` 
 - $\sim$ `\sim` | $\approx$ `\approx` | $\approxeq$ `\approxeq` 
 ### Funciones
 - $\sin$ `\sin` | $\cos$ `\cos` | $\tan$ `\tan`
 - $\arcsin$ `\arcsin` | $\arccos$ `\arccos` | $\arctan$ `\arctan`
-- $\csc$ `\csc` | $\sec$ `\sec`
-- $\sinh$ `\sinh`
+- $\csc$ `\csc` | $\sec$ `\sec` | $\cot$ `\cot`
+- $\sinh$ `\sinh` | $\cosh$ `\cosh` | $\tanh$ `\tanh`
+- $\log$ `\log` | $\ln$ `\ln`
 ### Paréntesis, llaves y corchetes
-- $(2)$ `(2)`
-- $|2|$ `|2|`
-- $\{2\}$ `\{2\}`
-- $\|2\|$ `\|2\|`
-- $\langle 2 \rangle$ `\langle 2 \rangle`
+- $(2)$ `(2)` | $\{2\}$ `\{2\}` | $\langle 2 \rangle$ `\langle 2 \rangle`
+- $|2|$ `|2|` | $\|2\|$ `\|2\|`
 ### Matrices
-- $\begin{pmatrix} a_{n+1}\\ a_{n}\end{pmatrix}$
-- $\begin{pmatrix} a_{n+1}\\ a_{n}\end{pmatrix}$
-- $\begin{pmatrix} a_{n+1}\\ a_{n}\end{pmatrix}$
-- $\begin{pmatrix} a_{n+1}\\ a_{n}\end{pmatrix}$
-- $\begin{pmatrix} a_{n+1}\\ a_{n}\end{pmatrix}$
+- $\begin{matrix} 1 & 2\\ a&b\end{matrix}$ `\begin{matrix}1&2\\a&b\end{matrix}`
+- $\begin{pmatrix}1&2\\a&b\end{pmatrix}$ `\begin{pmatrix}1&2\\a&b\end{pmatrix}`
+- $\begin{bmatrix}1&2\\a&b\end{bmatrix}$ `\begin{bmatrix}1&2\\a&b\end{bmatrix}`
+- $\begin{Bmatrix}1&2\\a&b\end{Bmatrix}$ `\begin{Bmatrix}1&2\\a&b\end{Bmatrix}`
+- $\begin{vmatrix}1&2\\a&b\end{vmatrix}$ `\begin{vmatrix}1&2\\a&b\end{vmatrix}`
+- $\begin{Vmatrix}1&2\\a&b\end{Vmatrix}$ `\begin{Vmatrix}1&2\\a&b\end{Vmatrix}`
+- $\left\langle\begin{matrix}1&2\\a&b\end{matrix}\right\rvert$ `\left\langle\begin{matrix}1&2\\a&b\end{matrix}\right\rvert`
+- $\left\langle\begin{matrix}1&2\\a&b\end{matrix}\right\rangle$ `\left\langle\begin{matrix}1&2\\a&b\end{matrix}\right\rangle`
 ### Vectores
 - $\vec{v}$ `\vec{v}`
 - $\hat{k}$ `\hat{k}`
@@ -84,6 +86,10 @@ $$
 + 3x^2y + 3x^2z + 3xy^2 + 3y^2z + 3xz^2 + 3yz^2 + 6xyz + k
 \end{multline}
 $$
+## Sumatorio y productorio
+- $\sum_{n=1}^{10}n$ `\sum_{n=1}^{10}n`
+- $\prod_{n=1}^{10}n$ `\prod_{n=1}^{10}n`
+- $\sideset{_{a}^{b}}{_{c}^{d}}\prod_{j=1}^{k+1}$ `\sideset{_{a}^{b}}{_{c}^{d}}\prod_{j=1}^{k+1}`
 ## Símbolos sobre otros
 ```
 $$ 
