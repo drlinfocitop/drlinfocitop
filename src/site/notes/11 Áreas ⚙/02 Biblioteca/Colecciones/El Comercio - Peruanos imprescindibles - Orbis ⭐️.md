@@ -16,6 +16,6 @@
 7. Textos Escogidos - Antología - [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]
 8. [[Peregrinaciones de una paria\|Peregrinaciones de una paria]] - [[Flora Tristán\|Flora Tristán]]
 9. [[La Realidad Nacional\|La Realidad Nacional]] - [[Víctor Andrés Belaunde\|Víctor Andrés Belaunde]]
-10. [[El mundo es ancho y ajeno\|El mundo es ancho y ajeno]] - [[Ciro Alegría\|Ciro Alegría]]
+10. [[El mundo es ancho y ajeno\|El mundo es ancho y ajeno]] - [[10 Entrada 🛒/Ciro Alegría\|Ciro Alegría]]
 11. [[Paisajes Peruanos\|Paisajes Peruanos]] - [[José de la Riva Agüero\|José de la Riva Agüero]]
 12. 12 Pequeña Antología de Lima, El nombre del Perú - [[Raúl Porras Barrenechea\|Raúl Porras Barrenechea]]
