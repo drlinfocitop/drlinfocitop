@@ -29,6 +29,6 @@
 21. El señor presidente - [[Miguel Ángel Asturias\|Miguel Ángel Asturias]] 
 22. La invención de Morel - [[Adolfo Bioy Casares\|Adolfo Bioy Casares]] 
 23. [[11 Áreas ⚙/02 Biblioteca/La Habana para un infante difunto\|La Habana para un infante difunto]] - [[Guillermo Cabrera Infante\|Guillermo Cabrera Infante]] ✅
-24. El mundo es ancho y ajeno - [[Ciro Alegría\|Ciro Alegría]]
+24. El mundo es ancho y ajeno - [[10 Entrada 🛒/Ciro Alegría\|Ciro Alegría]]
 25. Bestiario / Todos los fuegos el fuego - [[11 Áreas ⚙/01 Humanos/Julio Cortázar\|Julio Cortázar]]
 26. [[Tantas veces Pedro\|Tantas veces Pedro]] - [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]]
