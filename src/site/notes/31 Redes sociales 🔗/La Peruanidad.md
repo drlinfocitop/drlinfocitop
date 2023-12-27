@@ -414,8 +414,21 @@
 #### **53 - No estudies estas carreras que serán reemplazadas por Inteligencia Artificial**
 #### **54 - LA PERUANIDAD EN SAN MARCOS**
 #### **55 - 50 Libros que todo Peruano Culto debe leer**
-- Video resumen anterior: [[31 Redes sociales 🔗/La Peruanidad#186 - ¿Cuántos libros debe leer una persona culta?\|La Peruanidad]]
 - Libro: [[11 Áreas ⚙/02 Biblioteca/Los 60 libros que todo peruano culto debe leer\|Los 60 libros que todo peruano culto debe leer]]
+- Video resumen anterior: [[31 Redes sociales 🔗/La Peruanidad#186 - ¿Cuántos libros debe leer una persona culta?\|La Peruanidad]]
+```
+- [[José Ortega y Gasset]] - La cultura
+- Persona culta: 
+	- Bagaje literario: Inglaterra 1000 libros salen del colegio
+	- [[Ricardo Falla Barreda]] releía el Quijote cada año
+	- Grandes autores abren puertas
+	- *4 áreas*: Historia, Literatura Peruana y Universal, Economía y Tecnología (analfabetos actuales)
+		- Oratoria, Historia del arte... 
+	- [[Marco Aurelio Denegri\|Marco Aurelio Denegri]] fue culto a pesar de no saber de tecnología, fue un hombre de su época, la tecnología no era necesario.
+	- No es necesario leer literatura complicada
+- **Crítica personal**: difícil abordar el tema de la cultura. No existe un manual, pero si consideramos que cultura es cultivar, La Peruanidad esta brindando los principios de un buen seguidor de su cultura youtuber. 
+- https://trazandocamino.blogspot.com/2013/04/jose-ortega-y-gasset-una-filosofia-de.html
+```
 - Antes de entrar a política consigue trabajo, hay muchos políticos que solo buscan dinero.
 - Se debería modificar:
 	- [[Armas, gérmenes y acero\|Armas, gérmenes y acero]] - [[Jared Diamond\|Jared Diamond]] en Perú prehispánico
@@ -441,7 +454,7 @@
 	- Crítica: ¡no está Vallejo!. Falta chocano
 	- Quitar: [[Mercedes Cabello de Carbonera\|Mercedes Cabello de Carbonera]] - [[Mujer, educación y literatura\|Mujer, educación y literatura]]. Agregar a [[Blanca Varela\|Blanca Varela]]
 	- Quitar: [[Héctor Velarde\|Héctor Velarde]] - [[El concho telúrico de acometividad\|El concho telúrico de acometividad]]. Agregar Sofocleto.
-	- Quitar: [[Carlos Delgado\|Carlos Delgado]] - [[Ejercicio sociológico sobre el arribismo en el Perú\|Ejercicio sociológico sobre el arribismo en el Perú]]. Agregar a [[Marco Aurelio Denegri\|Marco Aurelio Denegri]]
+	- Quitar: [[Carlos Delgado\|Carlos Delgado]] - [[Ejercicio sociológico sobre el arribismo en el Perú\|Ejercicio sociológico sobre el arribismo en el Perú]]. Agregar a [[Marco Aurelio Denegri]]
 	- Quitar: [[Julio C. Tello\|Julio C. Tello]] - [[La investigación científica\|La investigación científica]]. Agregar: [[50 anécdotas del sabio Tello\|50 anécdotas del sabio Tello]] - [[Hernán Ponce Sánchez\|Hernán Ponce Sánchez]]
 	- Quitar: [[Antonio Brack Egg\|Antonio Brack Egg]] Libro muy técnico. Agregar: [[La nutrición en el Antiguo Perú\|La nutrición en el Antiguo Perú]] - [[Santiago Antúnez de Mayolo\|Santiago Antúnez de Mayolo]]
 	- Quitar: [[Alberto Gieseche\|Alberto Gieseche]] - [[E. Silgado\|E. Silgado]] - [[Los terremotos en el Perú\|Los terremotos en el Perú]]. Agregar el Libro de [[Raúl Porras Barrenechea\|Raúl Porras Barrenechea]] - [[El río, el puente, y la alameda\|El río, el puente, y la alameda]] 
