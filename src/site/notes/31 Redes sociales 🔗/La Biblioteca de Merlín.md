@@ -994,9 +994,9 @@
 	- [[11 Áreas ⚙/02 Biblioteca/200 años después - los escolares preguntan, los historiadores responden\|200 años después - los escolares preguntan, los historiadores responden]] - Proyecto Bicentenario - MINEDU
 - iwasaki - dios aplaca tu ira.  virtual
 - Mexicanidad: Octavio paz - Laberinto de la soledad. Bartra - La jaula de la melancolía
-- Peruanidad: Guillermo Nugget- Mariategui
-- Nuevos sudbitos - Uviluz (IEP) analiza al pendejo de peruano Vladimiro
-- 12 apóstoloes de la economía - Francisco
+- Peruanidad: Guillermo Nugget- Mariátegui
+- Nuevos súbditos - Uviluz (IEP) analiza al pendejo de peruano Vladimiro
+- 12 apóstoles de la economía - Francisco
 - Autodidacta: 
 	- metodología de investigación histórica (preguntar cursos libres)
 	- historiografía
@@ -1056,31 +1056,30 @@ Para-Normales - 𝗞𝗶𝗼𝗺𝗶 𝗩𝗲𝗻𝘁𝗼𝗰𝗶𝗹𝗹𝗮 Te
 ### Audiofilos
 - Audiotecnica M50
 ### Chifas
-Plato Favorito: chaufa especial - Merlín emite juicio con este plato
-Chifa Wen wa de Velazco
-Se alimenta de mostritos
-San joy lao
-Residencial san Felipe
-Waloc
-chifa de villa el salvador - 
+- Plato Favorito: chaufa especial - Merlín emite juicio con este plato
+- Chifa Wen wa de Velazco
+- Se alimenta de mostritos
+- San joy lao
+- Residencial san Felipe
+- Waloc
+- chifa de villa el salvador - 
 ![Pasted image 20231004023819.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231004023819.png)
 ![Pasted image 20231030052954.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231030052954.png)
 ![Pasted image 20231117031305.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117031305.png)
 ![Pasted image 20231205141109.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205141109.png)
 ![Pasted image 20231205142548.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142548.png)
 ![Pasted image 20231205142708.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142708.png)
-Broma propaganda: https://www.youtube.com/live/QJBFgVBD01Q?si=yVHDzUI4FRk0ZxJZ&t=2061
-
-https://www.youtube.com/live/xLsIcu7OT58?si=H-VoNiYOWcvBLcO_&t=935
-https://www.youtube.com/live/GlVCB9lvORg?si=6GOdidQ6tmFBTR36&t=1984
+- Broma propaganda: https://www.youtube.com/live/QJBFgVBD01Q?si=yVHDzUI4FRk0ZxJZ&t=2061
+- https://www.youtube.com/live/xLsIcu7OT58?si=H-VoNiYOWcvBLcO_&t=935
+- https://www.youtube.com/live/GlVCB9lvORg?si=6GOdidQ6tmFBTR36&t=1984
 ### Consejos vender/comprar libros
 - Darle en la mano el libro hace que te compren más rápido
 ### Escritores peruanos
-Pedro Ugarte - EL relampago inmovil 
-Espadas de la memoria
-Bitácora
-Jaque el peón
-Salvo - 
+- Pedro Ugarte - EL relampago inmovil 
+- Espadas de la memoria
+- Bitácora
+- Jaque el peón
+- Salvo - 
 
 - ![Pasted image 20231116232426.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231116232426.png)
 - El niño de las figuritas
@@ -1104,25 +1103,23 @@ Salvo -
 - José Antonio del busto
 - Hugo Ludeña Restaure - descubrió la cabeza de Pizarro (noes momia original)
 ### Historia del mundo
-Lutero
+- Lutero
 - Guerra de los treinta años - defenestración de praga
 - Tratado de Westfalia - Orden mundial - Cierre de heridas
 - La historia debe ser cortada en trozos - Jackes Legof
 - Umberto eco - Historia del medioevo
 - La gran guerra - de Mark Ferró
-- Los grandes de descubrimientos de Alejandro a magallanes - Fondo de cultura económica (Editorial buena)
+- Los grandes de descubrimientos de Alejandro a Magallanes - Fondo de cultura económica (Editorial buena)
 - Jacques le Goff - Diccionario del Occidente Medieval
-
-Cardenal Richeliu - usaba sus gatos para probar su comida
-Partisano - Bross Tito
-Recuerdos del Futuro - Von Daniken
-
-Liu DAlin - El imperio del deseo - Historia de la sexualidad en China
-Tratado de mitología universal - Diccionario de dioses, leyendas mitos. Basterrenechea
-REvista Histórica de la PUCP
+- Cardenal Richeliu - usaba sus gatos para probar su comida
+- Partisano - Bross Tito
+- Recuerdos del Futuro - Von Daniken
+- Liu DAlin - El imperio del deseo - Historia de la sexualidad en China
+- Tratado de mitología universal - Diccionario de dioses, leyendas mitos. Basterrenechea
+- REvista Histórica de la PUCP
 - Historia del siglo XX - hoffman
-Nadie conoce el imperio parto
-Grafomano: escribe de todo - Guillermo Sonday -Caso banchero - Sanchez cerro
+- Nadie conoce el imperio parto
+- Grafomano: escribe de todo - Guillermo Sonday -Caso banchero - Sanchez cerro
 - Porque seguimos creyendo en Dios. Noa 21 lecciones de Historia
 ### Calles
 - Jirón de la Unión - Callejones y Mansiones de Alicia del Águila
@@ -1176,14 +1173,11 @@ Callejones y mansiones - Alicia del Águila
 - Oscar catacora - Hahun pacha - respeto al cerro
 ### Lima
 - Colonialismo en ruinas - Charles Wlaker (calle de libro) Instituto peruano (terremoto 1746)
-
 ### Preguntas pendientes
 ¿Hitler fue presidente de alemania siendo austriaco?
-
 ### Ricardo palma
 - La américa colonial -Magdalena Chocano 
 - Alicia del águila (psocióloga) - Los velos y las pieles (libros de vida cotidiana)
-
 ## Frases que cita Merlín
 ### Duda
 - “la duda es el origen de la sabiduría” Rene Descartes
@@ -1191,17 +1185,13 @@ Callejones y mansiones - Alicia del Águila
 - “la ignorancia afirma o niega rotundamente; la ciencia duda” Voltaire
 - “el ignorante afirma; el sabio duda y reflexiona” Aristóteles
 - De la duda se pueden seguir diferentes cosas, pero no se puede seguir ‘cualquier cosa’ o ‘todo’, mientras que de la nada, de la contradicción o del absurdo,  se puede seguir lo que se quiera  (“ex dubio sequitur varium; ex absurdo, nihilo vel contradictione sequitur quodlibet, omne”). Lógica Clásica
-
 ### Tiempo
 - El hombre colecciona tiempo = conocimiento NO TERRITORIO (analisis de refundación del Perú a favor de todos)
-
-
 ### Bromas
 - KK
 	- Caqueta
 	- La tortuga asoma la cabeza
 	- El llamado de la naturaleza
-
 ### Cachinas
 - Aviación - Tacora
 - Villa el Salvador - Domingos 
