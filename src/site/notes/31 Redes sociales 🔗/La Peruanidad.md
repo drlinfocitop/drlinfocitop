@@ -198,6 +198,7 @@
 #### **184 - Universidad San Marcos entrevista a la Peruanidad**
 #### **185 - Serenatas, cartas y duelos con espada: El Amor en el Virreinato**
 #### 186 - ¿Cuántos libros debe leer una persona culta?
+- Podcasts completo -> [[31 Redes sociales 🔗/La Peruanidad#**55 - 50 Libros que todo Peruano Culto debe leer**\|La Peruanidad]]
 - [[José Ortega y Gasset\|José Ortega y Gasset]] - La cultura
 - Persona culta: 
 	- Bagaje literario: Inglaterra 1000 libros salen del colegio
@@ -209,7 +210,6 @@
 	- No es necesario leer literatura complicada
 - **Crítica personal**: difícil abordar el tema de la cultura. No existe un manual, pero si consideramos que cultura es cultivar, La Peruanidad esta brindando los principios de un buen seguidor de su cultura youtuber. 
 - https://trazandocamino.blogspot.com/2013/04/jose-ortega-y-gasset-una-filosofia-de.html
-- *Continúa* en podcasts completo -> [[31 Redes sociales 🔗/La Peruanidad#**55 - 50 Libros que todo Peruano Culto debe leer**\|La Peruanidad]]
 #### **187 - ¿Por qué ya no salen más intelectuales peruanos?**
 #### **188 - El mejor consejo para los jóvenes que quieren hacer política**
 #### **189 - El súper alimento de los Incas para vivir 100 años**
@@ -415,8 +415,8 @@
 #### **54 - LA PERUANIDAD EN SAN MARCOS**
 #### **55 - 50 Libros que todo Peruano Culto debe leer**
 - Libro: [[11 Áreas ⚙/02 Biblioteca/Los 60 libros que todo peruano culto debe leer\|Los 60 libros que todo peruano culto debe leer]]
+- Video resumen anterior: [[31 Redes sociales 🔗/La Peruanidad#186 - ¿Cuántos libros debe leer una persona culta?\|La Peruanidad]]
 ```
-- Video resumen anterior: [[#186 - ¿Cuántos libros debe leer una persona culta?|La Peruanidad]]
 - [[José Ortega y Gasset]] - La cultura
 - Persona culta: 
 	- Bagaje literario: Inglaterra 1000 libros salen del colegio
