@@ -996,7 +996,7 @@
 - Mexicanidad: Octavio paz - Laberinto de la soledad. Bartra - La jaula de la melancolía
 - Peruanidad: Guillermo Nugget- Mariategui
 - Nuevos sudbitos - Uviluz (IEP) analiza al pendejo de peruano Vladimiro
-- - 12 apóstoloes de la economía - Francisco
+- 12 apóstoloes de la economía - Francisco
 - Autodidacta: 
 	- metodología de investigación histórica (preguntar cursos libres)
 	- historiografía
@@ -1011,15 +1011,13 @@
 - Planeta: mujeres del bicentenario
 - Los escolares preguntan los historiadores responden
 - Quema de la casa de Leguía - El saqueo olvidado (libro difícil de conseguir)
-Luego de la independencia, quedamos huérfanos y tomamos las modas españolas. En lugar de ver lo andino o selvático.
-Yugoslavia andina
-Paco Yunque
-Sapiens (las creaciones - ficciones)
-Historiador: Juan Luis Orrego Universidad de Lima
-La noción jurífica de persona tibuida al indio en la colonial - Cerardo Francisco
-
-Peterson Debate con yiyec ¿Que le dirias a una niña de corea del norte?
-
+- Luego de la independencia, quedamos huérfanos y tomamos las modas españolas. En lugar de ver lo andino o selvático.
+- Yugoslavia andina
+- Paco Yunque
+- Sapiens (las creaciones - ficciones)
+- Historiador: Juan Luis Orrego Universidad de Lima
+- La noción jurífica de persona tibuida al indio en la colonial - Cerardo Francisco
+- Peterson Debate con yiyec ¿Que le dirias a una niña de corea del norte?
 - Gonzalo portocarrero - El saca ojos - Temores pre hispánicos extrangeros
 - Mitologías Velasquistas - Calle de libros (libreria) - la revolución peruana
 - Antonio zapata - La caída de Juan Velasco Alvarado
@@ -1034,13 +1032,10 @@ Peterson Debate con yiyec ¿Que le dirias a una niña de corea del norte?
 - Cuentos feos de la reforma agraria - enrique Maya
 - Wolker - Rebelión de Tupac Amaru
 - [[11 Áreas ⚙/02 Biblioteca/Historia del Tahuantinsuyu\|Historia del Tahuantinsuyu]] - [[11 Áreas ⚙/01 Humanos/María Rostworowski\|María Rostworowski]]
-
-
 - Kisinger - Orden mundial
 - Heber marcuse - historia e ideologia
-
-Magda portal Estcritora peruana
-fLonrinda matos
+- Magda portal Estcritora peruana
+- fLonrinda matos
 ## Merlín Fan
 - José Luis Remit; la nación autoritaria (Autoritarismos)
 - Inventando la nacion - François Guerra 
