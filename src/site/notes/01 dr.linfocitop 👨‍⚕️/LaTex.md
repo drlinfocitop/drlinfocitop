@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-dr-linfocitop/la-tex/","noteIcon":""}
 ---
 
-- ![Pasted image 20231227060757.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231227060757.png)
+![Pasted image 20231227060757.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231227060757.png)
 - Links: 
 	- Página oficial: https://www.latex-project.org/
 	- https://manualdelatex.com/tutoriales/ecuaciones
