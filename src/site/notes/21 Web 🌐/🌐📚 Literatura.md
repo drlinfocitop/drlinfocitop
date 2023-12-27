@@ -202,17 +202,17 @@
 
 { .block-language-dataview}
 ### Escritores peruanos
-| Tapa           | Autor                                                                         | Movimiento                | País |
-| -------------- | ----------------------------------------------------------------------------- | ------------------------- | ---- |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]           | Post-modernismo           | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] | Post-boom latinoamericano | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Alonso Cueto\|Alonso Cueto]]                       | Actualidad                | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/César Calvo\|César Calvo]]                         | Postmodernismo            | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/César Vallejo\|César Vallejo]]                     | Vanguardista              | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Jaime Bayly\|Jaime Bayly]]                         | Actualidad                | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]         | Indigenismo               | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Julio Ramón Ribeyro\|Julio Ramón Ribeyro]]         | Generación del 50         | Perú |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]           | Boom latinoamericano      | Perú |
+| Tapa           | Autor                                                                         | Movimiento                |
+| -------------- | ----------------------------------------------------------------------------- | ------------------------- |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]           | Post-modernismo           |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] | Post-boom latinoamericano |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Alonso Cueto\|Alonso Cueto]]                       | Actualidad                |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/César Calvo\|César Calvo]]                         | Postmodernismo            |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/César Vallejo\|César Vallejo]]                     | Vanguardista              |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Jaime Bayly\|Jaime Bayly]]                         | Actualidad                |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]         | Indigenismo               |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Julio Ramón Ribeyro\|Julio Ramón Ribeyro]]         | Generación del 50         |
+| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]           | Boom latinoamericano      |
 
 { .block-language-dataview}
 
