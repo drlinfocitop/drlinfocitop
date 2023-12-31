@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/21-web/literatura/","noteIcon":""}
 ---
 
-<p **id**="primerp"></p>
-  
 <a name="top"></a>
-
 >[!note] Índice
 > ![cover_L.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/cover_L.png)
 >
@@ -33,8 +30,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231204063646.png) | [[11 Áreas ⚙/02 Biblioteca/Literatura Peruana Huánuco - Tomo VI\|Literatura Peruana Huánuco - Tomo VI]]                             | [[César Ángeles Caballero\|César Ángeles Caballero]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 San Marcos\|📔 San Marcos]]     |
 
 { .block-language-dataview}
-<a href="#primerp">Ir al inicio de este artículo</a>
-<a href="#top">Back to Top</a>
+<a href="#top">Volver al Inicio</a>
 ## Literatura peruana
 ### Novela peruana [[21 Web 🌐/🌐📚 Literatura\|↑]]
 | Tapa                                                                                                                                                          | Título                                                                                                 | Autor                                                                         | Leído | Virtual | Editorial                                                                                |
@@ -52,7 +48,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029053445.png)                 | [[11 Áreas ⚙/02 Biblioteca/Un mundo para Julius\|Un mundo para Julius]]                             | [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                   |
 
 { .block-language-dataview}
-### Novela histórica [[21 Web 🌐/🌐📚 Literatura\|↑]]
+### Novela histórica <a href="#top">Volver al Inicio</a>
 | Tapa                                                                                                                                                          | Título                                                                                   | Autor                            | Leído | Virtual | Editorial                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------- | ----- | ------- | -------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231206063317.png)                 | [[11 Áreas ⚙/02 Biblioteca/Contra-Historia del Perú\|Contra-Historia del Perú]]       | [[Carmen McEvoy\|Carmen McEvoy]] | false | true    | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Mitin\|📔 Mitin]]             |
