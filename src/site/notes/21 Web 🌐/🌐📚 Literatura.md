@@ -30,9 +30,11 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231204063646.png) | [[11 Áreas ⚙/02 Biblioteca/Literatura Peruana Huánuco - Tomo VI\|Literatura Peruana Huánuco - Tomo VI]]                             | [[César Ángeles Caballero\|César Ángeles Caballero]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 San Marcos\|📔 San Marcos]]     |
 
 { .block-language-dataview}
+
+
 <a href="#top">Volver al Inicio</a>
 ## Literatura peruana
-### Novela peruana [[21 Web 🌐/🌐📚 Literatura\|↑]]
+### Novela peruana
 | Tapa                                                                                                                                                          | Título                                                                                                 | Autor                                                                         | Leído | Virtual | Editorial                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231028033952.png)                 | [[11 Áreas ⚙/02 Biblioteca/La ciudad de los tísicos\|La ciudad de los tísicos]]                     | [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]           | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Peisa\|📔 Peisa]]                           |
@@ -56,7 +58,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231206065141.png) | [[11 Áreas ⚙/02 Biblioteca/El espía del Inca\|El espía del Inca]]                     | [[Rafael Dumett\|Rafael Dumett]] | false | true    | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Lluvia\|📔 Lluvia]]           |
 
 { .block-language-dataview}
-### Cuento infantil [[21 Web 🌐/🌐📚 Literatura\|↑]]
+### Cuento infantil
 | Tapa                                                                                                                                                          | Título                                                                                                                           | Autor                                    | Leído | Virtual | Editorial                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ------- | -------------------------------------------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129000021.png) | [[11 Áreas ⚙/02 Biblioteca/La princesa bromista\|La princesa bromista]]                                                       | [[Nicoletta Costa\|Nicoletta Costa]]     | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
@@ -65,7 +67,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128235948.png) | [[11 Áreas ⚙/02 Biblioteca/Vamos a buscar un tesoro\|Vamos a buscar un tesoro]]                                               | [[Janosch\|Janosch]]                     | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
 
 { .block-language-dataview}
-### Poesía [[21 Web 🌐/🌐📚 Literatura\|↑]]
+### Poesía
 | Tapa                                                                                                                                                          | Título                                                                                                                                                     | Autor                                                        | Leído | Virtual | Editorial                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | ------- | -------------------------------------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123151348.png)                 | [[11 Áreas ⚙/02 Biblioteca/Del Río al Mar\|Del Río al Mar]]                                                                                             | [[Graciela Briceño\|Graciela Briceño]]                       | true  | false   | \-                                                                                                       |
@@ -105,7 +107,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129000343.png) | [[11 Áreas ⚙/02 Biblioteca/Vivir es Peligroso\|Vivir es Peligroso]]                                                                                     | [[Selva Casal\|Selva Casal]]                                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Libros de Tierra Firme\|📔 Libros de Tierra Firme]]         |
 
 { .block-language-dataview}
-## Literatura universal
+## Clásicos de la literatura universal
 | Tapa                                                                                                                                                          | Título                                                                                                           | Autor                                                                       | Leído | Virtual | Editorial                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----- | ------- | ------------------------------------------------------------------------------------------------ |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231201052548.png) | [[11 Áreas ⚙/02 Biblioteca/Crónica de una muerte anunciada\|Crónica de una muerte anunciada]]                 | [[11 Áreas ⚙/01 Humanos/Gabriel García Márquez\|Gabriel García Márquez]] | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Oveja negra\|📔 Oveja negra]]                       |
@@ -145,7 +147,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128174420.png)                 | [[11 Áreas ⚙/02 Biblioteca/Punto de quiebre\|Punto de quiebre]]                                           | [[Francisco Cajiao\|Francisco Cajiao]]                         | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Panamericana\|📔 Panamericana]] |
 
 { .block-language-dataview}
-- [[21 Web 🌐/🌐📚 Literatura\|↑]]
+-
 ## Cuento
 | Tapa                                                                                                                                                          | Título                                                                                                             | Autor                                                               | Leído | Virtual | Editorial                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
@@ -161,7 +163,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128011037.png)                 | [[11 Áreas ⚙/02 Biblioteca/Relámpago Inmóvil\|Relámpago Inmóvil]]                                               | [[Pedro Ugarte Valdivia\|Pedro Ugarte Valdivia]]                    | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Altazor\|📔 Altazor]]           |
 
 { .block-language-dataview}
-- [[21 Web 🌐/🌐📚 Literatura\|↑]]
+-
 ## Ensayo y crónica
 | Tapa                                                                                                                                                          | Título                                                                                                                 | Autor                                                  | Leído | Virtual | Editorial                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----- | ------- | ------------------------------------------------------------------ |
@@ -171,7 +173,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123053946.png)                 | [[11 Áreas ⚙/02 Biblioteca/Mario Vargas Llosa reportero a los 15 años\|Mario Vargas Llosa reportero a los 15 años]] | [[Juan Gargurevich\|Juan Gargurevich]]                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Planeta\|📔 Planeta]] |
 
 { .block-language-dataview}
-- [[21 Web 🌐/🌐📚 Literatura\|↑]]
+-
 
 ## Teatro
 | Tapa                                                                                                                                          | Título                                                                                                               | Autor                                            | Leído | Virtual | Editorial                                                                        |
@@ -181,7 +183,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129024558.png) | [[11 Áreas ⚙/02 Biblioteca/Romeo y Julieta\|Romeo y Julieta]]                                                     | [[William Shakespeare\|William Shakespeare]]     | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 San Marcos\|📔 San Marcos]]         |
 
 { .block-language-dataview}
-- [[21 Web 🌐/🌐📚 Literatura\|↑]]
+-
 # Autores
 ## Autores Literatura
 | Tapa           | Autor                                                                       | Movimiento           | País               |
