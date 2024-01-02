@@ -6,7 +6,7 @@
 
 >[!note] Home 👨‍⚕️
 > - **Redes sociales**
->	[🔗Instagram](https://www.instagram.com/dr.linfocitop/) [🔗YouTube](https://www.youtube.com/@dr.linfocitop) [[🔗Instagram\|🔗Instagram]] [[🔗YouTube\|🔗YouTube]] [[🔗Twitter\|🔗Twitter]] [[🔗Facebook\|🔗Facebook]] [[🔗TikTok\|🔗TikTok]] [[🔗Reddit\|🔗Reddit]] [[🔗Github\|🔗Github]] 
+>	[🔗Instagram](https://www.instagram.com/dr.linfocitop/) [🔗YouTube](https://www.youtube.com/@dr.linfocitop) [🔗Twitter](https://twitter.com/drlinfocitop) [🔗Facebook](https://www.facebook.com/profile.php?id=100092210299968&sk) [🔗TikTok](https://www.tiktok.com/@dr.linfocitop) [🔗Reddit](https://www.reddit.com/user/dr_linfocitop) [🔗Github](https://github.com/drlinfocitop) 
 >- **Grupos**
 >	[[🔗WhatsApp\|🔗WhatsApp]] [[🔗Telegram\|🔗Telegram]] [[🔗Discord\|🔗Discord]] 
 
