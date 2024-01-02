@@ -6,7 +6,7 @@
 
 >[!note] Home 👨‍⚕️
 > - **Redes sociales**
->	[[🔗Instagram\|🔗Instagram]] [[🔗YouTube\|🔗YouTube]] [[🔗Twitter\|🔗Twitter]] [[🔗Facebook\|🔗Facebook]] [[🔗TikTok\|🔗TikTok]] [[🔗Reddit\|🔗Reddit]] [[🔗Github\|🔗Github]] 
+>	[🔗Instagram](https://www.instagram.com/dr.linfocitop/) [🔗YouTube](https://www.youtube.com/@dr.linfocitop) [[🔗Instagram\|🔗Instagram]] [[🔗YouTube\|🔗YouTube]] [[🔗Twitter\|🔗Twitter]] [[🔗Facebook\|🔗Facebook]] [[🔗TikTok\|🔗TikTok]] [[🔗Reddit\|🔗Reddit]] [[🔗Github\|🔗Github]] 
 >- **Grupos**
 >	[[🔗WhatsApp\|🔗WhatsApp]] [[🔗Telegram\|🔗Telegram]] [[🔗Discord\|🔗Discord]] 
 
