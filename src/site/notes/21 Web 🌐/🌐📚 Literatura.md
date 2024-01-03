@@ -33,10 +33,20 @@
 
 <a href="#top">Volver al Inicio</a>
 ## Clásicos Universales
-| Tapa | Título | Autor | Leído | Virtual | Editorial |
-| ---- | ------ | ----- | ----- | ------- | --------- |
+| Tapa                                                                                                                                                          | Título                                                                                   | Autor                                        | Leído | Virtual | Editorial                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------- | ----- | ------- | ------------------------------------------------------------------------------------------------ |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/uKkiUTdzmk-558.webp)                                                                                | [[11 Áreas ⚙/02 Biblioteca/La Metamorfosis\|La Metamorfosis]]                         | [[Franz Kafka\|Franz Kafka]]                 | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 EBISA\|📔 EBISA]]                                   |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029060226.png)                 | [[11 Áreas ⚙/02 Biblioteca/Don Quijote de la Mancha I\|Don Quijote de la Mancha I]]   | [[Miguel de Cervantes\|Miguel de Cervantes]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Orbis Ventures\|📔 Orbis Ventures]]                 |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123014500.png)                 | [[11 Áreas ⚙/02 Biblioteca/Don Quijote de la Mancha II\|Don Quijote de la Mancha II]] | [[Miguel de Cervantes\|Miguel de Cervantes]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Orbis Ventures\|📔 Orbis Ventures]]                 |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231204062844.png) | [[11 Áreas ⚙/02 Biblioteca/El príncipe\|El príncipe]]                                 | [[Nicolás Maquiavelo\|Nicolás Maquiavelo]]   | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Caral\|📔 Caral]]                                   |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123021605.png) | [[11 Áreas ⚙/02 Biblioteca/El retrato de Dorian Gray\|El retrato de Dorian Gray]]     | [[Oscar Wilde\|Oscar Wilde]]                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 El Comercio\|📔 El Comercio]]                       |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123051950.png) | [[11 Áreas ⚙/02 Biblioteca/Narraciones extraordinarias\|Narraciones extraordinarias]] | [[Edgar Allan Poe\|Edgar Allan Poe]]         | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Arsam\|📔 Arsam]]                                   |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129024558.png)                 | [[11 Áreas ⚙/02 Biblioteca/Romeo y Julieta\|Romeo y Julieta]]                         | [[William Shakespeare\|William Shakespeare]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 San Marcos\|📔 San Marcos]]                         |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029054119.png)                 | [[11 Áreas ⚙/02 Biblioteca/Ulises\|Ulises]]                                           | [[James Joyce\|James Joyce]]                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Enrique Santiago Rueda\|📔 Enrique Santiago Rueda]] |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ## Literatura peruana
 ### Novela peruana
 | Tapa                                                                                                                                                          | Título                                                                                                 | Autor                                                                         | Leído | Virtual | Editorial                                                                                |
@@ -54,6 +64,8 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029053445.png)                 | [[11 Áreas ⚙/02 Biblioteca/Un mundo para Julius\|Un mundo para Julius]]                             | [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                   |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ### Novela histórica
 | Tapa                                                                                                                                                          | Título                                                                                   | Autor                            | Leído | Virtual | Editorial                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------- | ----- | ------- | -------------------------------------------------------------------------- |
@@ -62,6 +74,8 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231206065141.png) | [[11 Áreas ⚙/02 Biblioteca/El espía del Inca\|El espía del Inca]]                     | [[Rafael Dumett\|Rafael Dumett]] | false | true    | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Lluvia\|📔 Lluvia]]           |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ### Cuento infantil
 | Tapa                                                                                                                                                          | Título                                                                                                                           | Autor                                    | Leído | Virtual | Editorial                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ------- | -------------------------------------------------------------------------------------------------------------- |
@@ -71,6 +85,8 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128235948.png) | [[11 Áreas ⚙/02 Biblioteca/Vamos a buscar un tesoro\|Vamos a buscar un tesoro]]                                               | [[Janosch\|Janosch]]                     | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ### Poesía autores peruanos
 | Tapa                                                                                                                                                          | Título                                                                                                                                                     | Autor                                                        | Leído | Virtual | Editorial                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | ------- | -------------------------------------------------------------------------------------------------------- |
@@ -111,6 +127,8 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129000343.png) | [[11 Áreas ⚙/02 Biblioteca/Vivir es Peligroso\|Vivir es Peligroso]]                                                                                     | [[Selva Casal\|Selva Casal]]                                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Libros de Tierra Firme\|📔 Libros de Tierra Firme]]         |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ### Ensayos
 | Tapa                                                                                                                                                          | Título                                                                                                                 | Autor                                                  | Leído | Virtual | Editorial                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----- | ------- | ------------------------------------------------------------------ |
@@ -152,6 +170,8 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029054119.png)                 | [[11 Áreas ⚙/02 Biblioteca/Ulises\|Ulises]]                                                                   | [[James Joyce\|James Joyce]]                                                | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Enrique Santiago Rueda\|📔 Enrique Santiago Rueda]] |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ## Novela juvenil
 | Tapa                                                                                                                                                          | Título                                                                                                       | Autor                                                          | Leído | Virtual | Editorial                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
@@ -163,6 +183,7 @@
 
 { .block-language-dataview}
 
+<a href="#top">Volver al Inicio</a>
 ## Cuento
 | Tapa                                                                                                                                                          | Título                                                                                                             | Autor                                                               | Leído | Virtual | Editorial                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
@@ -178,6 +199,8 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128011037.png)                 | [[11 Áreas ⚙/02 Biblioteca/Relámpago Inmóvil\|Relámpago Inmóvil]]                                               | [[Pedro Ugarte Valdivia\|Pedro Ugarte Valdivia]]                    | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Altazor\|📔 Altazor]]           |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ### Cuento infantil
 | Tapa                                                                                                                                                          | Título                                                                                                                           | Autor                                    | Leído | Virtual | Editorial                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ------- | -------------------------------------------------------------------------------------------------------------- |
@@ -187,6 +210,8 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128235948.png) | [[11 Áreas ⚙/02 Biblioteca/Vamos a buscar un tesoro\|Vamos a buscar un tesoro]]                                               | [[Janosch\|Janosch]]                     | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ## Teatro
 | Tapa                                                                                                                                          | Título                                                                                                               | Autor                                            | Leído | Virtual | Editorial                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----- | ------- | -------------------------------------------------------------------------------- |
@@ -213,20 +238,25 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/optimized/aNRgDMJJGz-700.webp)                                                                                | [[11 Áreas ⚙/01 Humanos/Ray Bradbury\|Ray Bradbury]]                     | Ciencia ficción      | USA                |
 
 { .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
 ### Escritores peruanos
-| Tapa           | Autor                                                                         | Movimiento                |
-| -------------- | ----------------------------------------------------------------------------- | ------------------------- |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]           | Post-modernismo           |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] | Post-boom latinoamericano |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Alonso Cueto\|Alonso Cueto]]                       | Actualidad                |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/César Calvo\|César Calvo]]                         | Postmodernismo            |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/César Vallejo\|César Vallejo]]                     | Vanguardista              |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Jaime Bayly\|Jaime Bayly]]                         | Actualidad                |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]         | Indigenismo               |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Julio Ramón Ribeyro\|Julio Ramón Ribeyro]]         | Generación del 50         |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]           | Boom latinoamericano      |
+| Tapa                                                                                                                                                          | Autor                                                                         | Movimiento                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------- |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122033105.png)    | [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]           | Post-modernismo           |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122033959.png)    | [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] | Post-boom latinoamericano |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205121552.png)                 | [[11 Áreas ⚙/01 Humanos/Alonso Cueto\|Alonso Cueto]]                       | Actualidad                |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/4cMT_DjcVD-651.webp)                                                                                | [[11 Áreas ⚙/01 Humanos/César Calvo\|César Calvo]]                         | Postmodernismo            |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231127060906.png)                 | [[11 Áreas ⚙/01 Humanos/César Vallejo\|César Vallejo]]                     | Vanguardista              |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122041945.png) | [[11 Áreas ⚙/01 Humanos/Jaime Bayly\|Jaime Bayly]]                         | Actualidad                |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122040831.png) | [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]         | Indigenismo               |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122044552.png)                 | [[11 Áreas ⚙/01 Humanos/Julio Ramón Ribeyro\|Julio Ramón Ribeyro]]         | Generación del 50         |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031600.png) | [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]           | Boom latinoamericano      |
 
 { .block-language-dataview}
+
+
+<a href="#top">Volver al Inicio</a>
 
 - [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]
 - [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]]
