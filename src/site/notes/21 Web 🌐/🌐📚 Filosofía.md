@@ -12,6 +12,10 @@
 | [[11 Áreas ⚙/02 Biblioteca/Filosofía para médicos\|Filosofía para médicos]] | [[Mario Bunge\|Mario Bunge]]                 | [[Editorial Gedisa\|Editorial Gedisa]]                                         |
 
 { .block-language-dataview}
+
+- [[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Grandes Pensadores Gredos\|El Comercio - Grandes Pensadores Gredos]]
+- [[11 Áreas ⚙/02 Biblioteca/Colección - Aprender a pensar\|Colección - Aprender a pensar]]
+- [[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Descubrir la filosofía\|El Comercio - Descubrir la filosofía]]
 ## Autor - Filosofía
 ### Filosofía antigua
 - Filósofos presocráticos
