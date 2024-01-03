@@ -989,7 +989,7 @@
 	- Revoluciones industriales, Revolución Francesa
 	- Imperialismo, Guerras Mundiales, Guerra de Vietnam
 	- Historia del Perú: Precerámico, Inca, conquista, rebelión de encomenderos, reformas borbónicas, 1er militarismo, guerra con Chile, Leguía
-- **Consejo 8**: 
+- **Consejo 8**: No centrarse en un solo tema
 ### Especiales
 - SOY VENDEDOR DE LIBROS POR UN DÍA 💰 | Un día como librero
 	- 250 soles por día
