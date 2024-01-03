@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/alonso-cueto/","noteIcon":""}
 ---
 
-- ![Pasted image 20231205121552.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205121552.png)
+![Pasted image 20231205121552.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205121552.png)
 ## Obras
 1. 1983 - La batalla del pasado
 	1. Relatos
