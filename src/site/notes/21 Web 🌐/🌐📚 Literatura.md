@@ -21,7 +21,7 @@
 >	- [[21 Web 🌐/🌐📚 Literatura#Autores Hispanos\|Autores Hispanos]]
 >	- [[21 Web 🌐/🌐📚 Literatura#Autores Universales\|Autores Universales]]
 # Libros
-## Textos académicos
+## Textos académicos literatura
 | Tapa                                                                                                                                          | Título                                                                                                                                 | Autor                                                | Leído | Virtual | Editorial                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123052058.png) | [[11 Áreas ⚙/02 Biblioteca/Historia de la Literatura Republicana\|Historia de la Literatura Republicana]]                           | [[Washington Delgado\|Washington Delgado]]           | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Rikchay Perú\|📔 Rikchay Perú]] |
@@ -31,8 +31,12 @@
 
 { .block-language-dataview}
 
-
 <a href="#top">Volver al Inicio</a>
+## Clásicos Universales
+| Tapa | Título | Autor | Leído | Virtual | Editorial |
+| ---- | ------ | ----- | ----- | ------- | --------- |
+
+{ .block-language-dataview}
 ## Literatura peruana
 ### Novela peruana
 | Tapa                                                                                                                                                          | Título                                                                                                 | Autor                                                                         | Leído | Virtual | Editorial                                                                                |
@@ -50,7 +54,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029053445.png)                 | [[11 Áreas ⚙/02 Biblioteca/Un mundo para Julius\|Un mundo para Julius]]                             | [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                   |
 
 { .block-language-dataview}
-### Novela histórica <a href="#top">Volver al Inicio</a>
+### Novela histórica
 | Tapa                                                                                                                                                          | Título                                                                                   | Autor                            | Leído | Virtual | Editorial                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------- | ----- | ------- | -------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231206063317.png)                 | [[11 Áreas ⚙/02 Biblioteca/Contra-Historia del Perú\|Contra-Historia del Perú]]       | [[Carmen McEvoy\|Carmen McEvoy]] | false | true    | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Mitin\|📔 Mitin]]             |
@@ -67,7 +71,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128235948.png) | [[11 Áreas ⚙/02 Biblioteca/Vamos a buscar un tesoro\|Vamos a buscar un tesoro]]                                               | [[Janosch\|Janosch]]                     | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
 
 { .block-language-dataview}
-### Poesía
+### Poesía autores peruanos
 | Tapa                                                                                                                                                          | Título                                                                                                                                                     | Autor                                                        | Leído | Virtual | Editorial                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | ------- | -------------------------------------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123151348.png)                 | [[11 Áreas ⚙/02 Biblioteca/Del Río al Mar\|Del Río al Mar]]                                                                                             | [[Graciela Briceño\|Graciela Briceño]]                       | true  | false   | \-                                                                                                       |
@@ -107,7 +111,18 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129000343.png) | [[11 Áreas ⚙/02 Biblioteca/Vivir es Peligroso\|Vivir es Peligroso]]                                                                                     | [[Selva Casal\|Selva Casal]]                                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Libros de Tierra Firme\|📔 Libros de Tierra Firme]]         |
 
 { .block-language-dataview}
-## Clásicos de la literatura universal
+### Ensayos
+| Tapa                                                                                                                                                          | Título                                                                                                                 | Autor                                                  | Leído | Virtual | Editorial                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----- | ------- | ------------------------------------------------------------------ |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128055046.png) | [[11 Áreas ⚙/02 Biblioteca/El APRA - Crónica de una esperanza\|El APRA - Crónica de una esperanza]]                 | [[Orestes Romero Toledo\|Orestes Romero Toledo]]       | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔  J. C.\|📔  J. C.]]   |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231204062844.png) | [[11 Áreas ⚙/02 Biblioteca/El príncipe\|El príncipe]]                                                               | [[Nicolás Maquiavelo\|Nicolás Maquiavelo]]             | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Caral\|📔 Caral]]     |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123152452.png) | [[11 Áreas ⚙/02 Biblioteca/Espejos del Alma\|Espejos del Alma]]                                                     | [[Daniel Enrique Haro Haro\|Daniel Enrique Haro Haro]] | false | false   | \-                                                                 |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123053946.png)                 | [[11 Áreas ⚙/02 Biblioteca/Mario Vargas Llosa reportero a los 15 años\|Mario Vargas Llosa reportero a los 15 años]] | [[Juan Gargurevich\|Juan Gargurevich]]                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Planeta\|📔 Planeta]] |
+
+{ .block-language-dataview}
+
+<a href="#top">Volver al Inicio</a>
+## Novela latinoamericana
 | Tapa                                                                                                                                                          | Título                                                                                                           | Autor                                                                       | Leído | Virtual | Editorial                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----- | ------- | ------------------------------------------------------------------------------------------------ |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231201052548.png) | [[11 Áreas ⚙/02 Biblioteca/Crónica de una muerte anunciada\|Crónica de una muerte anunciada]]                 | [[11 Áreas ⚙/01 Humanos/Gabriel García Márquez\|Gabriel García Márquez]] | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Oveja negra\|📔 Oveja negra]]                       |
@@ -137,7 +152,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029054119.png)                 | [[11 Áreas ⚙/02 Biblioteca/Ulises\|Ulises]]                                                                   | [[James Joyce\|James Joyce]]                                                | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Enrique Santiago Rueda\|📔 Enrique Santiago Rueda]] |
 
 { .block-language-dataview}
-### Novela juvenil
+## Novela juvenil
 | Tapa                                                                                                                                                          | Título                                                                                                       | Autor                                                          | Leído | Virtual | Editorial                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123054926.png)                 | [[11 Áreas ⚙/02 Biblioteca/Babi y yo\|Babi y yo]]                                                         | [[Federico Moccia\|Federico Moccia]]                           | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Planeta\|📔 Planeta]]           |
@@ -147,7 +162,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128174420.png)                 | [[11 Áreas ⚙/02 Biblioteca/Punto de quiebre\|Punto de quiebre]]                                           | [[Francisco Cajiao\|Francisco Cajiao]]                         | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Panamericana\|📔 Panamericana]] |
 
 { .block-language-dataview}
--
+
 ## Cuento
 | Tapa                                                                                                                                                          | Título                                                                                                             | Autor                                                               | Leído | Virtual | Editorial                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
@@ -163,18 +178,15 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128011037.png)                 | [[11 Áreas ⚙/02 Biblioteca/Relámpago Inmóvil\|Relámpago Inmóvil]]                                               | [[Pedro Ugarte Valdivia\|Pedro Ugarte Valdivia]]                    | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Altazor\|📔 Altazor]]           |
 
 { .block-language-dataview}
--
-## Ensayo y crónica
-| Tapa                                                                                                                                                          | Título                                                                                                                 | Autor                                                  | Leído | Virtual | Editorial                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----- | ------- | ------------------------------------------------------------------ |
-| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128055046.png) | [[11 Áreas ⚙/02 Biblioteca/El APRA - Crónica de una esperanza\|El APRA - Crónica de una esperanza]]                 | [[Orestes Romero Toledo\|Orestes Romero Toledo]]       | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔  J. C.\|📔  J. C.]]   |
-| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231204062844.png) | [[11 Áreas ⚙/02 Biblioteca/El príncipe\|El príncipe]]                                                               | [[Nicolás Maquiavelo\|Nicolás Maquiavelo]]             | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Caral\|📔 Caral]]     |
-| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123152452.png) | [[11 Áreas ⚙/02 Biblioteca/Espejos del Alma\|Espejos del Alma]]                                                     | [[Daniel Enrique Haro Haro\|Daniel Enrique Haro Haro]] | false | false   | \-                                                                 |
-| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231123053946.png)                 | [[11 Áreas ⚙/02 Biblioteca/Mario Vargas Llosa reportero a los 15 años\|Mario Vargas Llosa reportero a los 15 años]] | [[Juan Gargurevich\|Juan Gargurevich]]                 | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Planeta\|📔 Planeta]] |
+### Cuento infantil
+| Tapa                                                                                                                                                          | Título                                                                                                                           | Autor                                    | Leído | Virtual | Editorial                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ------- | -------------------------------------------------------------------------------------------------------------- |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129000021.png) | [[11 Áreas ⚙/02 Biblioteca/La princesa bromista\|La princesa bromista]]                                                       | [[Nicoletta Costa\|Nicoletta Costa]]     | true  | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/1I7yT9QFw5-527.webp)                                                                                | [[11 Áreas ⚙/02 Biblioteca/El secreto de Minino y otros Cuentos para Niños\|El secreto de Minino y otros Cuentos para Niños]] | [[Graciela Briceño\|Graciela Briceño]]   | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Asamblea Nacional de Rectores\|📔 Asamblea Nacional de Rectores]] |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129000051.png) | [[11 Áreas ⚙/02 Biblioteca/La historia de Manú\|La historia de Manú]]                                                         | [[Ana María del Río\|Ana María del Río]] | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231128235948.png) | [[11 Áreas ⚙/02 Biblioteca/Vamos a buscar un tesoro\|Vamos a buscar un tesoro]]                                               | [[Janosch\|Janosch]]                     | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alfaguara\|📔 Alfaguara]]                                         |
 
 { .block-language-dataview}
--
-
 ## Teatro
 | Tapa                                                                                                                                          | Título                                                                                                               | Autor                                            | Leído | Virtual | Editorial                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----- | ------- | -------------------------------------------------------------------------------- |
@@ -183,22 +195,22 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129024558.png) | [[11 Áreas ⚙/02 Biblioteca/Romeo y Julieta\|Romeo y Julieta]]                                                     | [[William Shakespeare\|William Shakespeare]]     | false | false   | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 San Marcos\|📔 San Marcos]]         |
 
 { .block-language-dataview}
--
+
 # Autores
 ## Autores Literatura
-| Tapa           | Autor                                                                       | Movimiento           | País               |
-| -------------- | --------------------------------------------------------------------------- | -------------------- | ------------------ |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Gabriel García Márquez\|Gabriel García Márquez]] | Realismo mágico      | Colombia           |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/H. G. Wells\|H. G. Wells]]                       | Realismo social      | Inglaterra         |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/H. P. Lovecraft\|H. P. Lovecraft]]               | Cosmismo             | USA                |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Isabel Allende\|Isabel Allende]]                 | Realismo mágico      | Chile, USA         |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Jack London\|Jack London]]                       | Realismo americano   | USA                |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Jorge Luis Borges\|Jorge Luis Borges]]           | Existencialismo      | Argentina          |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/José Saramago\|José Saramago]]                   | Realismo mágico      | Portugal           |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Julio Cortázar\|Julio Cortázar]]                 | Boom latinoamericano | Argentina, Francia |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Leo Tolstoy\|Leo Tolstoy]]                       | Realismo             | Rusia              |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Nohan Gordon\|Nohan Gordon]]                     | Actualidad           | USA                |
-| ![png\|60](\-) | [[11 Áreas ⚙/01 Humanos/Ray Bradbury\|Ray Bradbury]]                     | Ciencia ficción      | USA                |
+| Tapa                                                                                                                                                          | Autor                                                                       | Movimiento           | País               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------- | ------------------ |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122044023.png) | [[11 Áreas ⚙/01 Humanos/Gabriel García Márquez\|Gabriel García Márquez]] | Realismo mágico      | Colombia           |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122042411.png) | [[11 Áreas ⚙/01 Humanos/H. G. Wells\|H. G. Wells]]                       | Realismo social      | Inglaterra         |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122042839.png) | [[11 Áreas ⚙/01 Humanos/H. P. Lovecraft\|H. P. Lovecraft]]               | Cosmismo             | USA                |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122034051.png)    | [[11 Áreas ⚙/01 Humanos/Isabel Allende\|Isabel Allende]]                 | Realismo mágico      | Chile, USA         |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231129033640.png)                 | [[11 Áreas ⚙/01 Humanos/Jack London\|Jack London]]                       | Realismo americano   | USA                |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231125123701.png)                 | [[11 Áreas ⚙/01 Humanos/Jorge Luis Borges\|Jorge Luis Borges]]           | Existencialismo      | Argentina          |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122040407.png) | [[11 Áreas ⚙/01 Humanos/José Saramago\|José Saramago]]                   | Realismo mágico      | Portugal           |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122034342.png) | [[11 Áreas ⚙/01 Humanos/Julio Cortázar\|Julio Cortázar]]                 | Boom latinoamericano | Argentina, Francia |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122032151.png) | [[11 Áreas ⚙/01 Humanos/Leo Tolstoy\|Leo Tolstoy]]                       | Realismo             | Rusia              |
+| ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031253.png) | [[11 Áreas ⚙/01 Humanos/Nohan Gordon\|Nohan Gordon]]                     | Actualidad           | USA                |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/aNRgDMJJGz-700.webp)                                                                                | [[11 Áreas ⚙/01 Humanos/Ray Bradbury\|Ray Bradbury]]                     | Ciencia ficción      | USA                |
 
 { .block-language-dataview}
 ### Escritores peruanos
@@ -273,7 +285,6 @@
 - [[Charles Dickens\|Charles Dickens]]
 - [[Daniel Defoe\|Daniel Defoe]]
 - [[Dante Alighieri\|Dante Alighieri]]
-- 
 - [[Edgar Allan Poe\|Edgar Allan Poe]]
 - [[George Orwell\|George Orwell]]
 - [[Gilbert K. Chesterton\|Gilbert K. Chesterton]]
