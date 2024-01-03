@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/alfredo-bryce-echenique/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122033959.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122033959.png)
+![Pasted image 20231122033959.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122033959.png)
 ## Novela
 1. [[11 Áreas ⚙/02 Biblioteca/Un mundo para Julius\|Un mundo para Julius]] - 1970 
 	- ⚡ [[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Gran Biblioteca Literatura Peruana ⭐️\|El Comercio LP]] ❌
