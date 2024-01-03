@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/mario-vargas-llosa/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122031600.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031600.png)
+![Pasted image 20231122031600.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031600.png)
 ## Novela
 1. [[La ciudad y los perros\|La ciudad y los perros]] - 1963  
 	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
