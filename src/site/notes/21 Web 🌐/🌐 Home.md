@@ -10,7 +10,7 @@
 >- **Grupos**
 >	[[🔗WhatsApp\|🔗WhatsApp]] [[🔗Telegram\|🔗Telegram]] [[🔗Discord\|🔗Discord]] 
 
-# Linfocito 👨‍⚕️ - Medicina Humana
+# Linfocito - Medicina Humana 👨‍⚕️
 ![baner-medicinah.png](/img/user/21%20Web%20%F0%9F%8C%90/%F0%9F%92%BE%20Adjuntos/baner-medicinah.png)
 ## Ciencias preclínicas
 |                     Nivel 0 🥚                      |                      Nivel 1 🐣                       |                                   Nivel 2 🐤                                    |                                   Nivel 3 🦅                                    |
@@ -36,11 +36,11 @@
 - [[Ginecología\|Ginecología]]
 - [[Obstetricia\|Obstetricia]]
 - [[Pediatría\|Pediatría]]
-# Linfocito 👨‍⚕️ - Ciencias fundamentales 
+# Linfocito - Ciencias fundamentales ⚡ 
 |                                                     Ciencias naturales                                                     |                               Ciencias formales                               |                                                                       Humanidades (letras puras)                                                                        |                                Humanidades (letras mixtas)                                 |
 |:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
 | [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[Física\|Física]] <br> [[Química\|Química]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] <br> [[Geología\|Geología]] <br> [[Astronomía\|Astronomía]] | [[01 dr.linfocitop 👨‍⚕️/Matemática\|Matemática]] <br> [[Estadística\|Estadística]] <br> [[Lógica\|Lógica]] <br> [[01 dr.linfocitop 👨‍⚕️/Informática\|Informática]] <br> | [[Antropología\|Antropología]] <br> [[Ciencias de la comunicación\|Ciencias de la comunicación]] <br> [[Derecho\|Derecho]] <br> [[Filosofía\|Filosofía]] <br> [[Filología\|Filología]] <br> [[Historia\|Historia]] <br> [[Sociología\|Sociología]] <br> [[Politología\|Politología]] | [[Demografía\|Demografía]] <br> [[Economía\|Economía]] <br> [[Geografía\|Geografía]] <br> [[Pedagogía\|Pedagogía]] <br> [[Psicología\|Psicología]] |
-# Biblioteca 📚
+# Linfo-Biblioteca 📚
 ![banner_biblioteca.png](/img/user/21%20Web%20%F0%9F%8C%90/%F0%9F%92%BE%20Adjuntos/banner_biblioteca.png)
 | Temas                                                 |
 | ----------------------------------------------------- |
@@ -67,4 +67,4 @@
 { .block-language-dataview}
 - **FREE**: [[11 Áreas ⚙/02 Biblioteca/Colecciones/Libros Gratis Legales\|Libros Gratis Legales]]
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/Biblioteca - Colecciones editoriales\|Biblioteca - Colecciones editoriales]]
-# Arte ✨
+# Hobbies ✨
