@@ -4,7 +4,7 @@
 
 ![logo-linfocito.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/%F0%9F%92%BE%20Adjuntos/logo-linfocito.png)
 
->[!note] Home 👨‍⚕️
+>[!note] **Home** Doctor Linfocito P 👨‍⚕️
 > - **Redes sociales**
 >	[🔗Instagram](https://www.instagram.com/dr.linfocitop/) [🔗YouTube](https://www.youtube.com/@dr.linfocitop) [🔗Twitter](https://twitter.com/drlinfocitop) [🔗Facebook](https://www.facebook.com/profile.php?id=100092210299968&sk) [🔗TikTok](https://www.tiktok.com/@dr.linfocitop) [🔗Reddit](https://www.reddit.com/user/dr_linfocitop) [🔗Github](https://github.com/drlinfocitop) 
 >- **Grupos**
