@@ -4,7 +4,7 @@
 
 
 - Desarrollo antropológico del Perú
-- ![Pasted image 20231117063832.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117063832.png)
+- ![Pasted image 20231117063832.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117063832.png)
 ## Obras escogidas
 1. Qué difícil es ser Dios. 
 2. La década de la antipolítica. auge y huida de Alberto Fujimori y Vladimiro montesinos. 
