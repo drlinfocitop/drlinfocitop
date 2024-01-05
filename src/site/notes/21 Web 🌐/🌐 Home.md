@@ -10,44 +10,33 @@
 >- **Grupos**
 >	[[🔗WhatsApp\|🔗WhatsApp]] [[🔗Telegram\|🔗Telegram]] [[🔗Discord\|🔗Discord]] 
 
-# Doctor Linfocito P 👨‍⚕️
-## Medicina Humana
-### Ciencias preclínicas
+# Linfocito 👨‍⚕️ - Medicina Humana
+![baner-medicina.png](/img/user/21%20Web%20%F0%9F%8C%90/%F0%9F%92%BE%20Adjuntos/baner-medicina.png)
+## Ciencias preclínicas
 |                     Nivel 0 🥚                      |                      Nivel 1 🐣                       |                                   Nivel 2 🐤                                    |                                   Nivel 3 🦅                                    |
 |:---------------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
 | [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] | [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] | [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]] | [[Fisiopatología\|Fisiopatología]] <br> [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[Inmunología\|Inmunología]] <br> [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]] |
-### Ciencias clínicas
+
+- Ver: Enfoque de las [[10 Entrada 🛒/Ciencias básicas por Sistemas\|Ciencias básicas por Sistemas]]
+## Ciencias clínicas
 | Fundamentos 🩺                                                                              | Medicina interna 👨‍⚕️                                                                                                                                                                                                      | Especialidades 🏥                                                              |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [[01 dr.linfocitop 👨‍⚕️/Semiología\|Semiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Medicina interna\|Medicina interna]] <br> [[Laboratorio clínico\|Laboratorio clínico]] <br> [[Radiología\|Radiología]] | [[Cardiología\|Cardiología]] <br> [[Dermatología\|Dermatología]] <br> [[Endocrinología\|Endocrinología]] <br> [[Gastroenterología\|Gastroenterología]] <br> [[Hematología\|Hematología]] <br> [[Hepatología\|Hepatología]] <br> [[Infectología\|Infectología]] <br> [[Nefrología\|Nefrología]] <br> [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]] <br> [[Neurología\|Neurología]] <br> [[Reumatología\|Reumatología]] | [[Urgentología\|Urgentología]] <br> [[Alergología\|Alergología]] <br>[[Geriatría\|Geriatría]] <br> [[Psiquiatría\|Psiquiatría]] |
-### Ciencias quirúrgicas
+## Ciencias quirúrgicas
 | Fundamentos 🛩                                                                                                             | Especialidades 🚀 |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------- |
 | [[Técnica quirúrgica\|Técnica quirúrgica]] <br> [[Anestesiología\|Anestesiología]] <br> [[Cirugía general\|Cirugía general]] <br> [[Cirugía plástica\|Cirugía plástica]] <br> [[Traumatología\|Traumatología]] |[[Cirugía cardiovascular\|Cirugía cardiovascular]] <br> [[Cirugía de cabeza y cuello\|Cirugía de cabeza y cuello]] <br> [[Cirugía general\|Cirugía general]] <br> [[Cirugía plástica\|Cirugía plástica]] <br> [[Cirugía torácica\|Cirugía torácica]] <br> [[Neurocirugía\|Neurocirugía]] <br> [[Traumatología\|Traumatología]] <br> [[Oftalmología\|Oftalmología]] <br> [[ORL\|ORL]] <br> [[Urología\|Urología]]                |
-### Salud Pública y humanidades médicas
+## Salud Pública y humanidades médicas
 - [[Bioestadística\|Bioestadística]]
 - [[Epidemiología\|Epidemiología]]
 - [[01 dr.linfocitop 👨‍⚕️/Bioética\|Bioética]]
 - [[Filosofía médica\|Filosofía médica]]
 - [[Medicina preventiva\|Medicina preventiva]]
-### Salud de la mujer y del niño
+## Salud de la mujer y del niño
 - [[Ginecología\|Ginecología]]
 - [[Obstetricia\|Obstetricia]]
 - [[Pediatría\|Pediatría]]
-## Medicina por sistemas
-| Sistemas 🎛                        | Especialidad relacionada 🥼                   |
-| ------------------------------- | ------------------------------------------- |
-| [[Sistema cardiovascular\|Sistema cardiovascular]]          | [[Cardiología\|Cardiología]] <br> [[Angiología\|Angiología]] <br> [[Cirugía cardiovascular\|Cirugía cardiovascular]]     |
-| [[Sistema digestivo\|Sistema digestivo]]               | [[Gastroenterología\|Gastroenterología]] <br> [[Hepatología\|Hepatología]] <br> [[Cirugía general\|Cirugía general]]      |
-| [[Sistema endocrino\|Sistema endocrino]]               | [[Endocrinología\|Endocrinología]] <br> [[Cirugía de cabeza y cuello\|Cirugía de cabeza y cuello]] |
-| [[Sistema inmune y hematopoyético\|Sistema inmune y hematopoyético]] | [[Inmunología\|Inmunología]] <br> [[Hematología\|Hematología]] <br> [[Alergología\|Alergología]] <br> [[Reumatología\|Reumatología]]              |
-| [[Sistema locomotor\|Sistema locomotor]]               | [[Terapia física\|Terapia física]] <br> [[Traumatología\|Traumatología]]           |
-| [[Sistema nervioso\|Sistema nervioso]]                | [[Psiquiatría\|Psiquiatría]] <br> [[Neurología\|Neurología]] <br> [[Neurocirugía\|Neurocirugía]]                |
-| [[Sistema reproductor\|Sistema reproductor]]             | [[Ginecología\|Ginecología]] <br> [[Obstetricia\|Obstetricia]]                |
-| [[Sistema respiratorio\|Sistema respiratorio]]            | [[01 dr.linfocitop 👨‍⚕️/Neumología\|Neumología]] <br> [[Cirugía torácica\|Cirugía torácica]]            |
-| [[Sistema tegumentario\|Sistema tegumentario]]            | [[Dermatología\|Dermatología]] <br> [[Cirugía plástica\|Cirugía plástica]]          |
-| [[Sistema urinario\|Sistema urinario]]                | [[Urología\|Urología]] <br> [[Nefrología\|Nefrología]]                    |
-## Ciencias fundamentales 
+# Linfocito 👨‍⚕️ - Ciencias fundamentales 
 |                                                     Ciencias naturales                                                     |                               Ciencias formales                               |                                                                       Humanidades (letras puras)                                                                        |                                Humanidades (letras mixtas)                                 |
 |:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
 | [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[Física\|Física]] <br> [[Química\|Química]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] <br> [[Geología\|Geología]] <br> [[Astronomía\|Astronomía]] | [[01 dr.linfocitop 👨‍⚕️/Matemática\|Matemática]] <br> [[Estadística\|Estadística]] <br> [[Lógica\|Lógica]] <br> [[01 dr.linfocitop 👨‍⚕️/Informática\|Informática]] <br> | [[Antropología\|Antropología]] <br> [[Ciencias de la comunicación\|Ciencias de la comunicación]] <br> [[Derecho\|Derecho]] <br> [[Filosofía\|Filosofía]] <br> [[Filología\|Filología]] <br> [[Historia\|Historia]] <br> [[Sociología\|Sociología]] <br> [[Politología\|Politología]] | [[Demografía\|Demografía]] <br> [[Economía\|Economía]] <br> [[Geografía\|Geografía]] <br> [[Pedagogía\|Pedagogía]] <br> [[Psicología\|Psicología]] |
