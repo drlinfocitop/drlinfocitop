@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/alfonso-quiroz/","noteIcon":""}
 ---
  
-- ![Pasted image 20231205142204.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142204.png)
+- ![Pasted image 20231205142204.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205142204.png)
 ## Biografía
 - Alfonso W. Quiroz (1956-2013), autor de la Historia de la corrupción en el Perú, fue un destacado historiador peruano especializado en la historia económica e institucional del Perú y Cuba. 
 - *Bachillerato*: Pontificia Universidad Católica del Perú 
