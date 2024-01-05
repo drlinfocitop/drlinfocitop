@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/salvat-neurociencia-y-psicologia/","noteIcon":""}
 ---
 
-- ![Pasted image 20231105052911.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231105052911.png)
+- ![Pasted image 20231105052911.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231105052911.png)
 ## Catálogo
 1. ¿Cómo aprende (y recuerda) el cerebro?
 	- Principios de neurociencia para aplicar en la educación
