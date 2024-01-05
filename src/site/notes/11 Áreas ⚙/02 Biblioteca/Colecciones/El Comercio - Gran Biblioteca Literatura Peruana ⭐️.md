@@ -4,7 +4,7 @@
 
 ## Información
 - Lima - Peisa 2001
-- ![Pasted image 20231102064306.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102064306.png)
+- ![Pasted image 20231102064306.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102064306.png)
 ## Colección
 1. [[11 Áreas ⚙/02 Biblioteca/Un mundo para Julius\|Un mundo para Julius]] - [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]] ❌
 	- ⚡Editorial alfaguara ✅
@@ -14,7 +14,7 @@
 5. [[Todas las sangres\|Todas las sangres]] - [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]
 6. [[Matalaché\|Matalaché]] - [[Enrique López Albújar\|Enrique López Albújar]]
 7. [[11 Áreas ⚙/02 Biblioteca/No se lo digas a nadie\|No se lo digas a nadie]] - [[11 Áreas ⚙/01 Humanos/Jaime Bayly\|Jaime Bayly]] ✅
-8. [[Los perros hambrientos\|Los perros hambrientos]] - [[10 Entrada 🛒/Ciro Alegría\|Ciro Alegría]]
+8. [[Los perros hambrientos\|Los perros hambrientos]] - [[11 Áreas ⚙/01 Humanos/Ciro Alegría\|Ciro Alegría]]
 9. [[Garabombo, el invisible\|Garabombo, el invisible]] - [[Manuel Scorza\|Manuel Scorza]]
 10. [[La casa verde\|La casa verde]] - [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]
 11. [[Demonio del mediodía\|Demonio del mediodía]] - [[11 Áreas ⚙/01 Humanos/Alonso Cueto\|Alonso Cueto]]
@@ -23,7 +23,7 @@
 14. [[País de Jauja\|País de Jauja]] - [[Edgardo Rivera Martínez\|Edgardo Rivera Martínez]]
 15. [[Los últimos días de la prensa\|Los últimos días de la prensa]] - [[11 Áreas ⚙/01 Humanos/Jaime Bayly\|Jaime Bayly]]
 16. [[Los geniecillos dominicales\|Los geniecillos dominicales]] - [[Julio Ramón Riberyo\|Julio Ramón Riberyo]]
-17. [[La serpiente de oro\|La serpiente de oro]] - [[10 Entrada 🛒/Ciro Alegría\|Ciro Alegría]]
+17. [[La serpiente de oro\|La serpiente de oro]] - [[11 Áreas ⚙/01 Humanos/Ciro Alegría\|Ciro Alegría]]
 18. Poesía peruana - 50 Poetas del siglo XX
 19. [[Los ríos profundos\|Los ríos profundos]] - [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]
 20. [[La guerra del fin del mundo\|La guerra del fin del mundo]] - [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]
