@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/gran-enciclopedia-del-peru/","noteIcon":""}
 ---
 
-- ![Pasted image 20231029045221.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029045221.png)
+- ![Pasted image 20231029045221.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231029045221.png)
 ## Descripción
 - La GRAN ENCICLOPEDIA DEL PERÚ representa para Lexus Editores la culminación del anhelo de que nuestro que hacer editorial contribuya efectivamente a rescatar y difundir las riquezas culturales y humanas que el Perú alberga. 
 	- Consideramos que, sobre todo tras el duro periodo que le ha tocado vivir a nuestro país en los años pasados, una obra como la que hoy les ofrecemos es de necesidad impostergable, especialmente para que la juventud pueda profundizar su conocimiento de la geografía, historia, arqueología, atractivos turísticos tradiciones y folklore -y por su puesto de la situación actual- de todos y cada uno de los departamentos de nuestra patria.
