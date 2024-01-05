@@ -3,7 +3,7 @@
 ---
 
 - Precio: S/. 30:00
-- ![Pasted image 20231105055338.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231105055338.png)
+- ![Pasted image 20231105055338.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231105055338.png)
 ## Colección
 1. Cleopatra
 2. Lucrecia Borgia
