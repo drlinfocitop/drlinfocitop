@@ -4,7 +4,7 @@
 
 ## Información
 - Lima - Peisa 2001
-- ![Pasted image 20231102064433.png|300](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102064433.png)
+- ![Pasted image 20231102064433.png|300](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102064433.png)
 ## Colección
 1. [[Cien años de soledad\|Cien años de soledad]] - [[11 Áreas ⚙/01 Humanos/Gabriel García Márquez\|Gabriel García Márquez]] ✅
 2. Obra Poética - [[11 Áreas ⚙/01 Humanos/César Vallejo\|César Vallejo]]
@@ -29,6 +29,6 @@
 21. El señor presidente - [[Miguel Ángel Asturias\|Miguel Ángel Asturias]] 
 22. La invención de Morel - [[Adolfo Bioy Casares\|Adolfo Bioy Casares]] 
 23. [[11 Áreas ⚙/02 Biblioteca/La Habana para un infante difunto\|La Habana para un infante difunto]] - [[Guillermo Cabrera Infante\|Guillermo Cabrera Infante]] ✅
-24. El mundo es ancho y ajeno - [[10 Entrada 🛒/Ciro Alegría\|Ciro Alegría]]
+24. El mundo es ancho y ajeno - [[11 Áreas ⚙/01 Humanos/Ciro Alegría\|Ciro Alegría]]
 25. Bestiario / Todos los fuegos el fuego - [[11 Áreas ⚙/01 Humanos/Julio Cortázar\|Julio Cortázar]]
 26. [[Tantas veces Pedro\|Tantas veces Pedro]] - [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]]
