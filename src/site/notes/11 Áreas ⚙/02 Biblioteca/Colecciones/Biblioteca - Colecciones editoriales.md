@@ -21,7 +21,7 @@
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/IEP - Documento de trabajo\|IEP - Documento de trabajo]]
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/IEP - Historia Económica\|IEP - Historia Económica]]
 ### Colección Banco central de Reserva
-- ![Pasted image 20231117055409.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117055409.png)
+- ![Pasted image 20231117055409.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117055409.png)
 - Link: https://fondoeditorial.iep.org.pe/coleccion-bcr/ (Free)
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/IEP - Colección historias mínimas republicanas\|IEP - Colección historias mínimas republicanas]]
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/IEP - Historia Económica\|IEP - Historia Económica]]
