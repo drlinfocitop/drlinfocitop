@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/el-comercio-descubrir-la-filosofia/","noteIcon":""}
 ---
 
-![Pasted image 20231104133244.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231104133244.png) 
+![Pasted image 20231104133244.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231104133244.png) 
 ![Pasted image 20240102030329.png|300](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/Colecciones/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020240102030329.png)
 ## Colección
 - Falta 31 y 51-60
