@@ -3,8 +3,8 @@
 ---
 
 - Editorial Orbis Ventures 2005 
-- ![Pasted image 20231103061218.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231103061218.png)
-- ![Pasted image 20231103060012.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231103060012.png)
+- ![Pasted image 20231103061218.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231103061218.png)
+- ![Pasted image 20231103060012.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231103060012.png)
 
 ## Colección
 1. [[11 Áreas ⚙/02 Biblioteca/Comentarios Reales de los Incas - Antología\|Comentarios Reales de los Incas - Antología]] - [[Inca Garcilaso de la Vega\|Inca Garcilaso de la Vega]] ✅
@@ -16,6 +16,6 @@
 7. Textos Escogidos - Antología - [[11 Áreas ⚙/01 Humanos/Abraham Valdelomar\|Abraham Valdelomar]]
 8. [[Peregrinaciones de una paria\|Peregrinaciones de una paria]] - [[Flora Tristán\|Flora Tristán]]
 9. [[La Realidad Nacional\|La Realidad Nacional]] - [[Víctor Andrés Belaunde\|Víctor Andrés Belaunde]]
-10. [[El mundo es ancho y ajeno\|El mundo es ancho y ajeno]] - [[10 Entrada 🛒/Ciro Alegría\|Ciro Alegría]]
+10. [[El mundo es ancho y ajeno\|El mundo es ancho y ajeno]] - [[11 Áreas ⚙/01 Humanos/Ciro Alegría\|Ciro Alegría]]
 11. [[Paisajes Peruanos\|Paisajes Peruanos]] - [[José de la Riva Agüero\|José de la Riva Agüero]]
 12. 12 Pequeña Antología de Lima, El nombre del Perú - [[Raúl Porras Barrenechea\|Raúl Porras Barrenechea]]
