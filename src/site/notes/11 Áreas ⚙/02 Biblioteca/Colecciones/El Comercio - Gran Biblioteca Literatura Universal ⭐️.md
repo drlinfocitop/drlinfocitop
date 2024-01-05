@@ -4,8 +4,8 @@
 
 ## Información
 - Año: 2000
-- ![Pasted image 20231102060202.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102060202.png)
-- ![Pasted image 20231102064952.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102064952.png)
+- ![Pasted image 20231102060202.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102060202.png)
+- ![Pasted image 20231102064952.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231102064952.png)
 ## Colección 16-17 
 1. [[11 Áreas ⚙/02 Biblioteca/Crónica de una muerte anunciada\|Crónica de una muerte anunciada]] - [[11 Áreas ⚙/01 Humanos/Gabriel García Márquez\|Gabriel García Márquez]] ❌
 	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Oveja negra\|📔 Oveja negra]] ✅
