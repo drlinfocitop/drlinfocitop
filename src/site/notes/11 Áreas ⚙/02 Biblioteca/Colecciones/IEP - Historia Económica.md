@@ -3,7 +3,7 @@
 ---
 
 
-- ![Pasted image 20231117054801.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117054801.png)
+- ![Pasted image 20231117054801.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117054801.png)
 ## Colección Monografías
 1. [[11 Áreas ⚙/02 Biblioteca/Estudios sobre la independencia económica del Perú\|Estudios sobre la independencia económica del Perú]] ✅
 2. [[11 Áreas ⚙/02 Biblioteca/Empresas Británicas Economía y Política en el Perú 1850-1934\|Empresas Británicas Economía y Política en el Perú 1850-1934]] ✅
@@ -68,7 +68,7 @@
 	1. La Economía Social De La Minería En El Perú Del Siglo XIX 
 	2. José R. Deustua
 ## Colección Compendio de Historia Económica
-- ![Pasted image 20231117054932.png|300](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117054932.png)
+- ![Pasted image 20231117054932.png|300](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231117054932.png)
 ## Lista
 1. [[11 Áreas ⚙/02 Biblioteca/Compendio I - Economía Prehispánica\|Compendio I - Economía Prehispánica]] ✅
 2. [[11 Áreas ⚙/02 Biblioteca/Compendio II - Economía del Periodo Colonial Temprano\|Compendio II - Economía del Periodo Colonial Temprano]] ✅
