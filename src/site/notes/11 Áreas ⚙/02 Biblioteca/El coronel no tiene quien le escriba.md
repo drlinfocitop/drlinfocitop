@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/el-coronel-no-tiene-quien-le-escriba/","noteIcon":""}
 ---
 
-- ![Pasted image 20231201051001.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231201051001.png)
+- ![Pasted image 20231201051001.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231201051001.png)
 ## Comentario
 - Se narra las complicaciones de un general pobre, que padece fiebre y donde su esposa padece asma. El general espera su pensión por servicio a la defensa de la ciudad, pero no llega. Además espera la pelea de su gallo, que además de ser un recuerdo de su hijo muerto es un gran favorito para la victoria. 
 - La historia muestra las penurias de una familia y la esperanza casi absurda en un gallo, quizás analogía de nuestras esperanzas en momentos críticos.
