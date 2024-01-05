@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/julio-cotler/","noteIcon":""}
 ---
 
-- ![Pasted image 20231205140038.png|200](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205140038.png)
+- ![Pasted image 20231205140038.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231205140038.png)
 ## Obras
 1. 1992 - [[11 Áreas ⚙/02 Biblioteca/Clases, Estado y Nación en el Perú\|Clases, Estado y Nación en el Perú]]
 	1. Clásico de las ciencias sociales en el Perú.
