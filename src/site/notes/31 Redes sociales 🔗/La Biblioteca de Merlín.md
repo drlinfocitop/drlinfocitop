@@ -624,13 +624,50 @@
 #### 210 - 😿 ¿CUANDO ACABARÁN LAS GUERRAS? | ¿El fin de la historia?
 #### 211 - 😨 ¿RICARDO PALMA CAZADOR DE FANTASMAS? | Especial de Halloween 😨
 #### 212 - 😱 HISTORIA DE LOS JUDÍOS EN EL PERÚ | ¿La inquisición los ejecutó? 😱
-#### 213 - 😱 ¡RESUELTO! | El misterio de los soldados desaparecidos de la Guerra con Chile 😱
-#### 214 - 😨 ¿Sabemos REALMENTE ALGO sobre los Incas? 😨
-#### 215 - El Pensadero de Merlin | La virtud de la SOLEDAD
-#### 216 - 😨 ¿Habían DINOSAURIOS en el Perú? 😨 Sí, y muchos...
-#### 217 - 😵 MITOS COMUNES de la Edad Media 😵
+#### 213 - **😱 ¡RESUELTO! | El misterio de los soldados desaparecidos de la Guerra con Chile 😱**
+#### 214 - **😨 ¿Sabemos REALMENTE ALGO sobre los Incas? 😨**
+#### 215 - **El Pensadero de Merlin | La virtud de la SOLEDAD**
+#### 216 - **😨 ¿Habían DINOSAURIOS en el Perú? 😨 Sí, y muchos...**
+#### 217 - **😵 MITOS COMUNES de la Edad Media 😵**
+#### 218 - **😵 DESMINTIENDO MITOS DE LA CONQUISTA 😵**
+- **Mito 1**: La población indígena muere por las guerras contra españoles
+	- Libro gratuito - Cook: https://repositorio.pucp.edu.pe/index/handle/123456789/181735
+	- Muertes por enfermedades principalmente
+	- No tenía sentido el genocidio si luego se haría un trabajo mitayo
+- **Mito 2**: La inquisición ejecutó indígenas
+	- No tuvo como como objetivo a los indígenas
+	- Extirpación de idolatrías
+	- Protestante, herejes, hechiceros, judíos
+	- Mateo Salado. Primer víctima de la inquisición. Huaca en Pueblo Libre
+- **Mito 3**: La evangelización en Perú fue un éxito rotundo
+	- [[Luis Millones\|Luis Millones]]. Sociedad medianamente evangelizada
+	- Taki Onkoy: resistencia contra el mundo hispánico
+	- Problema del idioma
+	- [[Escritos de Historia Andina\|Escritos de Historia Andina]] - [[Pierre Duviols\|Pierre Duviols]] - Tomo III
+		- Al inicio evangelización desorganizada
+		- Extirpación de idolatrías, destrucción de huacas. 
+		- Huarochirí
+		- Curas elegían las huacas para sus iglesias y luego saquearlas
+	- [[Del paganismo a la santidad\|Del paganismo a la santidad]] - [[Juan Carlos Estenssoro Fuchs\|Juan Carlos Estenssoro Fuchs]]
+- **Mito 4**: Perros de Guerra en Cajamarca
+	- Perros en la caída del Inca Atahualpa. Es falso
+	- Perros en la sierra, altura, lluvias (agua en oídos)
+	- [[José Antonio del Busto\|José Antonio del Busto]] - La conquista del Perú
+- **Mito 5**: La administración del virreinato era perfecta y eficiente
+	- Corrupción de los virreyes - [[11 Áreas ⚙/02 Biblioteca/Historia de la corrupción en el Perú\|Historia de la corrupción en el Perú]] - [[11 Áreas ⚙/01 Humanos/Alfonso Quiroz\|Alfonso Quiroz]]
+	- [[Aplaca, Señor, tu ira...\|Aplaca, Señor, tu ira...]] - [[Fernando Iwasaki\|Fernando Iwasaki]]: malos olores de Lima. Se busca comprar una carreta pero se llevan el dinero
+	- No había respeto a la ley. La plaza mayor era un mercado, lleno de basura. Los comerciantes regresaban.
+		- [[El comercio menudista ambulante en Lima colonial 1750-1820\|El comercio menudista ambulante en Lima colonial 1750-1820]] - [[César Mexicano Ramos\|César Mexicano Ramos]]
+	- Contrabando en las murallas de Lima
+	- Tradiciones peruanas, en fiestas religiosas, borrachos por las calles
+- **Mito 6**: Los españoles conservaron el quechua por ser de gran valor cultural
+	- Preservaron el quechua, para poder evangelizarlos. Consolidar la conquista
+		- Indagaciones peruanas - Raúl Porras Barrenechea
+		- [[500 años después. El fin de la historia\|500 años después. El fin de la historia]] - Artículo de [[Fanni Muñoz\|Fanni Muñoz]]
+			- Proceso ambivalente
+			- El manejo de quechua se realizó para controlar
 ### En vivo
-#### 1 - **Novedades del canal**
+#### 1 - Novedades del canal
 - Bandas Favoritas:
 	- Cereal asesino
 	- Nazguil
@@ -645,11 +682,11 @@
 	- Tarjeta de video 1600 60 super
 	- Canon T7iq lente 50 mm fijos
 	- Blue Yeti
-#### 2 - **Preguntas y Respuestas con el tío Merlín** ✅ 
+#### 2 - Preguntas y Respuestas con el tío Merlín 
 - Cuadro embrujado - Padre lo exorcisa - Renua??
 - Merlín ve un ovni en el cielo
 #### 3 -
-#### 4 - **Especial de San Valentín**
+#### 4 - Especial de San Valentín
 - Historia de Bigotes
 	- regalo de ex-enamorada
 	- Elige 1 de 4 gatos en un caja, el gato chiquito y orejón
@@ -660,16 +697,16 @@
 #### 6 -
 #### 7 -
 #### 8 -
-#### 9 - ✅
-#### 10 - **MI PRIMER TRABAJO** ✅
+#### 9 - 
+#### 10 - Mi primer trabajo
 - Trabajo vendiendo libros en Salaverry
 - Trabajo en esteras
-#### 11 - Anécdotas de Academia ✅
-#### 12 - Jalado en Matemáticas ✅
-#### 13 - **¡Somos 99k suscriptores!** ✅
-- Menciona su setup 36:00
+#### 11 - Anécdotas de Academia 
+#### 12 - Jalado en Matemáticas 
+#### 13 - ¡Somos 99k suscriptores!
+- Menciona su *set up* 36:00
 - Oradores: Alan García: recuento de la vida es sueño. Luego de su retorno al Perú
-#### 14 - **100K** ✅
+#### 14 - 100K
 - Blue Yeti - 500
 - Canon T7i - 5000
 - Computadora que edita videos - ✅
@@ -690,7 +727,7 @@
 #### 46 - Especial de Halloween ✅
 #### 47 - Así hice mi primer libro ✅
 #### 48 - **Cosas de Youtubers feat Histeria del Perú**
-#### Stream Apócrifo - **¡UNBOXING DE DOS CAJAS LLENAS DE LIBROS!¿Estará el incunable?**
+#### Stream Apócrifo - ¡UNBOXING DE DOS CAJAS LLENAS DE LIBROS!¿Estará el incunable?
 - Encuentra los populibros
 #### 49 - Travesuras de colegio
 #### 50 - **Anécdotas de cachinero + tips**
@@ -823,14 +860,14 @@
 - Miembros hay un columna de opinión de Merlín, desde 5 soles al mes
 - Arjona: Minutos hace llorar a Merlin
 #### 108 - Anécdota faite
-#### 110 - **Propongan el tema**
+#### 110 - Propongan el tema
 - Merlín Franco
 - Arroz chaufa y frijol con tocino
 - Chester voz de nuevo
 - Historia del robo de celular de Duque
 - Merlín busca quien catalogue su biblioteca
 #### 114 - Gané los Premios Luces
-#### 119 - **Anécdotas variadas**
+#### 119 - Anécdotas variadas
 - Para leer a Campbell (gran teoría de las religiones) antes leer E. O James. Historia de las religiones
 	- ![Pasted image 20231219013134.png|150](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231219013134.png)
 	- Libro historia de las religiones de la biblioteca Hispana
@@ -868,7 +905,7 @@
 - Buscar Peter Burke
 #### 122 - Se regalan libros mañana
 #### 133 - Algo vergonzoso me pasó en la FIL ✅ 
-#### 136 - **Anécdotas de entrevista**
+#### 136 - Anécdotas de entrevista
 - Con Orosco - Ranita de sapolio
 - Recomienda versión corregida Tupac Amaru 1:16:42
 - ¿Cuántos libros lees al mes? no lo cuenta
@@ -880,7 +917,7 @@
 #### 142 - Duque-Batman - foto de duque - Historia de peleas y futbol ✅ 
 #### 143 - Me propusieron entrar a la política. ✅ 
 - Polos XXXL anécdota hotel
-#### 144 - **Un taxista poco común** ✅ 
+#### 144 - Un taxista poco común
 - Merlín comparte libros se molesto con los trolls 32:00
 	- https://www.ey.com/es_pe/growth/la-historia-en-ey
 	- https://beta.acuedi.org/
@@ -891,7 +928,7 @@
 		- Diccionario de sociología 15
 		- Libro de postmodernidad
 	- Editorial el Muqui: bestiario del ande
-#### 145 - **Anécdotas con intelectuales** ✅ 
+#### 145 - Anécdotas con intelectuales
 - Historia Universal
 	- SALVAT
 	- Colección de National Geographic - Peter Burket 40 tomos - José Enrique Ruiz-Domènec
@@ -907,12 +944,12 @@
 	3. Distracciones
 - Cueto - Como leer un libro de historia
 - Nocion juridica del indio en la colonia 
-#### 147 - **YA vi la película de NAPOLEÓN... y es mala**
+#### 147 - YA vi la película de NAPOLEÓN... y es mala
 - Tallerant personaje favorito de merlín
 - Merlín tiene una medalla prusiana
 - Historiadores más conservadores: arte, derecho, económicos
 - Merlíin es liberal pero no intolerante, te puede fimar un capital de MArx sin asco
-#### 148 - **Los extremismos**
+#### 148 - Los extremismos
 - Voló el libro del Muqui: Supay Muqui
 - Bonaparte . Patrick . Del fondo de cultura económica
 - Borges Babilónico. 30% de descuento
@@ -957,13 +994,13 @@
 	- Librería 24: merlín-truco 
 		- Pregunta-gira-pregunta
 	- Librería 25: San Cristóbal (caros)
-#### 149 - **Mecenas Raros**
+#### 149 - Mecenas Raros
 - Auspiciador que le rebajo el precio y luego no contrato
 - Escritora le ofrece libro 
 - Huaquero trabaja por comisión
 - Suscriptor que ofrecía atún, y estaba rico
 - Leguaje del amor es el tamal--- Anterior anécdota que le daba tamal luego de una cita
-#### 150 - **Anécdotas de enfermo**
+#### 150 - Anécdotas de enfermo
 - Mircea Eliade - Autor para leer sobre religión
 - Merlín recuerda sus casos médicos
 	- Muela
@@ -1014,6 +1051,76 @@
 	- Imperialismo, Guerras Mundiales, Guerra de Vietnam
 	- Historia del Perú: Precerámico, Inca, conquista, rebelión de encomenderos, reformas borbónicas, 1er militarismo, guerra con Chile, Leguía
 - **Consejo 8**: No centrarse en un solo tema
+#### 152 - Así hago mis videos de Historia
+- Parafrasear diferente a cantinflear
+- Historia del periodismo - Rosas Moscoso - Editorial Ricardo Palma
+- Claudia Rosas: historia de las mentalidades
+- Historiadora: [[Cecilia Méndez\|Cecilia Méndez]] experta oradora
+	- Libro: La República plebeya
+	- Grupo de indígenas iquichanos rebelión de Huanta, "Guerra de Iquicha" entre 1825 y 1828, enfrentando al ejército de la naciente República del Perú y los insurgentes realistas de Huanta.
+- **Consejo 1**: Elección de tema
+	- Todas las semanas tener una parrilla de lecturas: Leer cruzado. 3-4 libros al mismo tiempo. No necesariamente terminarlos
+	- Ejemplos: 
+		- Hechiceras, beatas y expósitas - María Emma Mannarelli
+		- La refundación del centro del mundo - Rodolfo Sánchez Garrafa
+		- 2061: odisea 3
+	- El cerebro busca relaciones entre ellos, y elige un tema de preferencia
+	- Seguir tendencia. Buscar temas "historisables".
+	- Leer por interés
+- **Consejo 2**: Estudio histórico aproximadamente 30 años hasta el presente
+	- Balance general óptimo
+- **Consejo 3**: Buscar bibliografía
+	- Expande la bibliografía con las citas
+	- Marines Valdivia todo el libro cuenta: carátula, exlibris y bibliografía
+- **Consejo 4**: cruzar información con la web
+	- Investigar, repositorios
+	- San Marcos: ISHRA
+		- https://revistasinvestigacion.unmsm.edu.pe/index.php/ishra
+	- PUCP: Histórica
+		- https://revistas.pucp.edu.pe/index.php/historica
+		- Estudio de los gigantes de Hipólito Unanue
+- **Consejo 5**: Usa diccionarios
+	- Ficha resumen. Definiciones
+- **Consejo 6**: graba, espacio silencioso
+	- Blue Yeti
+	- Canon T7i - Modo manual
+	- Vegas pro 15
+	- Raizen 7 6700X
+	- Tarjeta de video 1660 super 
+	- 16 gb de ram
+- **Consejo 7**: analiza las métricas
+- Datos que han cambiado sobre Machupicchu
+- Video apócrifo: https://www.youtube.com/live/56qxcqgSvRU?si=oKB9WnmwLuGDdLVq&t=6544
+	- *1 - ¿Qué es realmente Machu Picchu?*
+		- No hay certeza. Fortaleza, ayllus transitorio, Santuario, Refugio del Inca 
+		- Machu Picchu - Luis E Varcárcel - FCE - Libro de los años 50's. Ha tenido variaciones en el tiempo
+		- Hiram Bingham buscaba el refugio los Incas de Vilcabamba
+			- Ya no se considera a Bingham como descubridor, solo como 
+	- *2 - ¿Quién llegó primero?*
+		- Alemán Burns huaqueo Machu Picchu 10 años antes
+		- Yale devolverá reliquias
+		- Huaqueo legal en siglo XX
+	- *3 - Se hallaron discos inexplicables*
+		- ![Pasted image 20240105012012.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020240105012012.png)
+		- ![Pasted image 20240105012057.png|200](/img/user/31%20Redes%20sociales%20%F0%9F%94%97/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020240105012057.png)
+		- Discos de piedra del libro de Valcárcel. Erosionadas "posible escritura?". 42 ovaladas 19 triangulares. Solo existen en Machu Picchu
+			- Este dato debe ser corroborado
+	- *4 - ¿Machu Picchu estuvo habitada principalmente por mujeres?*
+		- Falso. Datos antiguos. Se han encontrado esqueletos masculinos.
+		- No es Acllahuasi "casa de las escogidas"
+	- *5 - ¿La intihuatana esta incompleta?*
+		- José Gabriel Cosío Medina: en 1912 la intihuatana poseía un "aro de piedra"
+		- Valcárcel señala que en la intihuatana de Pisac si hay indicios de un aro de piedra.
+		- No se sabe para que servía el aro 
+	- *6 - Misterios variados*
+		- Antes se pensaba que no había oro. Ya se encontró un brazalete de oro
+		- No se encontraron armas. Ya se encontraron armas
+		- No se encontraron cráneos trepanados
+		- Existen escaleras que no dirigen a ningún lado
+		- Abastecimiento de agua. Ya se encontró una fuente de agua
+		- Ningún cronista menciona a Machu Picchu, es posible que los incas no lo conocieran. Es posible que sea preincaico.
+			- Templo Chavín de Huántar tampoco se conoció su ubicación por los cronistas.
+- Libro actualizado sobre Machupicchu - Investigaciones interdisciplinarias: https://www.machupicchu.gob.pe/libro-machupicchu/
 ### Especiales
 - SOY VENDEDOR DE LIBROS POR UN DÍA 💰 | Un día como librero
 	- 250 soles por día
