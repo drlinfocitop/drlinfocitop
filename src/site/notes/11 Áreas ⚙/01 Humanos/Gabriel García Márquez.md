@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/gabriel-garcia-marquez/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122044023.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122044023.png)
+- ![Pasted image 20231122044023.png|200](/img/user/11%20%C3%81reas%20%E2%9A%99/01%20Humanos/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122044023.png)
 ## Novelas
 1. [[La hojarasca\|La hojarasca]] - 1955
 2. [[11 Áreas ⚙/02 Biblioteca/El coronel no tiene quien le escriba\|El coronel no tiene quien le escriba]] - 1961
