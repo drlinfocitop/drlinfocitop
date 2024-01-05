@@ -5,9 +5,9 @@
 - España
 - 1ra edición: 1969 - 1971
 - https://laflechanegrasigloxv.blogspot.com/search/label/Colecci%C3%B3n%20Biblioteca%20B%C3%A1sica%20Salvat 
-- ![Pasted image 20231109025023.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231109025023.png)
+- ![Pasted image 20231109025023.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231109025023.png)
 - 2da edición: 1982 -1984
-- ![Pasted image 20231109120028.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231109120028.png)
+- ![Pasted image 20231109120028.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231109120028.png)
 - Editorial Salvat y editorial Alianza
 ## Colección
 1. [[La tía Tula\|La tía Tula]] - [[Miguel de Unamuno\|Miguel de Unamuno]] 🟩1
@@ -223,4 +223,4 @@
 
 100 El tren llegó puntual - Henrich Boll ❌
 
-![Pasted image 20231109120837.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231109120837.png)
+![Pasted image 20231109120837.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231109120837.png)
