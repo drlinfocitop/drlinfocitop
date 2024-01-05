@@ -3,7 +3,7 @@
 ---
 
 - Precio: S/. 30.00
-- ![Pasted image 20231105054414.png|340](/img/user/10%20Entrada%20%F0%9F%9B%92/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231105054414.png)
+- ![Pasted image 20231105054414.png|340](/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231105054414.png)
 ## Colección
 1. Adolf Hitler - El Odio Exterminador
 2. Vlad Draculea - El Empalador De Valaquia
