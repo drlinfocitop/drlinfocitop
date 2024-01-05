@@ -394,7 +394,7 @@
 - Libros:
 	- [[11 Áreas ⚙/02 Biblioteca/Nación y Sociedad en la Historia del Perú\|Nación y Sociedad en la Historia del Perú]] - [[Peter Klarén\|Peter Klarén]]
 		- 03 de octubre de 1968 en horas de la madrugada. Golpe de estado. Refugio en Argentina.
-	- [[Los años de Velazco 1968-1975\|Los años de Velazco 1968-1975]] - [[Rolando Rojas\|Rolando Rojas]] : Salud de Velasco. 9 de marzo se encuentra una pierna necrosada.
+	- [[Los años de Velasco 1968-1975\|Los años de Velasco 1968-1975]] - [[Rolando Rojas\|Rolando Rojas]] : Salud de Velasco. 9 de marzo se encuentra una pierna necrosada.
 	- [[La caída de Velasco\|La caída de Velasco]] - [[Antonio Zapata\|Antonio Zapata]]
 	- [[La revolución peculiar\|La revolución peculiar]] - [[Carlos Aguirre\|Carlos Aguirre]] - [[Paulo Drinot\|Paulo Drinot]]
 		- Ensayos sesudos, recomendado
@@ -411,7 +411,7 @@
 - SINAMOS: 
 - Sin SINAMOS se pierde la relación con el campo
 - 1968: golpe de estado - página 11
-- [[Los años de Velazco 1968-1975\|Los años de Velazco 1968-1975]] - [[Rolando Rojas\|Rolando Rojas]]
+- [[Los años de Velasco 1968-1975\|Los años de Velasco 1968-1975]] - [[Rolando Rojas\|Rolando Rojas]]
 	- Reforma agraria - Nacionalización - Cooperativas
 - 1971: se crea el SINAMOS: sistema nacional de apoyo a la socialización
 - "Sin - amos"
@@ -440,6 +440,30 @@
 #### 136 - **⚽ Historia del FÚTBOL en el Perú | Así fueron sus orígenes...**
 #### 137 - **😔 1881: EL AÑO EN QUE CHILE TOMÓ LIMA**
 #### 138 - **😰 LA HUELGA MÁS GRANDE DE LA HISTORIA DEL PERÚ 😰**
+- *Libro*: [[Los años de Velasco 1968-1975\|Los años de Velasco 1968-1975]] - [[Rolando Rojas\|Rolando Rojas]]
+- *Libro*: [[La caída de Velasco\|La caída de Velasco]] - [[Antonio Zapata\|Antonio Zapata]] - Editorial Taurus
+- 22 de Febrero de 1973. Velasco enferma.
+- Luis Varga Caballero, afirma que Perú es un país occidental y católico y se deslinda de Velasco
+- Huelga 5 de Febrero 1975 
+	- 10 de muertos
+	- Saqueos en Lima
+	- Se sumó la policía - País en anarquía
+		- Aumento de salario
+		- Remoción de administrativos corruptos
+		- Mejor trato de parte de los superiores
+	- Radio patrulla: lugar de protestas. Los militares la intervienen y se producen muertes
+	- Se saquean tiendas de ropa y electrodomésticos
+	- Se incendia el diario correo, el casino militar, SINAMOS y el centro cívico.
+	- Se produce mayor represión. Tropa militar 2da, a cardo de Leónidas Rodríguez. Disparos a los manifestantes y saqueadores.
+	- Se suspendieron las garantías constitucionales y toque de queda.
+	- 86 muertes, 155 heridos 1612 detenidos 53 policías enjuiciados. Cálculo aproximado.
+- Se culpó a los apristas.
+- Crisis económica y tensiones con Chile.
+- Salida: Remover a Velasco por Morales Bermúdez
+	- MB intentaba quedar bien con todos políticamente.
+- *Libro*:  [[Lucha política y crisis social\|Lucha política y crisis social]] - [[Antonio Zapata\|Antonio Zapata]] - PUCP
+- Morales Bermúdez se subleva en Tacna.
+	- Medio día de 29 de agosto de 1975 Velasco deja el poder.
 #### 139 - **😵 DESMINTIENDO MITOS COMUNES EN LA HISTORIA 😵 | ¿Nos contaron mal algunas cosas?**
 - *1 - Fueron más de 300*
 	- Historia de Grecia - Hermann Bengtson
