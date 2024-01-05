@@ -236,6 +236,7 @@
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122032151.png) | [[11 Áreas ⚙/01 Humanos/Leo Tolstoy\|Leo Tolstoy]]                       | Realismo             | Rusia              |
 | ![png\|60](https://drlinfocitop.netlify.app/img/user/11%20%C3%81reas%20%E2%9A%99/02%20Biblioteca/%F0%9F%92%BE%20Adjuntos/Pasted%20image%2020231122031253.png) | [[11 Áreas ⚙/01 Humanos/Nohan Gordon\|Nohan Gordon]]                     | Actualidad           | USA                |
 | ![png\|60](https://drlinfocitop.netlify.app/img/optimized/aNRgDMJJGz-700.webp)                                                                                | [[11 Áreas ⚙/01 Humanos/Ray Bradbury\|Ray Bradbury]]                     | Ciencia ficción      | USA                |
+| ![png\|60](\-)                                                                                                                                                | [[11 Áreas ⚙/01 Humanos/Roberto Calasso\|Roberto Calasso]]               | literatura comparada | Italia             |
 
 { .block-language-dataview}
 
