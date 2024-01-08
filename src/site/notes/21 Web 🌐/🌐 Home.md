@@ -17,7 +17,7 @@
 |:---------------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
 | [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] | [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] | [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]] | [[Fisiopatología\|Fisiopatología]] <br> [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[Inmunología\|Inmunología]] <br> [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]] |
 
-- Enfoque de las [[10 Entrada 🛒/Ciencias básicas por Sistemas\|Ciencias básicas por Sistemas]]
+- Enfoque de las [[01 dr.linfocitop 👨‍⚕️/Ciencias básicas por Sistemas\|Ciencias básicas por Sistemas]]
 - ### Salud Pública y humanidades médicas
 	- [[Bioestadística\|Bioestadística]]
 	- [[Epidemiología\|Epidemiología]]
@@ -62,21 +62,14 @@
 - **FREE**: [[11 Áreas ⚙/02 Biblioteca/Colecciones/Libros Gratis Legales\|Libros Gratis Legales]]
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/Biblioteca - Colecciones editoriales\|Biblioteca - Colecciones editoriales]]
 # Hobbies ✨
-| Hobbie         | Link                                                                     |
-| -------------- | ------------------------------------------------------------------------ |
-| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]] |
-| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Bibliofilia 📜\|Bibliofilia 📜]]                 |
-| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Deporte 🏃‍♂️\|Deporte 🏃‍♂️]]                   |
-| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Música 🎵\|Música 🎵]]                           |
-| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Tecnología 📡\|Tecnología 📡]]                   |
-| ![png\|60](\-) | [[11 Áreas ⚙/05 Cine/Cine 🎞\|Cine 🎞]]                               |
+| Hobbie                                                                         | Link                                                                     |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| ![png\|60](\-)                                                                 | [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]] |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/z9-OfjNxre-700.webp) | [[11 Áreas ⚙/00 MOCs/Bibliofilia 📜\|Bibliofilia 📜]]                 |
+| ![png\|60](\-)                                                                 | [[11 Áreas ⚙/00 MOCs/Cine 🎞\|Cine 🎞]]                               |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/SoZIeyyT9v-599.webp) | [[11 Áreas ⚙/00 MOCs/Deporte 🏃‍♂️\|Deporte 🏃‍♂️]]                   |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/7upNMTBFwu-700.webp) | [[11 Áreas ⚙/00 MOCs/Música 🎵\|Música 🎵]]                           |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/EZXYtYTCkU-700.webp) | [[11 Áreas ⚙/00 MOCs/Tecnología 📡\|Tecnología 📡]]                   |
 
 { .block-language-dataview}
 
-
-- [[11 Áreas ⚙/00 MOCs/Bibliofilia 📜\|Bibliofilia 📜]]
-- [[11 Áreas ⚙/00 MOCs/Música 🎵\|Música 🎵]]
-- [[11 Áreas ⚙/05 Cine/Cine 🎞\|Cine 🎞]]
-- [[11 Áreas ⚙/00 MOCs/Deporte 🏃‍♂️\|Deporte 🏃‍♂️]]
-- [[11 Áreas ⚙/00 MOCs/Tecnología 📡\|Tecnología 📡]]
-- [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]]
