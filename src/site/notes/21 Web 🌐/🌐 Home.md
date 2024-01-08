@@ -64,7 +64,7 @@
 # Hobbies ✨
 | Hobbie                                                                         | Link                                                                     |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![png\|60](\-)                                                                 | [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]] |
+| ![png\|60](https://drlinfocitop.netlify.app/img/optimized/gL-3_J8EN7-700.webp) | [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]] |
 | ![png\|60](https://drlinfocitop.netlify.app/img/optimized/z9-OfjNxre-700.webp) | [[11 Áreas ⚙/00 MOCs/Bibliofilia 📜\|Bibliofilia 📜]]                 |
 | ![png\|60](\-)                                                                 | [[11 Áreas ⚙/00 MOCs/Cine 🎞\|Cine 🎞]]                               |
 | ![png\|60](https://drlinfocitop.netlify.app/img/optimized/SoZIeyyT9v-599.webp) | [[11 Áreas ⚙/00 MOCs/Deporte 🏃‍♂️\|Deporte 🏃‍♂️]]                   |
