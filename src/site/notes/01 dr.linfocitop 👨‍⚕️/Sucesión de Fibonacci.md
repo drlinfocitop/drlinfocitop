@@ -4,7 +4,7 @@
 
 - Definida como la suma de los 2 anteriores número naturales, siendo el primero $a_0=0$ y el segundo $a_1=1$
 $$0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597...$$
-- Definición recursiva
+- Definición recursiva, $n \geq 2$
 $$a_{n+1}=a_n+a_{n-1}$$
 ## Resolución matricial
 - Expresión matricial
