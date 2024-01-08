@@ -62,3 +62,21 @@
 - **FREE**: [[11 Áreas ⚙/02 Biblioteca/Colecciones/Libros Gratis Legales\|Libros Gratis Legales]]
 - [[11 Áreas ⚙/02 Biblioteca/Colecciones/Biblioteca - Colecciones editoriales\|Biblioteca - Colecciones editoriales]]
 # Hobbies ✨
+| Hobbie         | Link                                                                     |
+| -------------- | ------------------------------------------------------------------------ |
+| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]] |
+| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Bibliofilia 📜\|Bibliofilia 📜]]                 |
+| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Deporte 🏃‍♂️\|Deporte 🏃‍♂️]]                   |
+| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Música 🎵\|Música 🎵]]                           |
+| ![png\|60](\-) | [[11 Áreas ⚙/00 MOCs/Tecnología 📡\|Tecnología 📡]]                   |
+| ![png\|60](\-) | [[11 Áreas ⚙/05 Cine/Cine 🎞\|Cine 🎞]]                               |
+
+{ .block-language-dataview}
+
+
+- [[11 Áreas ⚙/00 MOCs/Bibliofilia 📜\|Bibliofilia 📜]]
+- [[11 Áreas ⚙/00 MOCs/Música 🎵\|Música 🎵]]
+- [[11 Áreas ⚙/05 Cine/Cine 🎞\|Cine 🎞]]
+- [[11 Áreas ⚙/00 MOCs/Deporte 🏃‍♂️\|Deporte 🏃‍♂️]]
+- [[11 Áreas ⚙/00 MOCs/Tecnología 📡\|Tecnología 📡]]
+- [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]]
