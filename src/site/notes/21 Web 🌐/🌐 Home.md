@@ -18,12 +18,12 @@
 | [[01 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[01 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[01 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] | [[01 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[01 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[01 dr.linfocitop 👨‍⚕️/Histología\|Histología]] | [[01 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[01 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[01 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]] | [[Fisiopatología\|Fisiopatología]] <br> [[01 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[Inmunología\|Inmunología]] <br> [[01 dr.linfocitop 👨‍⚕️/Genética\|Genética]] |
 
 - Enfoque de las [[10 Entrada 🛒/Ciencias básicas por Sistemas\|Ciencias básicas por Sistemas]]
-### Salud Pública y humanidades médicas
-- [[Bioestadística\|Bioestadística]]
-- [[Epidemiología\|Epidemiología]]
-- [[01 dr.linfocitop 👨‍⚕️/Bioética\|Bioética]]
-- [[Filosofía médica\|Filosofía médica]]
-- [[Medicina preventiva\|Medicina preventiva]]
+- ### Salud Pública y humanidades médicas
+	- [[Bioestadística\|Bioestadística]]
+	- [[Epidemiología\|Epidemiología]]
+	- [[01 dr.linfocitop 👨‍⚕️/Bioética\|Bioética]]
+	- [[Filosofía médica\|Filosofía médica]]
+	- [[Medicina preventiva\|Medicina preventiva]]
 ## Ciencias clínico-quirúrgicas
 |                                      Fundamentos 🩺                                       |                                                                                                           Medicina interna 👨‍⚕️                                                                                                           |                                                                                     Especialidades 🏥                                                                                      |                                                  Fundamentos de cirugía                                                  |                                                                                                        Especialidades en Cirugía                                                                                                        |
 |:-----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
