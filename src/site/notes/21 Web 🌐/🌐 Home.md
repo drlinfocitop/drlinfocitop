@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/21-web/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-<center>**Doctor Linfocito P**</center>
+<header style="text-align: center; background-color: #333; color: #fff; padding: 50px;"> <font face="Arial, sans-serif" size="5" color="#ffffff"> <b><i>Mi Título Elegante</i></b> </font> </header>
 
 <title>Diario del festival de heavy metal de la abuela</title>
 
