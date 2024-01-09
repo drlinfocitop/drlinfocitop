@@ -2,13 +2,7 @@
 {"dg-publish":true,"permalink":"/21-web/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-<header style="text-align: center; background-color: #333; color: #fff; padding: 50px;"> <font face="Arial, sans-serif" size="5" color="#ffffff"> <b><i>Mi Título Elegante</i></b> </font> </header>
-
-<title>Diario del festival de heavy metal de la abuela</title>
-
-
-
-![logo-linfocito.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/%F0%9F%92%BE%20Adjuntos/logo-linfocito.png)
+   <header style="text-align: center; color: #3498db; padding: 50px;"> <font face="Helvetica, Arial, sans-serif" size="5" color="#3498db"> <b><i>Mi Título Elegante</i></b> </font> </header>  ![logo-linfocito.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/%F0%9F%92%BE%20Adjuntos/logo-linfocito.png)
 
 >[!note] **Home** Doctor Linfocito P 👨‍⚕️
 > - **Redes sociales**
