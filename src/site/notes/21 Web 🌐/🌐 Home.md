@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/21-web/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-   <header style="text-align: center; color: #3498db; padding: 50px;"> <font face="Helvetica, Arial, sans-serif" size="10" color="#3498db"> <b>Doctor Linfocito P</b> </font> </header>  
+   <div style="text-align: center; color: #3498db; padding: 50px;"> <font face="Helvetica, Arial, sans-serif" size="10" color="#3498db"> <b>Doctor Linfocito P</b> </font> </div>  
    
    ![logo-linfocito.png|300](/img/user/01%20dr.linfocitop%20%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F/%F0%9F%92%BE%20Adjuntos/logo-linfocito.png)
 
@@ -12,6 +12,8 @@
 >- **Grupos**
 >	[[🔗WhatsApp\|🔗WhatsApp]] [[🔗Telegram\|🔗Telegram]] [[🔗Discord\|🔗Discord]] 
 
+>[!bug] **Home** Doctor Linfocito P 👨‍⚕️
+> - **Redes sociales**
 # Linfocito - Medicina Humana 👨‍⚕️
 ![baner-medicinah.png](/img/user/21%20Web%20%F0%9F%8C%90/%F0%9F%92%BE%20Adjuntos/baner-medicinah.png)
 ## Ciencias preclínicas
